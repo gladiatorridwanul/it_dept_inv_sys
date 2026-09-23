@@ -1,0 +1,274 @@
+[25-May-2026 16:22:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.payment_amount' in 'field list' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/make_payment.php:38
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/make_payment.php(38): PDO->query()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/make_payment.php on line 38
+[25-May-2026 16:37:23 UTC] PHP Warning:  Undefined array key "bill_date" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/generate_payment_slip.php on line 29
+[25-May-2026 16:39:23 UTC] PHP Warning:  Undefined array key "bill_date" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/generate_payment_slip.php on line 29
+[26-May-2026 18:31:53 UTC] PHP Warning:  Undefined variable $payment_amount in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/make_payment.php on line 21
+[26-May-2026 18:31:53 UTC] PHP Warning:  Undefined variable $payment_amount in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/make_payment.php on line 29
+[26-May-2026 18:31:53 UTC] PHP Warning:  Undefined variable $payment_amount in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/make_payment.php on line 30
+[26-May-2026 18:31:53 UTC] PHP Warning:  Undefined variable $payment_amount in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/make_payment.php on line 46
+[26-May-2026 18:31:53 UTC] PHP Warning:  Undefined variable $bill in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/make_payment.php on line 46
+[26-May-2026 18:31:53 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/make_payment.php on line 46
+[26-May-2026 18:31:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'amount' cannot be null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/make_payment.php:46
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/make_payment.php(46): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/make_payment.php on line 46
+[29-May-2026 18:29:27 UTC] PHP Warning:  Undefined variable $vendor in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/view_bill.php on line 382
+[29-May-2026 18:29:27 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/view_bill.php on line 382
+[29-May-2026 18:29:27 UTC] PHP Warning:  Undefined variable $vendor in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/view_bill.php on line 384
+[29-May-2026 18:29:27 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/view_bill.php on line 384
+[29-May-2026 18:29:27 UTC] PHP Warning:  Undefined variable $vendor in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/view_bill.php on line 385
+[29-May-2026 18:29:27 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/view_bill.php on line 385
+[29-May-2026 18:29:27 UTC] PHP Warning:  Undefined variable $vendor in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/view_bill.php on line 386
+[29-May-2026 18:29:27 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/view_bill.php on line 386
+[29-May-2026 18:29:27 UTC] PHP Warning:  Undefined variable $vendor in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/view_bill.php on line 387
+[29-May-2026 18:29:27 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/view_bill.php on line 387
+[29-May-2026 18:29:27 UTC] PHP Warning:  Undefined variable $vendor in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/view_bill.php on line 399
+[29-May-2026 18:29:27 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/view_bill.php on line 399
+[29-May-2026 18:29:27 UTC] PHP Warning:  Undefined variable $vendor in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/view_bill.php on line 401
+[29-May-2026 18:29:27 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/view_bill.php on line 401
+[29-May-2026 18:34:12 UTC] PHP Warning:  Undefined variable $data in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/generate_acknowledgement.php on line 37
+[29-May-2026 18:35:09 UTC] PHP Warning:  Undefined variable $data in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/generate_acknowledgement.php on line 37
+[14-Jun-2026 17:10:46 UTC] PHP Parse error:  Unclosed '[' does not match ')' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/receive_bill.php on line 232
+[14-Jun-2026 17:17:16 UTC] PHP Warning:  Undefined variable $payment_mode in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/make_payment.php on line 529
+[14-Jun-2026 18:07:43 UTC] PHP Fatal error:  Cannot redeclare function generateNumber() (previously declared in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/create_bill.php:24) in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/create_bill.php on line 850
+[15-Jun-2026 07:37:12 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/create_bill.php on line 244
+[15-Jun-2026 07:37:12 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/create_bill.php on line 244
+[15-Jun-2026 07:37:12 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/create_bill.php on line 244
+[15-Jun-2026 07:37:12 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/create_bill.php on line 244
+[15-Jun-2026 07:37:12 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/create_bill.php on line 244
+[15-Jun-2026 07:37:12 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/create_bill.php on line 244
+[15-Jun-2026 11:26:52 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/create_bill.php on line 244
+[15-Jun-2026 11:26:52 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/create_bill.php on line 244
+[15-Jun-2026 11:26:52 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/create_bill.php on line 244
+[15-Jun-2026 11:26:52 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/create_bill.php on line 244
+[15-Jun-2026 11:26:52 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/create_bill.php on line 244
+[15-Jun-2026 11:26:52 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/create_bill.php on line 244
+[15-Jun-2026 11:26:52 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/create_bill.php on line 244
+[15-Jun-2026 11:26:52 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/create_bill.php on line 244
+[15-Jun-2026 11:26:52 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/create_bill.php on line 244
+[15-Jun-2026 11:26:52 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/create_bill.php on line 244
+[15-Jun-2026 11:26:52 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/create_bill.php on line 244
+[15-Jun-2026 11:26:52 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/create_bill.php on line 244
+[15-Jun-2026 11:26:52 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/create_bill.php on line 244
+[15-Jun-2026 11:26:52 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/create_bill.php on line 244
+[15-Jun-2026 11:26:52 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/create_bill.php on line 244
+[15-Jun-2026 11:26:52 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/create_bill.php on line 244
+[15-Jun-2026 11:26:52 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/create_bill.php on line 244
+[15-Jun-2026 11:26:52 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/create_bill.php on line 244
+[23-Jul-2026 08:36:03 UTC] Session empty on: /modules/bills/receive_bill.php
+[24-Jul-2026 10:32:01 UTC] Session active for user: 1
+[24-Jul-2026 10:32:01 UTC] PHP Warning:  Undefined array key "remaining_budget" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/receive_bill.php on line 521
+[24-Jul-2026 10:32:47 UTC] Session active for user: 1
+[24-Jul-2026 10:32:49 UTC] Session active for user: 1
+[24-Jul-2026 10:32:51 UTC] Session active for user: 1
+[26-Jul-2026 03:06:00 UTC] Session active for user: 4
+[26-Jul-2026 03:06:00 UTC] PHP Warning:  Undefined array key "remaining_budget" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/receive_bill.php on line 521
+[26-Jul-2026 03:24:42 UTC] Session active for user: 4
+[26-Jul-2026 03:24:42 UTC] PHP Warning:  Undefined array key "remaining_budget" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/receive_bill.php on line 521
+[26-Jul-2026 03:24:44 UTC] Session active for user: 4
+[26-Jul-2026 03:31:44 UTC] Session active for user: 6
+[26-Jul-2026 03:31:44 UTC] PHP Warning:  Undefined array key "remaining_budget" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/receive_bill.php on line 521
+[26-Jul-2026 03:31:53 UTC] Session active for user: 6
+[26-Jul-2026 04:14:34 UTC] Session active for user: 1
+[26-Jul-2026 04:14:34 UTC] PHP Warning:  Undefined array key "remaining_budget" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/receive_bill.php on line 521
+[26-Jul-2026 04:14:37 UTC] Session active for user: 1
+[26-Jul-2026 05:39:57 UTC] Session active for user: 1
+[26-Jul-2026 05:39:57 UTC] PHP Warning:  Undefined array key "remaining_budget" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/receive_bill.php on line 521
+[29-Jul-2026 06:17:33 UTC] Session active for user: 1
+[29-Jul-2026 06:17:40 UTC] Session active for user: 1
+[11-Aug-2026 04:02:55 UTC] Session active for user: 1 on /modules/bills/receive_bill.php
+[11-Aug-2026 04:02:55 UTC] PHP Warning:  Undefined array key "remaining_budget" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/receive_bill.php on line 521
+[11-Aug-2026 04:02:56 UTC] Session active for user: 1 on /modules/bills/list_bills.php
+[11-Aug-2026 04:52:03 UTC] Session active for user: 4 on /modules/bills/receive_bill.php
+[11-Aug-2026 04:52:03 UTC] PHP Warning:  Undefined array key "remaining_budget" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/receive_bill.php on line 521
+[11-Aug-2026 04:52:09 UTC] Session active for user: 4 on /modules/bills/list_bills.php
+[11-Aug-2026 04:52:17 UTC] Session active for user: 4 on /modules/bills/generate_payment_slip.php?bill_id=19
+[12-Aug-2026 06:21:00 UTC] Session active for user: 4 on /modules/bills/receive_bill.php
+[12-Aug-2026 06:22:59 UTC] Session active for user: 4 on /modules/bills/receive_bill.php
+[12-Aug-2026 06:23:20 UTC] Session active for user: 4 on /modules/bills/list_bills.php
+[12-Aug-2026 06:23:47 UTC] Session active for user: 4 on /modules/bills/receive_bill.php
+[12-Aug-2026 06:23:54 UTC] Session active for user: 4 on /modules/bills/list_bills.php
+[12-Aug-2026 06:24:04 UTC] Session active for user: 4 on /modules/bills/list_bills.php
+[12-Aug-2026 06:24:06 UTC] Session active for user: 4 on /modules/bills/receive_bill.php
+[12-Aug-2026 06:24:33 UTC] Session active for user: 4 on /modules/bills/list_bills.php
+[12-Aug-2026 06:25:14 UTC] Session active for user: 4 on /modules/bills/get_bill_details.php
+[12-Aug-2026 06:25:18 UTC] Session active for user: 4 on /modules/bills/get_bill_details.php
+[12-Aug-2026 06:25:26 UTC] Session active for user: 4 on /modules/bills/generate_payment_slip.php?bill_id=19
+[12-Aug-2026 06:25:35 UTC] Session active for user: 4 on /modules/bills/generate_acknowledgement.php?bill_id=19
+[12-Aug-2026 06:25:58 UTC] Session active for user: 4 on /modules/bills/list_bills.php?status=paid
+[12-Aug-2026 06:26:01 UTC] Session active for user: 4 on /modules/bills/list_bills.php?status=pending
+[12-Aug-2026 06:26:03 UTC] Session active for user: 4 on /modules/bills/list_bills.php?status=partial
+[12-Aug-2026 06:26:05 UTC] Session active for user: 4 on /modules/bills/list_bills.php?status=paid
+[12-Aug-2026 06:27:46 UTC] Session active for user: 4 on /modules/bills/receive_bill.php
+[12-Aug-2026 06:27:56 UTC] Session active for user: 4 on /modules/bills/list_bills.php
+[12-Aug-2026 06:28:01 UTC] Session active for user: 4 on /modules/bills/receive_bill.php
+[12-Aug-2026 06:31:33 UTC] Session active for user: 4 on /modules/bills/list_bills.php
+[12-Aug-2026 06:55:57 UTC] Session active for user: 1 on /modules/bills/receive_bill.php
+[12-Aug-2026 06:55:59 UTC] Session active for user: 1 on /modules/bills/list_bills.php
+[12-Aug-2026 06:56:08 UTC] Session active for user: 1 on /modules/bills/receive_bill.php
+[12-Aug-2026 06:56:32 UTC] Session active for user: 1 on /modules/bills/receive_bill.php
+[12-Aug-2026 06:56:55 UTC] Session active for user: 1 on /modules/bills/list_bills.php
+[12-Aug-2026 06:56:58 UTC] Session active for user: 1 on /modules/bills/receive_bill.php
+[12-Aug-2026 06:57:00 UTC] Session active for user: 1 on /modules/bills/list_bills.php
+[12-Aug-2026 06:57:33 UTC] Session active for user: 1 on /modules/bills/receive_bill.php
+[12-Aug-2026 06:57:35 UTC] Session active for user: 1 on /modules/bills/list_bills.php
+[12-Aug-2026 06:58:00 UTC] Session active for user: 1 on /modules/bills/receive_bill.php?stock_id=15&vendor_id=7
+[12-Aug-2026 07:07:12 UTC] Session active for user: 1 on /modules/bills/list_bills.php
+[12-Aug-2026 07:52:17 UTC] Session empty on: /modules/bills/list_bills.php
+[12-Aug-2026 07:52:26 UTC] Session active for user: 1 on /modules/bills/list_bills.php
+[12-Aug-2026 07:52:39 UTC] Session active for user: 1 on /modules/bills/list_bills.php
+[12-Aug-2026 07:52:42 UTC] Session active for user: 1 on /modules/bills/receive_bill.php
+[12-Aug-2026 07:56:31 UTC] Session active for user: 1 on /modules/bills/list_bills.php
+[12-Aug-2026 07:56:33 UTC] Session active for user: 1 on /modules/bills/create_bill.php
+[12-Aug-2026 08:27:44 UTC] Session active for user: 1 on /modules/bills/create_bill.php
+[12-Aug-2026 08:30:27 UTC] Session active for user: 4 on /modules/bills/receive_bill.php?stock_id=11&vendor_id=10
+[12-Aug-2026 08:31:02 UTC] Session active for user: 1 on /modules/bills/list_bills.php
+[12-Aug-2026 08:31:04 UTC] Session active for user: 1 on /modules/bills/create_bill.php
+[12-Aug-2026 08:37:12 UTC] Session active for user: 1 on /modules/bills/create_bill.php
+[12-Aug-2026 08:37:34 UTC] Session active for user: 1 on /modules/bills/receive_bill.php
+[12-Aug-2026 08:43:57 UTC] Session active for user: 1 on /modules/bills/receive_bill.php
+[12-Aug-2026 08:44:11 UTC] Session active for user: 1 on /modules/bills/receive_bill.php
+[12-Aug-2026 08:55:31 UTC] Session active for user: 1 on /modules/bills/receive_bill.php
+[12-Aug-2026 08:55:36 UTC] Session active for user: 1 on /modules/bills/receive_bill.php
+[12-Aug-2026 08:55:36 UTC] Session active for user: 1 on /modules/bills/receive_bill.php
+[12-Aug-2026 08:56:47 UTC] Session active for user: 1 on /modules/bills/receive_bill.php
+[12-Aug-2026 08:56:48 UTC] Session active for user: 1 on /modules/bills/receive_bill.php
+[12-Aug-2026 08:57:21 UTC] Session active for user: 1 on /modules/bills/receive_bill.php
+[12-Aug-2026 08:57:30 UTC] Session active for user: 1 on /modules/bills/list_bills.php
+[12-Aug-2026 08:57:33 UTC] Session active for user: 1 on /modules/bills/create_bill.php
+[12-Aug-2026 08:57:46 UTC] Session active for user: 1 on /modules/bills/receive_bill.php
+[12-Aug-2026 08:58:54 UTC] Session active for user: 1 on /modules/bills/list_bills.php
+[12-Aug-2026 08:59:05 UTC] Session active for user: 1 on /modules/bills/receive_bill.php
+[12-Aug-2026 09:14:41 UTC] Session active for user: 1 on /modules/bills/receive_bill.php
+[12-Aug-2026 09:18:09 UTC] Session active for user: 1 on /modules/bills/receive_bill.php
+[12-Aug-2026 09:18:15 UTC] Session active for user: 1 on /modules/bills/receive_bill.php
+[12-Aug-2026 09:19:12 UTC] Session active for user: 1 on /modules/bills/receive_bill.php
+[12-Aug-2026 09:21:03 UTC] Session active for user: 1 on /modules/bills/receive_bill.php
+[12-Aug-2026 09:21:05 UTC] Session active for user: 1 on /modules/bills/get_vendor_invoices.php?vendor_id=11
+[12-Aug-2026 09:21:05 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 41) in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/get_vendor_invoices.php on line 4
+[12-Aug-2026 09:21:05 UTC] get_vendor_invoices: vendor_id=11, found=2
+[12-Aug-2026 09:21:38 UTC] Session active for user: 1 on /modules/bills/get_vendor_invoices.php?vendor_id=8
+[12-Aug-2026 09:21:38 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 41) in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/get_vendor_invoices.php on line 4
+[12-Aug-2026 09:21:38 UTC] get_vendor_invoices: vendor_id=8, found=0
+[12-Aug-2026 09:21:38 UTC] get_vendor_invoices: vendor_id=8, total records in stock_in=0
+[12-Aug-2026 09:21:39 UTC] Session active for user: 1 on /modules/bills/get_vendor_invoices.php?vendor_id=16
+[12-Aug-2026 09:21:39 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 41) in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/get_vendor_invoices.php on line 4
+[12-Aug-2026 09:21:39 UTC] get_vendor_invoices: vendor_id=16, found=0
+[12-Aug-2026 09:21:39 UTC] get_vendor_invoices: vendor_id=16, total records in stock_in=0
+[12-Aug-2026 09:21:40 UTC] Session active for user: 1 on /modules/bills/get_vendor_invoices.php?vendor_id=15
+[12-Aug-2026 09:21:40 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 41) in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/get_vendor_invoices.php on line 4
+[12-Aug-2026 09:21:40 UTC] get_vendor_invoices: vendor_id=15, found=0
+[12-Aug-2026 09:21:40 UTC] get_vendor_invoices: vendor_id=15, total records in stock_in=0
+[12-Aug-2026 09:21:41 UTC] Session active for user: 1 on /modules/bills/get_vendor_invoices.php?vendor_id=5
+[12-Aug-2026 09:21:41 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 41) in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/get_vendor_invoices.php on line 4
+[12-Aug-2026 09:21:41 UTC] get_vendor_invoices: vendor_id=5, found=1
+[12-Aug-2026 09:21:48 UTC] Session active for user: 1 on /modules/bills/get_vendor_invoices.php?vendor_id=9
+[12-Aug-2026 09:21:48 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 41) in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/get_vendor_invoices.php on line 4
+[12-Aug-2026 09:21:48 UTC] get_vendor_invoices: vendor_id=9, found=1
+[12-Aug-2026 09:21:52 UTC] Session active for user: 1 on /modules/bills/get_vendor_invoices.php?vendor_id=14
+[12-Aug-2026 09:21:52 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 41) in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/get_vendor_invoices.php on line 4
+[12-Aug-2026 09:21:52 UTC] get_vendor_invoices: vendor_id=14, found=3
+[12-Aug-2026 09:21:55 UTC] Session active for user: 1 on /modules/bills/get_vendor_invoices.php?vendor_id=10
+[12-Aug-2026 09:21:55 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 41) in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/get_vendor_invoices.php on line 4
+[12-Aug-2026 09:21:55 UTC] get_vendor_invoices: vendor_id=10, found=1
+[12-Aug-2026 09:21:59 UTC] Session active for user: 1 on /modules/bills/get_vendor_invoices.php?vendor_id=7
+[12-Aug-2026 09:21:59 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 41) in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/get_vendor_invoices.php on line 4
+[12-Aug-2026 09:21:59 UTC] get_vendor_invoices: vendor_id=7, found=3
+[12-Aug-2026 09:22:08 UTC] Session active for user: 1 on /modules/bills/list_bills.php
+[12-Aug-2026 09:22:09 UTC] Session active for user: 1 on /modules/bills/receive_bill.php
+[12-Aug-2026 09:22:10 UTC] Session active for user: 1 on /modules/bills/receive_bill.php
+[12-Aug-2026 09:26:20 UTC] Session active for user: 4 on /modules/bills/list_bills.php
+[12-Aug-2026 09:26:22 UTC] Session active for user: 4 on /modules/bills/create_bill.php
+[12-Aug-2026 09:27:14 UTC] Session active for user: 4 on /modules/bills/create_bill.php
+[12-Aug-2026 09:27:20 UTC] Session active for user: 4 on /modules/bills/receive_bill.php
+[12-Aug-2026 09:27:25 UTC] Session active for user: 4 on /modules/bills/get_vendor_invoices.php?vendor_id=10
+[12-Aug-2026 09:27:25 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 41) in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/get_vendor_invoices.php on line 4
+[12-Aug-2026 09:27:25 UTC] get_vendor_invoices: vendor_id=10, found=1
+[12-Aug-2026 09:28:52 UTC] Session active for user: 4 on /modules/bills/list_bills.php
+[12-Aug-2026 09:31:51 UTC] Session active for user: 4 on /modules/bills/receive_bill.php
+[12-Aug-2026 09:31:53 UTC] Session active for user: 4 on /modules/bills/list_bills.php
+[12-Aug-2026 09:32:03 UTC] Session active for user: 4 on /modules/bills/get_bill_details.php
+[12-Aug-2026 09:32:14 UTC] Session active for user: 4 on /modules/bills/create_bill.php
+[12-Aug-2026 09:33:02 UTC] Session active for user: 4 on /modules/bills/create_bill.php
+[12-Aug-2026 09:33:19 UTC] Session active for user: 4 on /modules/bills/list_bills.php
+[12-Aug-2026 09:33:30 UTC] Session active for user: 4 on /modules/bills/make_payment.php?id=22
+[12-Aug-2026 09:34:02 UTC] Session active for user: 4 on /modules/bills/make_payment.php?id=22
+[12-Aug-2026 09:34:05 UTC] Session active for user: 4 on /modules/bills/generate_payment_slip.php?slip_id=16
+[12-Aug-2026 09:34:41 UTC] Session active for user: 4 on /modules/bills/make_payment.php
+[12-Aug-2026 09:37:22 UTC] Session active for user: 4 on /modules/bills/receive_bill.php
+[12-Aug-2026 09:37:26 UTC] Session active for user: 4 on /modules/bills/get_vendor_invoices.php?vendor_id=10
+[12-Aug-2026 09:37:26 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 41) in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/get_vendor_invoices.php on line 4
+[12-Aug-2026 09:37:26 UTC] get_vendor_invoices: vendor_id=10, found=1
+[12-Aug-2026 09:37:56 UTC] Session active for user: 4 on /modules/bills/list_bills.php
+[12-Aug-2026 09:38:33 UTC] Session active for user: 4 on /modules/bills/generate_acknowledgement.php?bill_id=22
+[12-Aug-2026 10:58:23 UTC] Session active for user: 1 on /modules/bills/receive_bill.php
+[12-Aug-2026 10:58:26 UTC] Session active for user: 1 on /modules/bills/get_vendor_invoices.php?vendor_id=7
+[12-Aug-2026 10:58:26 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 41) in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/get_vendor_invoices.php on line 4
+[12-Aug-2026 10:58:26 UTC] get_vendor_invoices: vendor_id=7, found=3
+[12-Aug-2026 10:58:30 UTC] Session active for user: 1 on /modules/bills/list_bills.php
+[12-Aug-2026 10:58:33 UTC] Session active for user: 1 on /modules/bills/create_bill.php
+[12-Aug-2026 10:58:51 UTC] Session active for user: 1 on /modules/bills/list_bills.php
+[12-Aug-2026 10:59:07 UTC] Session active for user: 1 on /modules/bills/generate_payment_slip.php?bill_id=22
+[12-Aug-2026 10:59:09 UTC] Session active for user: 1 on /modules/bills/make_payment.php
+[12-Aug-2026 10:59:21 UTC] Session active for user: 1 on /modules/bills/make_payment.php?id=21
+[12-Aug-2026 10:59:30 UTC] Session active for user: 1 on /modules/bills/list_bills.php
+[13-Aug-2026 11:10:17 UTC] Session active for user: 6 on /modules/bills/receive_bill.php
+[13-Aug-2026 11:10:20 UTC] Session active for user: 6 on /modules/bills/list_bills.php
+[16-Aug-2026 03:55:52 UTC] Session active for user: 1 on /modules/bills/receive_bill.php
+[16-Aug-2026 03:55:52 UTC] PHP Warning:  Undefined array key "remaining_budget" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/receive_bill.php on line 555
+[16-Aug-2026 03:55:55 UTC] Session active for user: 1 on /modules/bills/list_bills.php
+[19-Aug-2026 08:43:37 UTC] Session active for user: 6 on /modules/bills/receive_bill.php?stock_id=17&vendor_id=5
+[19-Aug-2026 08:43:37 UTC] Session active for user: 6 on /modules/bills/get_vendor_invoices.php?vendor_id=5
+[19-Aug-2026 08:43:37 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 41) in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/get_vendor_invoices.php on line 4
+[19-Aug-2026 08:43:37 UTC] get_vendor_invoices: vendor_id=5, found=1
+[19-Aug-2026 08:45:36 UTC] Session active for user: 6 on /modules/bills/receive_bill.php
+[19-Aug-2026 08:45:40 UTC] Session active for user: 6 on /modules/bills/get_vendor_invoices.php?vendor_id=5
+[19-Aug-2026 08:45:40 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 41) in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/get_vendor_invoices.php on line 4
+[19-Aug-2026 08:45:40 UTC] get_vendor_invoices: vendor_id=5, found=1
+[19-Aug-2026 08:45:41 UTC] Session active for user: 6 on /modules/bills/get_vendor_invoices.php?vendor_id=5
+[19-Aug-2026 08:45:41 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 41) in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/get_vendor_invoices.php on line 4
+[19-Aug-2026 08:45:41 UTC] get_vendor_invoices: vendor_id=5, found=1
+[19-Aug-2026 08:45:41 UTC] Session active for user: 6 on /modules/bills/get_vendor_invoices.php?vendor_id=5
+[19-Aug-2026 08:45:41 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 41) in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/get_vendor_invoices.php on line 4
+[19-Aug-2026 08:45:41 UTC] get_vendor_invoices: vendor_id=5, found=1
+[19-Aug-2026 08:45:42 UTC] Session active for user: 6 on /modules/bills/get_vendor_invoices.php?vendor_id=5
+[19-Aug-2026 08:45:42 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 41) in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/get_vendor_invoices.php on line 4
+[19-Aug-2026 08:45:42 UTC] get_vendor_invoices: vendor_id=5, found=1
+[19-Aug-2026 08:45:42 UTC] Session active for user: 6 on /modules/bills/get_vendor_invoices.php?vendor_id=5
+[19-Aug-2026 08:45:42 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 41) in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/get_vendor_invoices.php on line 4
+[19-Aug-2026 08:45:42 UTC] get_vendor_invoices: vendor_id=5, found=1
+[19-Aug-2026 08:45:42 UTC] Session active for user: 6 on /modules/bills/get_vendor_invoices.php?vendor_id=5
+[19-Aug-2026 08:45:42 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 41) in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/get_vendor_invoices.php on line 4
+[19-Aug-2026 08:45:42 UTC] get_vendor_invoices: vendor_id=5, found=1
+[20-Aug-2026 03:45:45 UTC] Session active for user: 1 on /modules/bills/receive_bill.php
+[20-Aug-2026 03:45:48 UTC] Session active for user: 1 on /modules/bills/list_bills.php
+[20-Aug-2026 03:46:26 UTC] Session active for user: 1 on /modules/bills/receive_bill.php
+[20-Aug-2026 03:46:28 UTC] Session active for user: 1 on /modules/bills/get_vendor_invoices.php?vendor_id=7
+[20-Aug-2026 03:46:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 41) in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/get_vendor_invoices.php on line 4
+[20-Aug-2026 03:46:28 UTC] get_vendor_invoices: vendor_id=7, found=1
+[20-Aug-2026 03:59:46 UTC] Session active for user: 1 on /modules/bills/receive_bill.php
+[20-Aug-2026 03:59:46 UTC] PHP Warning:  Undefined array key "remaining_budget" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/receive_bill.php on line 555
+[20-Aug-2026 03:59:48 UTC] Session active for user: 1 on /modules/bills/list_bills.php
+[20-Aug-2026 10:27:52 UTC] Session active for user: 4 on /modules/bills/list_bills.php
+[24-Aug-2026 04:21:34 UTC] Session active for user: 6 on /modules/bills/receive_bill.php?stock_id=22&vendor_id=14
+[24-Aug-2026 04:21:34 UTC] PHP Warning:  Undefined array key "remaining_budget" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/receive_bill.php on line 555
+[24-Aug-2026 04:21:35 UTC] Session active for user: 6 on /modules/bills/get_vendor_invoices.php?vendor_id=14
+[24-Aug-2026 04:21:35 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 41) in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/bills/get_vendor_invoices.php on line 4
+[24-Aug-2026 04:21:35 UTC] get_vendor_invoices: vendor_id=14, found=4
+[30-Aug-2026 03:36:17 UTC] Session active for user: 1 on /modules/bills/list_bills.php
+[30-Aug-2026 03:49:55 UTC] Session active for user: 1 on /modules/bills/list_bills.php?status=pending
+[30-Aug-2026 03:49:56 UTC] Session active for user: 1 on /modules/bills/list_bills.php?status=partial
+[30-Aug-2026 03:49:57 UTC] Session active for user: 1 on /modules/bills/list_bills.php?status=paid
+[30-Aug-2026 03:49:59 UTC] Session active for user: 1 on /modules/bills/list_bills.php?status=all
+[30-Aug-2026 03:50:00 UTC] Session active for user: 1 on /modules/bills/list_bills.php?status=pending
+[30-Aug-2026 03:50:01 UTC] Session active for user: 1 on /modules/bills/list_bills.php?status=partial
+[30-Aug-2026 03:50:02 UTC] Session active for user: 1 on /modules/bills/list_bills.php?status=paid
+[30-Aug-2026 03:50:04 UTC] Session active for user: 1 on /modules/bills/list_bills.php?status=paid
+[30-Aug-2026 03:50:04 UTC] Session active for user: 1 on /modules/bills/list_bills.php?status=partial
+[30-Aug-2026 03:50:05 UTC] Session active for user: 1 on /modules/bills/list_bills.php?status=pending
+[30-Aug-2026 03:50:06 UTC] Session active for user: 1 on /modules/bills/list_bills.php?status=all
+[30-Aug-2026 03:50:07 UTC] Session active for user: 1 on /modules/bills/list_bills.php?status=pending

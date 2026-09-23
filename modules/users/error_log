@@ -1,0 +1,27 @@
+[26-Jul-2026 03:08:31 UTC] Session active for user: 4
+[26-Jul-2026 03:08:57 UTC] Session active for user: 4
+[26-Jul-2026 07:24:28 UTC] Session active for user: 1
+[04-Aug-2026 03:02:10 UTC] Session active for user: 1
+[04-Aug-2026 03:02:24 UTC] Session active for user: 1
+[04-Aug-2026 03:59:37 UTC] Session active for user: 4
+[04-Aug-2026 07:49:38 UTC] Session active for user: 1 at /modules/users/permissions.php
+[04-Aug-2026 07:49:55 UTC] Session active for user: 1 at /modules/users/permissions.php
+[04-Aug-2026 07:49:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bhsheadache/public_html/it-inventory.bhs-headache.org/includes/header.php:88) in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/users/permissions.php on line 108
+[11-Aug-2026 04:24:17 UTC] Session active for user: 4 on /modules/users/profile.php
+[11-Aug-2026 05:52:00 UTC] Session active for user: 4 on /modules/users/list.php
+[11-Aug-2026 06:19:24 UTC] Session active for user: 4 on /modules/users/list.php
+[11-Aug-2026 06:19:31 UTC] Session active for user: 4 on /modules/users/permissions.php
+[11-Aug-2026 06:19:45 UTC] Session active for user: 4 on /modules/users/permissions.php?role_id=1
+[11-Aug-2026 06:19:47 UTC] Session active for user: 4 on /modules/users/permissions.php?role_id=2
+[11-Aug-2026 06:19:48 UTC] Session active for user: 4 on /modules/users/permissions.php?role_id=1
+[11-Aug-2026 06:19:54 UTC] Session active for user: 4 on /modules/users/roles.php
+[12-Aug-2026 08:31:59 UTC] Session active for user: 4 on /modules/users/list.php
+[12-Aug-2026 11:07:02 UTC] Session active for user: 1 on /modules/users/list.php
+[12-Aug-2026 11:07:06 UTC] Session active for user: 1 on /modules/users/permissions.php
+[12-Aug-2026 11:07:10 UTC] Session active for user: 1 on /modules/users/roles.php
+[12-Aug-2026 11:07:16 UTC] Session empty on: /modules/users/permissions.php
+[13-Aug-2026 11:45:42 UTC] Session active for user: 6 on /modules/users/list.php
+[13-Aug-2026 11:45:49 UTC] Session active for user: 6 on /modules/users/change_password.php
+[17-Aug-2026 04:01:17 UTC] Session active for user: 4 on /modules/users/profile.php
+[23-Aug-2026 03:51:48 UTC] Session active for user: 1 on /modules/users/roles.php
+[23-Aug-2026 05:04:08 UTC] Session active for user: 4 on /modules/users/permissions.php

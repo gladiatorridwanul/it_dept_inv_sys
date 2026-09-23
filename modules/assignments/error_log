@@ -1,0 +1,475 @@
+[31-May-2026 19:11:46 UTC] PHP Warning:  Undefined array key "updated_at" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/edit.php on line 378
+[31-May-2026 19:12:06 UTC] PHP Warning:  Undefined array key "updated_at" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/edit.php on line 378
+[01-Jun-2026 11:03:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bhsheadache_in_inventory.assignment_comments' doesn't exist in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/view.php:46
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/view.php(46): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/view.php on line 46
+[02-Jun-2026 10:47:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'isn.assignment_id' in 'on clause' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/edit.php:24
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/edit.php(24): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/edit.php on line 24
+[02-Jun-2026 10:48:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'isn.assignment_id' in 'on clause' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/view.php:35
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/view.php(35): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/view.php on line 35
+[02-Jun-2026 10:49:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'isn.assignment_id' in 'on clause' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/view.php:35
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/view.php(35): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/view.php on line 35
+[26-Jul-2026 03:06:29 UTC] Session active for user: 4
+[26-Jul-2026 03:06:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'where clause' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php:200
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php(200): PDO->query()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php on line 200
+[26-Jul-2026 03:06:55 UTC] Session active for user: 4
+[26-Jul-2026 03:06:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'field list' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php:144
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php(144): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php on line 144
+[26-Jul-2026 03:07:00 UTC] Session active for user: 4
+[26-Jul-2026 03:07:05 UTC] Session active for user: 4
+[26-Jul-2026 03:07:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'field list' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php:144
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php(144): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php on line 144
+[26-Jul-2026 03:10:59 UTC] Session active for user: 4
+[26-Jul-2026 03:10:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'field list' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php:144
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php(144): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php on line 144
+[26-Jul-2026 03:11:03 UTC] Session active for user: 4
+[26-Jul-2026 03:11:16 UTC] Session active for user: 4
+[26-Jul-2026 03:11:16 UTC] Session active for user: 4
+[26-Jul-2026 03:21:50 UTC] Session active for user: 6
+[26-Jul-2026 03:23:50 UTC] Session active for user: 6
+[26-Jul-2026 03:23:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/assign.php:147
+Stack trace:
+#0 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/assign.php on line 147
+[26-Jul-2026 03:23:59 UTC] Session active for user: 4
+[26-Jul-2026 03:23:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'field list' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php:144
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php(144): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php on line 144
+[26-Jul-2026 03:24:02 UTC] Session active for user: 4
+[26-Jul-2026 03:24:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'where clause' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php:200
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php(200): PDO->query()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php on line 200
+[26-Jul-2026 03:24:18 UTC] Session active for user: 4
+[26-Jul-2026 03:24:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'field list' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php:144
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php(144): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php on line 144
+[26-Jul-2026 03:24:48 UTC] Session active for user: 4
+[26-Jul-2026 03:24:51 UTC] Session active for user: 4
+[26-Jul-2026 03:24:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'field list' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php:144
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php(144): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php on line 144
+[26-Jul-2026 03:25:27 UTC] Session active for user: 4
+[26-Jul-2026 03:25:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'field list' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php:144
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php(144): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php on line 144
+[26-Jul-2026 03:25:30 UTC] Session active for user: 6
+[26-Jul-2026 03:25:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'field list' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php:144
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php(144): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php on line 144
+[26-Jul-2026 03:25:34 UTC] Session active for user: 6
+[26-Jul-2026 03:25:44 UTC] Session active for user: 6
+[26-Jul-2026 03:25:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'field list' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php:144
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php(144): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php on line 144
+[26-Jul-2026 03:25:48 UTC] Session active for user: 6
+[26-Jul-2026 03:25:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'where clause' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php:200
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php(200): PDO->query()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php on line 200
+[26-Jul-2026 03:25:51 UTC] Session active for user: 6
+[26-Jul-2026 03:25:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'where clause' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php:200
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php(200): PDO->query()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php on line 200
+[26-Jul-2026 03:26:38 UTC] Session active for user: 6
+[26-Jul-2026 03:26:53 UTC] Session active for user: 4
+[26-Jul-2026 03:26:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'field list' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php:144
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php(144): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php on line 144
+[26-Jul-2026 03:27:14 UTC] Session active for user: 4
+[26-Jul-2026 03:27:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'where clause' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php:200
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php(200): PDO->query()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php on line 200
+[26-Jul-2026 03:27:29 UTC] Session active for user: 4
+[26-Jul-2026 03:27:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'field list' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php:144
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php(144): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php on line 144
+[26-Jul-2026 03:27:58 UTC] Session active for user: 6
+[26-Jul-2026 04:02:33 UTC] Session active for user: 1
+[26-Jul-2026 04:02:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'field list' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php:144
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php(144): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php on line 144
+[26-Jul-2026 04:02:38 UTC] Session active for user: 1
+[26-Jul-2026 04:02:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'field list' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php:144
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php(144): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php on line 144
+[26-Jul-2026 04:02:39 UTC] Session empty on: /modules/assignments/list.php
+[26-Jul-2026 04:03:55 UTC] Session active for user: 1
+[26-Jul-2026 04:03:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'field list' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php:144
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php(144): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php on line 144
+[26-Jul-2026 04:04:03 UTC] Session active for user: 1
+[26-Jul-2026 04:04:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'where clause' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php:200
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php(200): PDO->query()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php on line 200
+[26-Jul-2026 04:04:05 UTC] Session active for user: 1
+[26-Jul-2026 04:04:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'where clause' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php:200
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php(200): PDO->query()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php on line 200
+[26-Jul-2026 04:10:44 UTC] Session active for user: 1
+[26-Jul-2026 04:10:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'where clause' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php:200
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php(200): PDO->query()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php on line 200
+[26-Jul-2026 04:14:39 UTC] Session active for user: 1
+[26-Jul-2026 04:14:41 UTC] Session active for user: 1
+[26-Jul-2026 04:14:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'field list' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php:144
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php(144): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php on line 144
+[26-Jul-2026 05:32:46 UTC] Session active for user: 1
+[26-Jul-2026 05:32:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'where clause' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php:200
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php(200): PDO->query()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php on line 200
+[26-Jul-2026 05:32:48 UTC] Session active for user: 1
+[26-Jul-2026 05:32:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'where clause' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php:200
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php(200): PDO->query()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php on line 200
+[26-Jul-2026 05:36:22 UTC] Session active for user: 1
+[26-Jul-2026 05:36:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'where clause' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php:200
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php(200): PDO->query()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php on line 200
+[26-Jul-2026 05:38:58 UTC] Session active for user: 1
+[26-Jul-2026 05:38:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'where clause' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php:200
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php(200): PDO->query()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php on line 200
+[26-Jul-2026 05:39:52 UTC] Session active for user: 1
+[26-Jul-2026 05:39:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'where clause' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php:200
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php(200): PDO->query()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php on line 200
+[26-Jul-2026 05:39:54 UTC] Session active for user: 1
+[26-Jul-2026 05:39:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'where clause' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php:200
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php(200): PDO->query()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php on line 200
+[26-Jul-2026 05:40:00 UTC] Session active for user: 1
+[26-Jul-2026 05:40:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'where clause' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php:200
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php(200): PDO->query()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php on line 200
+[26-Jul-2026 05:40:06 UTC] Session active for user: 1
+[26-Jul-2026 05:40:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'where clause' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php:200
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php(200): PDO->query()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php on line 200
+[26-Jul-2026 05:40:07 UTC] Session active for user: 1
+[26-Jul-2026 05:40:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'where clause' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php:200
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php(200): PDO->query()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php on line 200
+[26-Jul-2026 05:40:44 UTC] Session active for user: 1
+[26-Jul-2026 05:40:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'where clause' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php:200
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php(200): PDO->query()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php on line 200
+[26-Jul-2026 05:44:27 UTC] Session empty on: /modules/assignments/regenerate_barcodes.php
+[26-Jul-2026 05:45:40 UTC] Session active for user: 1
+[26-Jul-2026 05:45:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'where clause' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php:203
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php(203): PDO->query()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php on line 203
+[26-Jul-2026 05:48:07 UTC] Session active for user: 1
+[26-Jul-2026 05:48:17 UTC] Session active for user: 1
+[26-Jul-2026 05:48:32 UTC] Session active for user: 1
+[26-Jul-2026 05:48:33 UTC] Session active for user: 1
+[26-Jul-2026 05:48:39 UTC] Session active for user: 1
+[26-Jul-2026 05:51:31 UTC] Session active for user: 4
+[26-Jul-2026 05:51:38 UTC] Session active for user: 4
+[26-Jul-2026 05:51:42 UTC] Session active for user: 4
+[28-Jul-2026 03:11:48 UTC] Session active for user: 4
+[28-Jul-2026 03:12:00 UTC] Session active for user: 4
+[28-Jul-2026 03:14:10 UTC] Session active for user: 4
+[28-Jul-2026 03:14:34 UTC] Session active for user: 4
+[28-Jul-2026 03:15:52 UTC] Session active for user: 4
+[02-Aug-2026 05:42:29 UTC] Session active for user: 1
+[02-Aug-2026 05:42:32 UTC] Session active for user: 1
+[04-Aug-2026 05:33:23 UTC] Session active for user: 1
+[04-Aug-2026 05:33:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'field list' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php:144
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php(144): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php on line 144
+[04-Aug-2026 05:33:26 UTC] Session active for user: 1
+[04-Aug-2026 05:33:32 UTC] Session active for user: 1
+[04-Aug-2026 05:33:34 UTC] Session active for user: 1
+[04-Aug-2026 05:33:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'field list' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php:144
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php(144): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php on line 144
+[06-Aug-2026 11:37:11 UTC] Session active for user: 4 on /modules/assignments/list.php
+[06-Aug-2026 11:37:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'field list' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php:144
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php(144): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php on line 144
+[06-Aug-2026 11:37:16 UTC] Session active for user: 4 on /modules/assignments/regenerate_barcodes.php
+[06-Aug-2026 11:37:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'where clause' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php:203
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php(203): PDO->query()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php on line 203
+[06-Aug-2026 11:37:18 UTC] Session active for user: 4 on /modules/assignments/list.php
+[06-Aug-2026 11:37:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'field list' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php:144
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php(144): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php on line 144
+[06-Aug-2026 11:37:21 UTC] Session active for user: 4 on /modules/assignments/assign.php
+[10-Aug-2026 03:17:49 UTC] Session active for user: 4 on /modules/assignments/list.php
+[10-Aug-2026 03:17:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'field list' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php:144
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php(144): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php on line 144
+[11-Aug-2026 04:02:58 UTC] Session active for user: 1 on /modules/assignments/assign.php
+[11-Aug-2026 04:03:00 UTC] Session active for user: 1 on /modules/assignments/list.php
+[11-Aug-2026 04:03:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'field list' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php:144
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php(144): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php on line 144
+[11-Aug-2026 04:03:01 UTC] Session active for user: 1 on /modules/assignments/assign.php
+[11-Aug-2026 04:03:06 UTC] Session empty on: /modules/assignments/list.php
+[11-Aug-2026 04:03:52 UTC] Session active for user: 1 on /modules/assignments/list.php
+[11-Aug-2026 04:03:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'field list' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php:144
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php(144): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php on line 144
+[11-Aug-2026 04:03:58 UTC] Session active for user: 1 on /modules/assignments/regenerate_barcodes.php
+[11-Aug-2026 04:03:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'where clause' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php:203
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php(203): PDO->query()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php on line 203
+[11-Aug-2026 04:04:47 UTC] Session active for user: 1 on /modules/assignments/regenerate_barcodes.php
+[11-Aug-2026 04:04:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'where clause' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php:203
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php(203): PDO->query()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php on line 203
+[11-Aug-2026 04:06:08 UTC] Session active for user: 1 on /modules/assignments/regenerate_barcodes.php
+[11-Aug-2026 04:06:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'where clause' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php:203
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php(203): PDO->query()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/regenerate_barcodes.php on line 203
+[11-Aug-2026 04:06:34 UTC] Session active for user: 1 on /modules/assignments/list.php
+[11-Aug-2026 04:06:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.source' in 'field list' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php:144
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php(144): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/list.php on line 144
+[11-Aug-2026 04:07:11 UTC] Session empty on: /modules/assignments/list.php
+[11-Aug-2026 04:07:11 UTC] Session empty on: /modules/assignments/regenerate_barcodes.php
+[11-Aug-2026 04:09:35 UTC] Session empty on: /modules/assignments/list.php
+[11-Aug-2026 04:10:02 UTC] Session active for user: 1 on /modules/assignments/list.php
+[11-Aug-2026 04:10:06 UTC] Session active for user: 1 on /modules/assignments/regenerate_barcodes.php
+[11-Aug-2026 04:10:17 UTC] Session active for user: 1 on /modules/assignments/regenerate_barcodes.php?action=regenerate_all
+[11-Aug-2026 04:10:19 UTC] Session active for user: 1 on /modules/assignments/list.php
+[11-Aug-2026 04:10:34 UTC] Session active for user: 1 on /modules/assignments/edit.php?id=56
+[11-Aug-2026 04:53:14 UTC] Session active for user: 4 on /modules/assignments/assign.php
+[11-Aug-2026 04:54:36 UTC] Session active for user: 4 on /modules/assignments/assign.php
+[11-Aug-2026 04:55:45 UTC] Session active for user: 4 on /modules/assignments/assign.php
+[11-Aug-2026 04:55:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/assign.php:147
+Stack trace:
+#0 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/assign.php on line 147
+[11-Aug-2026 04:56:15 UTC] Session active for user: 4 on /modules/assignments/list.php
+[11-Aug-2026 04:56:27 UTC] Session active for user: 4 on /modules/assignments/view.php?id=57
+[11-Aug-2026 04:58:21 UTC] Session active for user: 4 on /modules/assignments/regenerate_barcodes.php
+[11-Aug-2026 04:58:37 UTC] Session active for user: 4 on /modules/assignments/view.php?id=57
+[11-Aug-2026 06:05:53 UTC] Session active for user: 4 on /modules/assignments/assign.php
+[11-Aug-2026 06:07:39 UTC] Session active for user: 4 on /modules/assignments/assign.php
+[11-Aug-2026 06:07:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/assign.php:147
+Stack trace:
+#0 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/assign.php on line 147
+[11-Aug-2026 06:15:06 UTC] Session active for user: 4 on /modules/assignments/assign.php
+[11-Aug-2026 06:46:09 UTC] Session active for user: 1 on /modules/assignments/assign.php
+[11-Aug-2026 06:46:21 UTC] Session active for user: 1 on /modules/assignments/list.php
+[11-Aug-2026 06:46:23 UTC] Session active for user: 1 on /modules/assignments/assign.php
+[11-Aug-2026 06:46:29 UTC] Session active for user: 1 on /modules/assignments/list.php
+[11-Aug-2026 06:46:30 UTC] Session active for user: 1 on /modules/assignments/view.php?id=58
+[11-Aug-2026 06:57:13 UTC] Session active for user: 1 on /modules/assignments/list.php
+[11-Aug-2026 06:57:14 UTC] Session active for user: 1 on /modules/assignments/assign.php
+[11-Aug-2026 07:02:08 UTC] Session active for user: 1 on /modules/assignments/assign.php
+[11-Aug-2026 07:07:18 UTC] Session active for user: 1 on /modules/assignments/assign.php
+[11-Aug-2026 07:14:01 UTC] Session active for user: 1 on /modules/assignments/list.php
+[11-Aug-2026 07:18:29 UTC] Session active for user: 1 on /modules/assignments/list.php
+[11-Aug-2026 07:18:30 UTC] Session active for user: 1 on /modules/assignments/assign.php
+[11-Aug-2026 07:18:32 UTC] Session active for user: 1 on /modules/assignments/assign.php
+[11-Aug-2026 07:18:50 UTC] Session active for user: 1 on /modules/assignments/assign.php
+[11-Aug-2026 07:18:56 UTC] Session active for user: 1 on /modules/assignments/list.php
+[11-Aug-2026 07:18:59 UTC] Session active for user: 1 on /modules/assignments/assign.php
+[11-Aug-2026 07:19:06 UTC] Session active for user: 1 on /modules/assignments/assign.php
+[11-Aug-2026 07:19:07 UTC] Session active for user: 1 on /modules/assignments/list.php
+[11-Aug-2026 07:19:10 UTC] Session active for user: 1 on /modules/assignments/view.php?id=59
+[11-Aug-2026 07:19:17 UTC] Session active for user: 1 on /modules/assignments/list.php
+[11-Aug-2026 07:19:20 UTC] Session active for user: 1 on /modules/assignments/edit.php?id=59
+[11-Aug-2026 07:19:44 UTC] Session active for user: 1 on /modules/assignments/list.php
+[11-Aug-2026 07:19:47 UTC] Session active for user: 1 on /modules/assignments/regenerate_barcodes.php
+[11-Aug-2026 07:19:50 UTC] Session active for user: 1 on /modules/assignments/regenerate_barcodes.php?action=regenerate_all
+[11-Aug-2026 07:19:53 UTC] Session active for user: 1 on /modules/assignments/list.php
+[11-Aug-2026 07:23:26 UTC] Session active for user: 1 on /modules/assignments/view.php?id=59
+[11-Aug-2026 07:33:29 UTC] Session active for user: 4 on /modules/assignments/assign.php
+[11-Aug-2026 07:33:33 UTC] Session active for user: 4 on /modules/assignments/list.php
+[11-Aug-2026 07:33:38 UTC] Session active for user: 4 on /modules/assignments/view.php?id=59
+[11-Aug-2026 07:33:43 UTC] Session active for user: 4 on /modules/assignments/assign.php
+[11-Aug-2026 07:34:13 UTC] Session active for user: 4 on /modules/assignments/assign.php
+[11-Aug-2026 07:34:27 UTC] Session active for user: 4 on /modules/assignments/list.php
+[11-Aug-2026 09:14:14 UTC] Session active for user: 4 on /modules/assignments/list.php
+[12-Aug-2026 05:39:51 UTC] Session active for user: 1 on /modules/assignments/assign.php
+[12-Aug-2026 05:39:52 UTC] Session active for user: 1 on /modules/assignments/list.php
+[12-Aug-2026 06:29:20 UTC] Session active for user: 4 on /modules/assignments/assign.php
+[12-Aug-2026 06:29:27 UTC] Session active for user: 4 on /modules/assignments/list.php
+[12-Aug-2026 06:29:33 UTC] Session active for user: 4 on /modules/assignments/view.php?id=60
+[12-Aug-2026 06:29:35 UTC] Session active for user: 4 on /modules/assignments/list.php
+[12-Aug-2026 06:29:37 UTC] Session active for user: 4 on /modules/assignments/edit.php?id=60
+[12-Aug-2026 06:29:42 UTC] Session active for user: 4 on /modules/assignments/list.php
+[12-Aug-2026 06:30:03 UTC] Session active for user: 4 on /modules/assignments/regenerate_barcodes.php
+[12-Aug-2026 10:05:03 UTC] Session active for user: 4 on /modules/assignments/list.php
+[12-Aug-2026 10:05:10 UTC] Session active for user: 4 on /modules/assignments/list.php?barcode=ASN-20260812-4185&pf_no=&employee=&status=&return_status=&source=&date_from=&date_to=
+[12-Aug-2026 10:59:34 UTC] Session active for user: 1 on /modules/assignments/assign.php
+[12-Aug-2026 10:59:37 UTC] Session active for user: 1 on /modules/assignments/list.php
+[12-Aug-2026 10:59:41 UTC] Session active for user: 1 on /modules/assignments/regenerate_barcodes.php
+[12-Aug-2026 10:59:45 UTC] Session active for user: 1 on /modules/assignments/list.php
+[13-Aug-2026 10:56:19 UTC] Session active for user: 6 on /modules/assignments/assign.php?emp_id=94
+[13-Aug-2026 11:10:21 UTC] Session active for user: 6 on /modules/assignments/assign.php
+[13-Aug-2026 11:11:16 UTC] Session active for user: 6 on /modules/assignments/assign.php
+[13-Aug-2026 11:11:24 UTC] Session active for user: 6 on /modules/assignments/list.php
+[13-Aug-2026 11:11:43 UTC] Session active for user: 6 on /modules/assignments/assign.php
+[13-Aug-2026 11:16:05 UTC] Session active for user: 6 on /modules/assignments/regenerate_barcodes.php
+[13-Aug-2026 11:16:27 UTC] Session active for user: 6 on /modules/assignments/list.php
+[13-Aug-2026 11:16:30 UTC] Session active for user: 6 on /modules/assignments/regenerate_barcodes.php
+[13-Aug-2026 11:16:34 UTC] Session active for user: 6 on /modules/assignments/regenerate_barcodes.php?action=regenerate_all
+[13-Aug-2026 11:16:41 UTC] Session active for user: 6 on /modules/assignments/list.php
+[13-Aug-2026 11:56:01 UTC] Session active for user: 6 on /modules/assignments/list.php
+[16-Aug-2026 03:55:57 UTC] Session active for user: 1 on /modules/assignments/assign.php
+[16-Aug-2026 03:55:59 UTC] Session active for user: 1 on /modules/assignments/list.php
+[16-Aug-2026 03:56:01 UTC] Session active for user: 1 on /modules/assignments/regenerate_barcodes.php
+[16-Aug-2026 03:56:03 UTC] Session active for user: 1 on /modules/assignments/list.php
+[17-Aug-2026 04:08:13 UTC] Session active for user: 4 on /modules/assignments/list.php
+[17-Aug-2026 04:08:20 UTC] Session active for user: 4 on /modules/assignments/regenerate_barcodes.php
+[17-Aug-2026 04:08:24 UTC] Session active for user: 4 on /modules/assignments/list.php
+[19-Aug-2026 04:45:57 UTC] Session active for user: 6 on /modules/assignments/assign.php
+[19-Aug-2026 04:57:19 UTC] Session active for user: 6 on /modules/assignments/assign.php
+[19-Aug-2026 05:08:49 UTC] Session active for user: 4 on /modules/assignments/list.php
+[20-Aug-2026 03:58:36 UTC] Session active for user: 4 on /modules/assignments/assign.php
+[20-Aug-2026 03:59:49 UTC] Session active for user: 1 on /modules/assignments/list.php
+[23-Aug-2026 11:37:59 UTC] Session active for user: 1 on /modules/assignments/assign.php
+[23-Aug-2026 11:39:52 UTC] Session active for user: 1 on /modules/assignments/assign.php
+[23-Aug-2026 11:40:46 UTC] Session active for user: 1 on /modules/assignments/assign.php
+[23-Aug-2026 11:40:50 UTC] Session active for user: 1 on /modules/assignments/list.php
+[24-Aug-2026 03:23:18 UTC] Session active for user: 6 on /modules/assignments/assign.php
+[24-Aug-2026 03:27:18 UTC] Session active for user: 6 on /modules/assignments/assign.php
+[24-Aug-2026 03:27:28 UTC] Session active for user: 6 on /modules/assignments/assign.php
+[24-Aug-2026 03:27:46 UTC] Session active for user: 6 on /modules/assignments/list.php
+[24-Aug-2026 03:27:49 UTC] Session active for user: 6 on /modules/assignments/edit.php?id=65
+[24-Aug-2026 03:28:02 UTC] Session active for user: 6 on /modules/assignments/list.php
+[24-Aug-2026 03:28:21 UTC] Session active for user: 6 on /modules/assignments/assign.php
+[24-Aug-2026 03:29:19 UTC] Session active for user: 6 on /modules/assignments/assign.php
+[24-Aug-2026 03:29:22 UTC] Session active for user: 6 on /modules/assignments/list.php
+[24-Aug-2026 03:29:37 UTC] Session active for user: 6 on /modules/assignments/edit.php?id=64
+[24-Aug-2026 03:29:45 UTC] Session active for user: 6 on /modules/assignments/edit.php?id=64
+[24-Aug-2026 03:29:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bhsheadache/public_html/it-inventory.bhs-headache.org/includes/header.php:88) in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/assignments/edit.php on line 174
+[24-Aug-2026 03:29:54 UTC] Session active for user: 6 on /modules/assignments/list.php
+[24-Aug-2026 04:20:14 UTC] Session active for user: 6 on /modules/assignments/assign.php
+[24-Aug-2026 04:21:08 UTC] Session active for user: 6 on /modules/assignments/assign.php
+[24-Aug-2026 04:22:31 UTC] Session active for user: 6 on /modules/assignments/assign.php
+[24-Aug-2026 04:24:06 UTC] Session active for user: 6 on /modules/assignments/assign.php
+[24-Aug-2026 04:24:09 UTC] Session active for user: 6 on /modules/assignments/list.php
+[24-Aug-2026 05:25:50 UTC] Session empty on: /modules/assignments/list.php
+[24-Aug-2026 05:25:58 UTC] Session active for user: 4 on /modules/assignments/list.php
+[24-Aug-2026 11:40:25 UTC] Session active for user: 4 on /modules/assignments/list.php
+[30-Aug-2026 03:59:31 UTC] Session active for user: 6 on /modules/assignments/assign.php
+[30-Aug-2026 04:12:35 UTC] Session active for user: 6 on /modules/assignments/assign.php
+[30-Aug-2026 04:12:48 UTC] Session active for user: 6 on /modules/assignments/assign.php
+[30-Aug-2026 04:12:49 UTC] Session active for user: 6 on /modules/assignments/regenerate_barcodes.php
+[30-Aug-2026 04:13:52 UTC] Session active for user: 6 on /modules/assignments/assign.php
+[30-Aug-2026 06:32:29 UTC] Session empty on: /modules/assignments/list.php
+[30-Aug-2026 06:32:44 UTC] Session active for user: 6 on /modules/assignments/list.php
+[30-Aug-2026 07:03:56 UTC] Session active for user: 6 on /modules/assignments/assign.php
+[30-Aug-2026 07:10:03 UTC] Session active for user: 6 on /modules/assignments/assign.php
+[30-Aug-2026 07:10:09 UTC] Session active for user: 6 on /modules/assignments/list.php
+[17-Sep-2026 03:46:02 UTC] Session active for user: 4 on /modules/assignments/list.php
+[17-Sep-2026 03:51:28 UTC] Session active for user: 6 on /modules/assignments/assign.php
+[17-Sep-2026 03:52:22 UTC] Session active for user: 6 on /modules/assignments/assign.php
+[17-Sep-2026 03:52:27 UTC] Session active for user: 6 on /modules/assignments/list.php
+[21-Sep-2026 03:38:54 UTC] Session active for user: 4 on /modules/assignments/assign.php
+[21-Sep-2026 03:38:58 UTC] Session active for user: 4 on /modules/assignments/list.php
+[21-Sep-2026 03:39:15 UTC] Session active for user: 4 on /modules/assignments/assign.php

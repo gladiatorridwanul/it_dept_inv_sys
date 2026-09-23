@@ -1,0 +1,1889 @@
+[31-May-2026 16:41:18 UTC] PHP Warning:  Undefined array key "assigned_by" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/save_device_changes.php on line 49
+[31-May-2026 16:41:18 UTC] PHP Warning:  Undefined array key "current_condition" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/save_device_changes.php on line 50
+[31-May-2026 16:41:18 UTC] PHP Warning:  Undefined array key "notes" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/save_device_changes.php on line 51
+[31-May-2026 16:41:18 UTC] PHP Warning:  Undefined array key "warranty_months" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/save_device_changes.php on line 55
+[31-May-2026 16:41:18 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/save_device_changes.php on line 56
+[31-May-2026 16:41:18 UTC] PHP Warning:  Undefined array key "quantity" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/save_device_changes.php on line 57
+[31-May-2026 17:37:13 UTC] PHP Warning:  Undefined variable $sub_lookup in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 142
+[31-May-2026 17:41:24 UTC] PHP Warning:  Undefined variable $sub_lookup in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 142
+[31-May-2026 18:04:21 UTC] process_device.php called: Array
+(
+    [device_id] => 1
+    [action] => add_to_stock
+    [quantity] => 1
+    [price] => 64000
+    [admin_notes] => 
+)
+
+[31-May-2026 18:04:33 UTC] process_device.php called: Array
+(
+    [device_id] => 2
+    [action] => add_to_stock
+    [quantity] => 1
+    [price] => 1550
+    [admin_notes] => 
+)
+
+[31-May-2026 18:27:08 UTC] process_device.php error: Device not found or already processed
+[31-May-2026 18:27:14 UTC] process_device.php error: Device not found or already processed
+[31-May-2026 18:27:20 UTC] process_device.php error: Device not found or already processed
+[31-May-2026 18:27:40 UTC] process_device.php error: Device not found or already processed
+[31-May-2026 18:40:44 UTC] process_device.php error: Device not found or already processed
+[31-May-2026 18:43:00 UTC] process_device.php error: Device not found or already processed
+[01-Jun-2026 18:57:06 UTC] PHP Warning:  Undefined array key "category_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 68
+[01-Jun-2026 18:57:06 UTC] PHP Warning:  Undefined array key "sub_category_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 69
+[01-Jun-2026 18:57:06 UTC] PHP Warning:  Undefined array key "brand_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 72
+[01-Jun-2026 18:57:28 UTC] PHP Warning:  Undefined array key "category_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 68
+[01-Jun-2026 18:57:28 UTC] PHP Warning:  Undefined array key "sub_category_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 69
+[01-Jun-2026 18:57:28 UTC] PHP Warning:  Undefined array key "brand_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 72
+[01-Jun-2026 19:02:04 UTC] PHP Warning:  Undefined array key "category_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 94
+[01-Jun-2026 19:02:04 UTC] PHP Warning:  Undefined array key "sub_category_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 95
+[01-Jun-2026 19:02:04 UTC] PHP Warning:  Undefined array key "brand_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 98
+[01-Jun-2026 19:13:07 UTC] PHP Warning:  Undefined array key "brand_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 103
+[01-Jun-2026 19:13:20 UTC] PHP Warning:  Undefined array key "brand_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 103
+[01-Jun-2026 19:49:55 UTC] PHP Warning:  Undefined array key "category_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 99
+[01-Jun-2026 19:49:55 UTC] PHP Warning:  Undefined array key "sub_category_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 100
+[01-Jun-2026 19:49:55 UTC] PHP Warning:  Undefined array key "brand_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 103
+[01-Jun-2026 19:50:11 UTC] PHP Warning:  Undefined array key "category_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 99
+[01-Jun-2026 19:50:11 UTC] PHP Warning:  Undefined array key "sub_category_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 100
+[01-Jun-2026 19:50:11 UTC] PHP Warning:  Undefined array key "brand_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 103
+[03-Jun-2026 03:48:05 UTC] PHP Warning:  Undefined array key "brand_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 103
+[05-Jun-2026 17:35:40 UTC] PHP Warning:  Undefined array key "brand_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 103
+[05-Jun-2026 17:35:50 UTC] PHP Warning:  Undefined array key "brand_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 103
+[05-Jun-2026 17:36:06 UTC] PHP Warning:  Undefined array key "brand_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 103
+[14-Jun-2026 03:14:00 UTC] PHP Warning:  Undefined array key "category_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 246
+[14-Jun-2026 03:14:00 UTC] PHP Warning:  Undefined array key "sub_category_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 247
+[14-Jun-2026 03:14:00 UTC] PHP Warning:  Undefined array key "brand_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 248
+[14-Jun-2026 03:34:28 UTC] PHP Warning:  Undefined array key "category_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 258
+[14-Jun-2026 03:34:28 UTC] PHP Warning:  Undefined array key "sub_category_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 259
+[14-Jun-2026 03:34:28 UTC] PHP Warning:  Undefined array key "brand_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 260
+[14-Jun-2026 03:43:13 UTC] save_device_changes.php - Device ID: 20, Existing Item ID: NULL
+[14-Jun-2026 03:43:13 UTC] save_device_changes.php - Saved new_item_id = NULL
+[14-Jun-2026 03:48:34 UTC] save_device_changes.php - Device ID: 20, Existing Item ID: NULL
+[14-Jun-2026 03:48:34 UTC] save_device_changes.php - Saved new_item_id = NULL
+[14-Jun-2026 03:48:56 UTC] process_device.php - Device ID: 20, Current new_item_id from DB: NULL
+[14-Jun-2026 03:48:56 UTC] process_device.php - ADD TO STOCK - existing_item_id = NULL
+[14-Jun-2026 03:48:56 UTC] process_device.php - CREATING NEW ITEM (no existing item linked)
+[14-Jun-2026 03:48:56 UTC] PHP Warning:  Undefined array key "brand_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 271
+[14-Jun-2026 04:16:23 UTC] === save_device_changes.php called ===
+[14-Jun-2026 04:16:23 UTC] POST data: Array
+(
+    [device_id] => 21
+    [device_name] => HP ZBook Firefly 14 G8
+    [brand_name] => 
+    [model_number] => M0912P09
+    [serial_number] => S09L09123
+    [specification] => 
+    [purchase_date] => 
+    [assigned_date] => 
+    [assigned_by] => IT Department
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 1
+    [category_id] => 1
+    [sub_category_id] => 9
+    [brand_id] => 
+    [warranty_months] => 12
+    [price] => 0
+    [quantity] => 1
+    [existing_item_id] => 40
+)
+
+[14-Jun-2026 04:16:23 UTC] Device ID: 21, Existing Item ID: 40
+[14-Jun-2026 04:16:23 UTC] Linking to existing item: ITM-000001 - HP ZBook Firefly 14 G8
+[14-Jun-2026 04:16:23 UTC] After save - new_item_id = 40
+[14-Jun-2026 04:16:23 UTC] After save - final_category_id = 1
+[14-Jun-2026 04:16:23 UTC] After save - final_price = NULL
+[14-Jun-2026 04:17:07 UTC] process_device.php - Device ID: 21, Current new_item_id from DB: 40
+[14-Jun-2026 04:17:07 UTC] process_device.php - ADD TO STOCK - existing_item_id = 40
+[14-Jun-2026 04:17:07 UTC] process_device.php - UPDATING EXISTING ITEM: ITM-000001 - HP ZBook Firefly 14 G8
+[14-Jun-2026 04:17:07 UTC] PDO Error in process_device.php: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'updated_at' in 'field list'
+[14-Jun-2026 04:22:12 UTC] process_device.php - Device ID: 22, new_item_id from DB: NULL
+[14-Jun-2026 04:22:12 UTC] ADD TO STOCK - existing_item_id = NULL
+[14-Jun-2026 04:22:12 UTC] CREATING NEW ITEM - no existing item linked
+[14-Jun-2026 04:22:12 UTC] PHP Warning:  Undefined array key "category_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 256
+[14-Jun-2026 04:22:12 UTC] PHP Warning:  Undefined array key "sub_category_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 257
+[14-Jun-2026 04:22:12 UTC] PHP Warning:  Undefined array key "brand_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 258
+[14-Jun-2026 05:43:22 UTC] === save_device_changes.php called ===
+[14-Jun-2026 05:43:22 UTC] POST data: Array
+(
+    [device_id] => 23
+    [device_name] => Wireless Mouse
+    [brand_name] => 
+    [model_number] => M00D2309
+    [serial_number] => S01L23097
+    [specification] => 
+    [purchase_date] => 
+    [assigned_date] => 
+    [assigned_by] => IT Department
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 6
+    [category_id] => 4
+    [sub_category_id] => 27
+    [brand_id] => 2
+    [warranty_months] => 12
+    [price] => 1249.99
+    [quantity] => 1
+    [existing_item_id] => 43
+)
+
+[14-Jun-2026 05:43:22 UTC] Device ID: 23, Existing Item ID: 43
+[14-Jun-2026 05:43:22 UTC] Linking to existing item: KEY-00004 - Wireless Mouse
+[14-Jun-2026 05:43:22 UTC] After save - new_item_id = 43
+[14-Jun-2026 05:43:42 UTC] === process_device.php ===
+[14-Jun-2026 05:43:42 UTC] Device ID: 23
+[14-Jun-2026 05:43:42 UTC] new_item_id from database: 43
+[14-Jun-2026 05:43:42 UTC] Action: add_to_stock
+[14-Jun-2026 05:43:42 UTC] Quantity: 1
+[14-Jun-2026 05:43:42 UTC] Price from POST: 1249.99
+[14-Jun-2026 05:43:42 UTC] existing_item_id = 43
+[14-Jun-2026 05:43:42 UTC] final_quantity = 1
+[14-Jun-2026 05:43:42 UTC] final_price = 1249.99
+[14-Jun-2026 05:43:42 UTC] UPDATING EXISTING ITEM: KEY-00004 - Wireless Mouse
+[14-Jun-2026 05:43:42 UTC] Current stock: 3, Current assigned: 0
+[14-Jun-2026 05:43:42 UTC] After update - Stock: 4, Assigned: 1
+[14-Jun-2026 05:43:42 UTC] Added serial number: S01L23097 to item 43
+[14-Jun-2026 05:43:42 UTC] Created assignment: ASN-20260614-4138
+[14-Jun-2026 07:25:40 UTC] === save_device_changes.php called ===
+[14-Jun-2026 07:25:40 UTC] POST data: Array
+(
+    [device_id] => 24
+    [device_name] => HP ZBook Firefly 14 G8
+    [brand_name] => 
+    [model_number] => HL074556
+    [serial_number] => S094L832X
+    [specification] => 
+    [purchase_date] => 
+    [assigned_date] => 
+    [assigned_by] => IT Department
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 1
+    [category_id] => 1
+    [sub_category_id] => 9
+    [brand_id] => 
+    [warranty_months] => 12
+    [price] => 48000
+    [quantity] => 1
+    [existing_item_id] => 40
+)
+
+[14-Jun-2026 07:25:40 UTC] Device ID: 24, Existing Item ID: 40
+[14-Jun-2026 07:25:40 UTC] Linking to existing item: ITM-000001 - HP ZBook Firefly 14 G8
+[14-Jun-2026 07:25:40 UTC] After save - new_item_id = 40
+[14-Jun-2026 07:25:56 UTC] === process_device.php ===
+[14-Jun-2026 07:25:56 UTC] Device ID: 24
+[14-Jun-2026 07:25:56 UTC] new_item_id from database: 40
+[14-Jun-2026 07:25:56 UTC] Action: add_to_stock
+[14-Jun-2026 07:25:56 UTC] Quantity: 1
+[14-Jun-2026 07:25:56 UTC] Price from POST: 48000
+[14-Jun-2026 07:25:56 UTC] existing_item_id = 40
+[14-Jun-2026 07:25:56 UTC] final_quantity = 1
+[14-Jun-2026 07:25:56 UTC] final_price = 48000
+[14-Jun-2026 07:25:56 UTC] UPDATING EXISTING ITEM: ITM-000001 - HP ZBook Firefly 14 G8
+[14-Jun-2026 07:25:56 UTC] Current stock: 1, Current assigned: 1
+[14-Jun-2026 07:25:56 UTC] After update - Stock: 2, Assigned: 2
+[14-Jun-2026 07:25:56 UTC] Added serial number: S094L832X to item 40
+[14-Jun-2026 07:25:56 UTC] Created assignment: ASN-20260614-7464
+[14-Jun-2026 10:06:18 UTC] === process_device.php ===
+[14-Jun-2026 10:06:18 UTC] Device ID: 25
+[14-Jun-2026 10:06:18 UTC] new_item_id from database: NULL
+[14-Jun-2026 10:06:18 UTC] Action: add_to_stock
+[14-Jun-2026 10:06:18 UTC] Quantity: 1
+[14-Jun-2026 10:06:18 UTC] Price from POST: 22000
+[14-Jun-2026 10:06:18 UTC] existing_item_id = NULL
+[14-Jun-2026 10:06:18 UTC] final_quantity = 1
+[14-Jun-2026 10:06:18 UTC] final_price = 22000
+[14-Jun-2026 10:06:18 UTC] CREATING NEW ITEM - No existing item linked
+[14-Jun-2026 10:06:18 UTC] PHP Warning:  Undefined array key "category_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 243
+[14-Jun-2026 10:06:18 UTC] PHP Warning:  Undefined array key "sub_category_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 244
+[14-Jun-2026 10:06:18 UTC] PHP Warning:  Undefined array key "brand_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 245
+[14-Jun-2026 10:28:12 UTC] === save_device_changes.php called ===
+[14-Jun-2026 10:28:12 UTC] POST data: Array
+(
+    [device_id] => 26
+    [device_name] => HP Monitor 22"
+    [brand_name] => 
+    [model_number] => 
+    [serial_number] => 
+    [specification] => 
+    [purchase_date] => 
+    [assigned_date] => 
+    [assigned_by] => IT Department
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 4
+    [category_id] => 1
+    [sub_category_id] => 38
+    [brand_id] => 
+    [warranty_months] => 12
+    [price] => 21000
+    [quantity] => 1
+    [existing_item_id] => 
+)
+
+[14-Jun-2026 10:28:12 UTC] Device ID: 26, Existing Item ID: NULL
+[14-Jun-2026 10:28:12 UTC] After save - new_item_id = NULL
+[14-Jun-2026 10:28:27 UTC] === process_device.php ===
+[14-Jun-2026 10:28:27 UTC] Device ID: 26
+[14-Jun-2026 10:28:27 UTC] new_item_id from database: NULL
+[14-Jun-2026 10:28:27 UTC] Action: add_to_stock
+[14-Jun-2026 10:28:27 UTC] Quantity: 1
+[14-Jun-2026 10:28:27 UTC] Price from POST: 21000
+[14-Jun-2026 10:28:27 UTC] existing_item_id = NULL
+[14-Jun-2026 10:28:27 UTC] final_quantity = 1
+[14-Jun-2026 10:28:27 UTC] final_price = 21000
+[14-Jun-2026 10:28:27 UTC] CREATING NEW ITEM - No existing item linked
+[14-Jun-2026 10:28:27 UTC] PHP Warning:  Undefined array key "brand_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 245
+[14-Jun-2026 11:16:36 UTC] === save_device_changes.php called ===
+[14-Jun-2026 11:16:36 UTC] POST data: Array
+(
+    [device_id] => 27
+    [device_name] => HP ZBook Firefly 14 G8
+    [brand_name] => 
+    [model_number] => M980897D9880
+    [serial_number] => S0987L09898
+    [specification] => 
+    [purchase_date] => 
+    [assigned_date] => 
+    [assigned_by] => IT Department
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 1
+    [category_id] => 1
+    [sub_category_id] => 9
+    [brand_id] => 2
+    [warranty_months] => 12
+    [price] => 48000
+    [quantity] => 1
+    [existing_item_id] => 
+)
+
+[14-Jun-2026 11:16:36 UTC] Device ID: 27, Existing Item ID: NULL
+[14-Jun-2026 11:16:36 UTC] After save - new_item_id = NULL
+[14-Jun-2026 11:17:15 UTC] === process_device.php ===
+[14-Jun-2026 11:17:15 UTC] Device ID: 27
+[14-Jun-2026 11:17:15 UTC] new_item_id from database: NULL
+[14-Jun-2026 11:17:15 UTC] Action: add_to_stock
+[14-Jun-2026 11:17:15 UTC] Quantity: 1
+[14-Jun-2026 11:17:15 UTC] Price from POST: 48000
+[14-Jun-2026 11:17:15 UTC] existing_item_id = NULL
+[14-Jun-2026 11:17:15 UTC] final_quantity = 1
+[14-Jun-2026 11:17:15 UTC] final_price = 48000
+[14-Jun-2026 11:17:15 UTC] CREATING NEW ITEM - No existing item linked
+[14-Jun-2026 11:18:12 UTC] === process_device.php ===
+[14-Jun-2026 11:18:12 UTC] Device ID: 28
+[14-Jun-2026 11:18:12 UTC] new_item_id from database: NULL
+[14-Jun-2026 11:18:12 UTC] Action: add_to_stock
+[14-Jun-2026 11:18:12 UTC] Quantity: 1
+[14-Jun-2026 11:18:12 UTC] Price from POST: 1100
+[14-Jun-2026 11:18:12 UTC] existing_item_id = NULL
+[14-Jun-2026 11:18:12 UTC] final_quantity = 1
+[14-Jun-2026 11:18:12 UTC] final_price = 1100
+[14-Jun-2026 11:18:12 UTC] CREATING NEW ITEM - No existing item linked
+[14-Jun-2026 11:18:12 UTC] PHP Warning:  Undefined array key "category_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 243
+[14-Jun-2026 11:18:12 UTC] PHP Warning:  Undefined array key "sub_category_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 244
+[14-Jun-2026 11:18:12 UTC] PHP Warning:  Undefined array key "brand_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 245
+[14-Jun-2026 11:23:39 UTC] === process_device.php ===
+[14-Jun-2026 11:23:39 UTC] Device ID: 29
+[14-Jun-2026 11:23:39 UTC] new_item_id from database: NULL
+[14-Jun-2026 11:23:39 UTC] Action: add_to_stock
+[14-Jun-2026 11:23:39 UTC] Quantity: 1
+[14-Jun-2026 11:23:39 UTC] Price from POST: 1100
+[14-Jun-2026 11:23:39 UTC] existing_item_id = NULL
+[14-Jun-2026 11:23:39 UTC] final_quantity = 1
+[14-Jun-2026 11:23:39 UTC] final_price = 1100
+[14-Jun-2026 11:23:39 UTC] CREATING NEW ITEM - No existing item linked
+[14-Jun-2026 11:23:39 UTC] PHP Warning:  Undefined array key "category_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 243
+[14-Jun-2026 11:23:39 UTC] PHP Warning:  Undefined array key "sub_category_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 244
+[14-Jun-2026 11:23:39 UTC] PHP Warning:  Undefined array key "brand_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 245
+[14-Jun-2026 11:25:39 UTC] === save_device_changes.php called ===
+[14-Jun-2026 11:25:39 UTC] POST data: Array
+(
+    [device_id] => 30
+    [device_name] => HP ZBook Firefly 14 G8
+    [brand_name] => 
+    [model_number] => C23sd
+    [serial_number] => Ssfd23
+    [specification] => 
+    [purchase_date] => 
+    [assigned_date] => 
+    [assigned_by] => IT Department
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 1
+    [category_id] => 1
+    [sub_category_id] => 9
+    [brand_id] => 2
+    [warranty_months] => 12
+    [price] => 48000.00
+    [quantity] => 1
+    [existing_item_id] => 52
+)
+
+[14-Jun-2026 11:25:39 UTC] Device ID: 30, Existing Item ID: 52
+[14-Jun-2026 11:25:39 UTC] Linking to existing item: ITM-000001 - HP ZBook Firefly 14 G8
+[14-Jun-2026 11:25:39 UTC] After save - new_item_id = 52
+[14-Jun-2026 11:25:50 UTC] process_submission.php error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'updated_at' in 'field list'
+[14-Jun-2026 11:26:04 UTC] === process_device.php ===
+[14-Jun-2026 11:26:04 UTC] Device ID: 30
+[14-Jun-2026 11:26:04 UTC] new_item_id from database: 52
+[14-Jun-2026 11:26:04 UTC] Action: add_to_stock
+[14-Jun-2026 11:26:04 UTC] Quantity: 1
+[14-Jun-2026 11:26:04 UTC] Price from POST: 48000
+[14-Jun-2026 11:26:04 UTC] existing_item_id = 52
+[14-Jun-2026 11:26:04 UTC] final_quantity = 1
+[14-Jun-2026 11:26:04 UTC] final_price = 48000
+[14-Jun-2026 11:26:04 UTC] UPDATING EXISTING ITEM: ITM-000001 - HP ZBook Firefly 14 G8
+[14-Jun-2026 11:26:04 UTC] Current stock: 1, Current assigned: 1
+[14-Jun-2026 11:26:04 UTC] After update - Stock: 2, Assigned: 2
+[14-Jun-2026 11:26:04 UTC] Added serial number: Ssfd23 to item 52
+[14-Jun-2026 11:26:04 UTC] Created assignment: ASN-20260614-1872
+[15-Jun-2026 04:41:03 UTC] === process_device.php ===
+[15-Jun-2026 04:41:03 UTC] Device ID: 33
+[15-Jun-2026 04:41:03 UTC] new_item_id from database: NULL
+[15-Jun-2026 04:41:03 UTC] Action: approve
+[15-Jun-2026 04:41:03 UTC] Quantity: 1
+[15-Jun-2026 04:41:03 UTC] Price from POST: 0
+[15-Jun-2026 04:41:33 UTC] process_submission.php error: No pending devices found
+[15-Jun-2026 04:41:57 UTC] process_submission.php error: No pending devices found
+[15-Jun-2026 05:52:09 UTC] === save_device_changes.php called ===
+[15-Jun-2026 05:52:09 UTC] POST data: Array
+(
+    [device_id] => 32
+    [device_name] => Epson L380
+    [brand_name] => 
+    [model_number] => Epson L380
+    [serial_number] => 
+    [specification] => 
+    [purchase_date] => 2025-11-01
+    [assigned_date] => 2025-11-01
+    [assigned_by] => 
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 3
+    [category_id] => 4
+    [sub_category_id] => 11
+    [brand_id] => 17
+    [warranty_months] => 12
+    [price] => 14000
+    [quantity] => 1
+    [existing_item_id] => 
+)
+
+[15-Jun-2026 05:52:09 UTC] Device ID: 32, Existing Item ID: NULL
+[15-Jun-2026 05:52:09 UTC] After save - new_item_id = NULL
+[15-Jun-2026 05:52:35 UTC] === save_device_changes.php called ===
+[15-Jun-2026 05:52:35 UTC] POST data: Array
+(
+    [device_id] => 32
+    [device_name] => Epson L380
+    [brand_name] => Test 001
+    [model_number] => Epson L380
+    [serial_number] => 
+    [specification] => 
+    [purchase_date] => 2025-11-01
+    [assigned_date] => 2025-11-01
+    [assigned_by] => IT Department
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 3
+    [category_id] => 4
+    [sub_category_id] => 
+    [brand_id] => 17
+    [warranty_months] => 12
+    [price] => 14000.00
+    [quantity] => 1
+    [existing_item_id] => 
+)
+
+[15-Jun-2026 05:52:35 UTC] Device ID: 32, Existing Item ID: NULL
+[15-Jun-2026 05:52:35 UTC] After save - new_item_id = NULL
+[15-Jun-2026 05:53:05 UTC] === save_device_changes.php called ===
+[15-Jun-2026 05:53:05 UTC] POST data: Array
+(
+    [device_id] => 32
+    [device_name] => Epson L380
+    [brand_name] => Test 001
+    [model_number] => Epson L380
+    [serial_number] => 
+    [specification] => 
+    [purchase_date] => 2025-11-01
+    [assigned_date] => 2025-11-01
+    [assigned_by] => IT Department
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 3
+    [category_id] => 4
+    [sub_category_id] => 
+    [brand_id] => 17
+    [warranty_months] => 12
+    [price] => 14000.00
+    [quantity] => 1
+    [existing_item_id] => 
+)
+
+[15-Jun-2026 05:53:05 UTC] Device ID: 32, Existing Item ID: NULL
+[15-Jun-2026 05:53:05 UTC] After save - new_item_id = NULL
+[15-Jun-2026 05:55:06 UTC] === save_device_changes.php called ===
+[15-Jun-2026 05:55:06 UTC] POST data: Array
+(
+    [device_id] => 34
+    [device_name] => Firewall Personal
+    [brand_name] => 
+    [model_number] => 
+    [serial_number] => 
+    [specification] => 
+    [purchase_date] => 2026-06-01
+    [assigned_date] => 2026-06-15
+    [assigned_by] => IT Department
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 14
+    [category_id] => 33
+    [sub_category_id] => 22
+    [brand_id] => 17
+    [warranty_months] => 12
+    [price] => 
+    [quantity] => 1
+    [existing_item_id] => 
+)
+
+[15-Jun-2026 05:55:06 UTC] Device ID: 34, Existing Item ID: NULL
+[15-Jun-2026 05:55:06 UTC] After save - new_item_id = NULL
+[15-Jun-2026 06:04:04 UTC] === save_device_changes.php called ===
+[15-Jun-2026 06:04:04 UTC] POST data: Array
+(
+    [device_id] => 34
+    [device_name] => Firewall Personal
+    [brand_name] => Test 001
+    [model_number] => 
+    [serial_number] => 
+    [specification] => 
+    [purchase_date] => 2026-06-01
+    [assigned_date] => 2026-06-15
+    [assigned_by] => IT Department
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 14
+    [category_id] => 33
+    [sub_category_id] => 
+    [brand_id] => 17
+    [warranty_months] => 12
+    [price] => 0
+    [quantity] => 1
+    [existing_item_id] => 
+)
+
+[15-Jun-2026 06:04:04 UTC] Device ID: 34, Existing Item ID: NULL
+[15-Jun-2026 06:04:04 UTC] After save - new_item_id = NULL
+[15-Jun-2026 06:04:45 UTC] === save_device_changes.php called ===
+[15-Jun-2026 06:04:45 UTC] POST data: Array
+(
+    [device_id] => 34
+    [device_name] => Firewall Personal
+    [brand_name] => Test 001
+    [model_number] => 
+    [serial_number] => 
+    [specification] => 
+    [purchase_date] => 2026-06-01
+    [assigned_date] => 2026-06-15
+    [assigned_by] => IT Department
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 14
+    [category_id] => 33
+    [sub_category_id] => 
+    [brand_id] => 17
+    [warranty_months] => 12
+    [price] => 0
+    [quantity] => 1
+    [existing_item_id] => 
+)
+
+[15-Jun-2026 06:04:45 UTC] Device ID: 34, Existing Item ID: NULL
+[15-Jun-2026 06:04:45 UTC] After save - new_item_id = NULL
+[15-Jun-2026 06:07:50 UTC] === save_device_changes.php called ===
+[15-Jun-2026 06:07:50 UTC] POST data: Array
+(
+    [device_id] => 34
+    [device_name] => Firewall Personal
+    [brand_name] => Test 001
+    [model_number] => 
+    [serial_number] => 
+    [specification] => 
+    [purchase_date] => 2026-06-01
+    [assigned_date] => 2026-06-15
+    [assigned_by] => IT Department
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 14
+    [category_id] => 33
+    [sub_category_id] => 
+    [brand_id] => 17
+    [warranty_months] => 12
+    [price] => 0
+    [quantity] => 1
+    [existing_item_id] => 
+)
+
+[15-Jun-2026 06:07:50 UTC] Device ID: 34, Existing Item ID: NULL
+[15-Jun-2026 06:07:50 UTC] After save - new_item_id = NULL
+[15-Jun-2026 06:11:57 UTC] === save_device_changes.php called ===
+[15-Jun-2026 06:11:57 UTC] POST data: Array
+(
+    [device_id] => 34
+    [device_name] => Firewall Personal
+    [brand_name] => Test 001
+    [model_number] => 
+    [serial_number] => 
+    [specification] => 
+    [purchase_date] => 2026-06-01
+    [assigned_date] => 2026-06-15
+    [assigned_by] => IT Department
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 14
+    [category_id] => 33
+    [sub_category_id] => 
+    [brand_id] => 17
+    [warranty_months] => 12
+    [price] => 0
+    [quantity] => 1
+    [existing_item_id] => 
+)
+
+[15-Jun-2026 06:11:57 UTC] Device ID: 34, Existing Item ID: NULL
+[15-Jun-2026 06:11:57 UTC] After save - new_item_id = NULL
+[15-Jun-2026 06:16:26 UTC] === save_device_changes.php called ===
+[15-Jun-2026 06:16:26 UTC] POST data: Array
+(
+    [device_id] => 34
+    [device_name] => Firewall Personal
+    [brand_name] => Test 001
+    [model_number] => 
+    [serial_number] => 
+    [specification] => 
+    [purchase_date] => 2026-06-01
+    [assigned_date] => 2026-06-15
+    [assigned_by] => IT Department
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 14
+    [category_id] => 33
+    [sub_category_id] => 
+    [brand_id] => 17
+    [warranty_months] => 12
+    [price] => 0
+    [quantity] => 1
+    [existing_item_id] => 
+)
+
+[15-Jun-2026 06:16:26 UTC] Device ID: 34, Existing Item ID: NULL
+[15-Jun-2026 06:16:26 UTC] After save - new_item_id = NULL
+[15-Jun-2026 06:23:13 UTC] === save_device_changes.php called ===
+[15-Jun-2026 06:23:13 UTC] POST data: Array
+(
+    [device_id] => 34
+    [device_name] => Firewall Personal
+    [brand_name] => Test 001
+    [model_number] => 
+    [serial_number] => 
+    [specification] => 
+    [purchase_date] => 2026-06-01
+    [assigned_date] => 2026-06-15
+    [assigned_by] => IT Department
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 14
+    [category_id] => 33
+    [sub_category_id] => 
+    [brand_id] => 17
+    [warranty_months] => 12
+    [price] => 0
+    [quantity] => 1
+    [existing_item_id] => 
+)
+
+[15-Jun-2026 06:23:13 UTC] Device ID: 34, Existing Item ID: NULL
+[15-Jun-2026 06:23:13 UTC] After save - new_item_id = NULL
+[15-Jun-2026 06:27:30 UTC] === save_device_changes.php called ===
+[15-Jun-2026 06:27:30 UTC] POST data: Array
+(
+    [device_id] => 34
+    [device_name] => Firewall Personal
+    [brand_name] => Test 001
+    [model_number] => 
+    [serial_number] => 
+    [specification] => 
+    [purchase_date] => 2026-06-01
+    [assigned_date] => 2026-06-15
+    [assigned_by] => IT Department
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 14
+    [category_id] => 33
+    [sub_category_id] => 
+    [brand_id] => 17
+    [warranty_months] => 12
+    [price] => 0
+    [quantity] => 1
+    [existing_item_id] => 
+)
+
+[15-Jun-2026 06:27:30 UTC] Device ID: 34, Existing Item ID: NULL
+[15-Jun-2026 06:27:30 UTC] After save - new_item_id = NULL
+[15-Jun-2026 06:33:35 UTC] === save_device_changes.php called ===
+[15-Jun-2026 06:33:35 UTC] POST data: Array
+(
+    [device_id] => 34
+    [device_name] => Firewall Personal
+    [brand_name] => Test 001
+    [model_number] => 
+    [serial_number] => 
+    [specification] => 
+    [purchase_date] => 2026-06-01
+    [assigned_date] => 2026-06-15
+    [assigned_by] => IT Department
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 14
+    [category_id] => 33
+    [sub_category_id] => 
+    [brand_id] => 17
+    [warranty_months] => 12
+    [price] => 0
+    [quantity] => 1
+    [existing_item_id] => 
+)
+
+[15-Jun-2026 06:33:35 UTC] Device ID: 34, Existing Item ID: NULL
+[15-Jun-2026 06:33:35 UTC] After save - new_item_id = NULL
+[15-Jun-2026 07:02:56 UTC] === link_existing_item.php called ===
+[15-Jun-2026 07:02:56 UTC] POST data: Array
+(
+    [device_id] => 34
+    [item_id] => 57
+)
+
+[15-Jun-2026 07:02:56 UTC] Found item: Array
+(
+    [id] => 57
+    [item_code] => ITM-000004
+    [name] => Test Mouse
+    [specification] => 
+    [type_id] => 6
+    [category_id] => 36
+    [sub_category_id] => 
+    [serial_number] => 
+    [model_number] => 
+    [version] => 
+    [revision_count] => 0
+    [created_by] => 1
+    [brand] => 
+    [brand_id] => 
+    [warranty_period] => 12
+    [price] => 1200.00
+    [regular_price] => 1200.00
+    [current_qty] => 0
+    [min_qty] => 1
+    [is_active] => 1
+    [created_at] => 2026-06-15 00:03:20
+    [warranty_status] => in_warranty
+    [warranty_end_date] => 
+    [purchase_date] => 
+    [warranty_period_months] => 12
+    [assigned_to] => 
+    [assigned_date] => 
+    [total_assigned] => 0
+    [total_returned] => 0
+    [available_qty] => 0
+    [category_name] => Components & Consumables
+    [sub_category_name] => 
+    [brand_name] => 
+    [type_name] => Mouse
+)
+
+[15-Jun-2026 07:02:56 UTC] Device updated successfully. Device ID: 34, Item ID: 57
+[15-Jun-2026 07:03:04 UTC] === link_existing_item.php called ===
+[15-Jun-2026 07:03:04 UTC] POST data: Array
+(
+    [device_id] => 34
+    [item_id] => 65
+)
+
+[15-Jun-2026 07:03:04 UTC] Found item: Array
+(
+    [id] => 65
+    [item_code] => ITM-000012
+    [name] => Testing 004
+    [specification] => 
+    [type_id] => 14
+    [category_id] => 22
+    [sub_category_id] => 
+    [serial_number] => 
+    [model_number] => 
+    [version] => 
+    [revision_count] => 0
+    [created_by] => 1
+    [brand] => 
+    [brand_id] => 12
+    [warranty_period] => 12
+    [price] => 12000.00
+    [regular_price] => 12000.00
+    [current_qty] => 2
+    [min_qty] => 1
+    [is_active] => 1
+    [created_at] => 2026-06-15 01:19:49
+    [warranty_status] => in_warranty
+    [warranty_end_date] => 
+    [purchase_date] => 
+    [warranty_period_months] => 12
+    [assigned_to] => 
+    [assigned_date] => 
+    [total_assigned] => 0
+    [total_returned] => 0
+    [available_qty] => 0
+    [category_name] => Firewall
+    [sub_category_name] => 
+    [brand_name] => Netgear
+    [type_name] => Firewall
+)
+
+[15-Jun-2026 07:03:04 UTC] Device updated successfully. Device ID: 34, Item ID: 65
+[15-Jun-2026 07:03:12 UTC] === save_device_changes.php called ===
+[15-Jun-2026 07:03:12 UTC] POST data: Array
+(
+    [device_id] => 34
+    [device_name] => Firewall Personal
+    [brand_name] => Test 001
+    [model_number] => 
+    [serial_number] => 
+    [specification] => 
+    [purchase_date] => 2026-06-01
+    [assigned_date] => 2026-06-15
+    [assigned_by] => IT Department
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 14
+    [category_id] => 
+    [sub_category_id] => 
+    [brand_id] => 12
+    [warranty_months] => 12
+    [price] => 12000.00
+    [quantity] => 1
+    [existing_item_id] => 65
+)
+
+[15-Jun-2026 07:03:12 UTC] Device ID: 34, Existing Item ID: 65
+[15-Jun-2026 07:03:12 UTC] Linking to existing item: ITM-000012 - Testing 004
+[15-Jun-2026 07:03:12 UTC] After save - new_item_id = 65
+[15-Jun-2026 07:03:43 UTC] === save_device_changes.php called ===
+[15-Jun-2026 07:03:43 UTC] POST data: Array
+(
+    [device_id] => 34
+    [device_name] => Firewall Personal
+    [brand_name] => Netgear
+    [model_number] => M9806
+    [serial_number] => S09443L09
+    [specification] => 
+    [purchase_date] => 2026-06-01
+    [assigned_date] => 2026-06-15
+    [assigned_by] => IT Department
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 14
+    [category_id] => 
+    [sub_category_id] => 
+    [brand_id] => 12
+    [warranty_months] => 12
+    [price] => 12000.00
+    [quantity] => 1
+    [existing_item_id] => 65
+)
+
+[15-Jun-2026 07:03:43 UTC] Device ID: 34, Existing Item ID: 65
+[15-Jun-2026 07:03:43 UTC] Linking to existing item: ITM-000012 - Testing 004
+[15-Jun-2026 07:03:43 UTC] After save - new_item_id = 65
+[15-Jun-2026 07:04:03 UTC] === save_device_changes.php called ===
+[15-Jun-2026 07:04:03 UTC] POST data: Array
+(
+    [device_id] => 34
+    [device_name] => Firewall Personal
+    [brand_name] => Netgear
+    [model_number] => M9806
+    [serial_number] => S09443L09
+    [specification] => 
+    [purchase_date] => 2026-06-01
+    [assigned_date] => 2026-06-15
+    [assigned_by] => IT Department
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 14
+    [category_id] => 
+    [sub_category_id] => 
+    [brand_id] => 12
+    [warranty_months] => 12
+    [price] => 12000.00
+    [quantity] => 1
+    [existing_item_id] => 65
+)
+
+[15-Jun-2026 07:04:03 UTC] Device ID: 34, Existing Item ID: 65
+[15-Jun-2026 07:04:03 UTC] Linking to existing item: ITM-000012 - Testing 004
+[15-Jun-2026 07:04:03 UTC] After save - new_item_id = 65
+[15-Jun-2026 07:04:14 UTC] PDO Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'updated_at' in 'field list'
+[15-Jun-2026 07:10:50 UTC] === link_existing_item.php called ===
+[15-Jun-2026 07:10:50 UTC] POST data: Array
+(
+    [device_id] => 34
+    [item_id] => 0
+)
+
+[15-Jun-2026 07:10:56 UTC] === save_device_changes.php called ===
+[15-Jun-2026 07:10:56 UTC] POST data: Array
+(
+    [device_id] => 34
+    [device_name] => Firewall Personal
+    [brand_name] => Netgear
+    [model_number] => M9806
+    [serial_number] => S09443L09
+    [specification] => 
+    [purchase_date] => 2026-06-01
+    [assigned_date] => 2026-06-15
+    [assigned_by] => IT Department
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 14
+    [category_id] => 
+    [sub_category_id] => 
+    [brand_id] => 12
+    [warranty_months] => 12
+    [price] => 12000.00
+    [quantity] => 1
+    [existing_item_id] => 
+)
+
+[15-Jun-2026 07:10:56 UTC] Device ID: 34, Existing Item ID: NULL
+[15-Jun-2026 07:10:56 UTC] After save - new_item_id = NULL
+[15-Jun-2026 07:11:07 UTC] === link_existing_item.php called ===
+[15-Jun-2026 07:11:07 UTC] POST data: Array
+(
+    [device_id] => 34
+    [item_id] => 65
+)
+
+[15-Jun-2026 07:11:07 UTC] Found item: Array
+(
+    [id] => 65
+    [item_code] => ITM-000012
+    [name] => Testing 004
+    [specification] => 
+    [type_id] => 14
+    [category_id] => 22
+    [sub_category_id] => 
+    [serial_number] => 
+    [model_number] => 
+    [version] => 
+    [revision_count] => 0
+    [created_by] => 1
+    [brand] => 
+    [brand_id] => 12
+    [warranty_period] => 12
+    [price] => 12000.00
+    [regular_price] => 12000.00
+    [current_qty] => 2
+    [min_qty] => 1
+    [is_active] => 1
+    [created_at] => 2026-06-15 01:19:49
+    [warranty_status] => in_warranty
+    [warranty_end_date] => 
+    [purchase_date] => 
+    [warranty_period_months] => 12
+    [assigned_to] => 
+    [assigned_date] => 
+    [total_assigned] => 0
+    [total_returned] => 0
+    [available_qty] => 0
+    [category_name] => Firewall
+    [sub_category_name] => 
+    [brand_name] => Netgear
+    [type_name] => Firewall
+)
+
+[15-Jun-2026 07:11:07 UTC] Device updated successfully. Device ID: 34, Item ID: 65
+[15-Jun-2026 07:11:16 UTC] === save_device_changes.php called ===
+[15-Jun-2026 07:11:16 UTC] POST data: Array
+(
+    [device_id] => 34
+    [device_name] => Firewall Personal
+    [brand_name] => Netgear
+    [model_number] => M9806
+    [serial_number] => S09443L09
+    [specification] => 
+    [purchase_date] => 2026-06-01
+    [assigned_date] => 2026-06-15
+    [assigned_by] => IT Department
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 14
+    [category_id] => 
+    [sub_category_id] => 
+    [brand_id] => 12
+    [warranty_months] => 12
+    [price] => 12000.00
+    [quantity] => 1
+    [existing_item_id] => 65
+)
+
+[15-Jun-2026 07:11:16 UTC] Device ID: 34, Existing Item ID: 65
+[15-Jun-2026 07:11:16 UTC] Linking to existing item: ITM-000012 - Testing 004
+[15-Jun-2026 07:11:16 UTC] After save - new_item_id = 65
+[15-Jun-2026 07:14:47 UTC] === save_device_changes.php called ===
+[15-Jun-2026 07:14:47 UTC] POST data: Array
+(
+    [device_id] => 39
+    [device_name] => HP Printer Color H-1000
+    [brand_name] => HP
+    [model_number] => 
+    [serial_number] => 
+    [specification] => 
+    [purchase_date] => 2026-06-01
+    [assigned_date] => 2026-06-15
+    [assigned_by] => IT Department
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 21
+    [category_id] => 4
+    [sub_category_id] => 11
+    [brand_id] => 2
+    [warranty_months] => 12
+    [price] => 13500
+    [quantity] => 1
+    [existing_item_id] => 
+)
+
+[15-Jun-2026 07:14:47 UTC] Device ID: 39, Existing Item ID: NULL
+[15-Jun-2026 07:14:47 UTC] After save - new_item_id = NULL
+[15-Jun-2026 07:23:52 UTC] === link_existing_item.php called ===
+[15-Jun-2026 07:23:52 UTC] POST data: Array
+(
+    [device_id] => 40
+    [item_id] => 52
+)
+
+[15-Jun-2026 07:23:52 UTC] Found item: Array
+(
+    [id] => 52
+    [item_code] => ITM-000001
+    [name] => HP ZBook Firefly 14 G8
+    [specification] => 
+    [type_id] => 1
+    [category_id] => 1
+    [sub_category_id] => 9
+    [serial_number] => S0987L09898
+    [model_number] => M980897D9880
+    [version] => 
+    [revision_count] => 0
+    [created_by] => 1
+    [brand] => 
+    [brand_id] => 2
+    [warranty_period] => 12
+    [price] => 48000.00
+    [regular_price] => 48000.00
+    [current_qty] => 1
+    [min_qty] => 1
+    [is_active] => 1
+    [created_at] => 2026-06-14 17:17:15
+    [warranty_status] => in_warranty
+    [warranty_end_date] => 2027-06-14
+    [purchase_date] => 2026-06-14
+    [warranty_period_months] => 12
+    [assigned_to] => 
+    [assigned_date] => 
+    [total_assigned] => 1
+    [total_returned] => 1
+    [available_qty] => 1
+    [category_name] => Hardware
+    [sub_category_name] => Laptop
+    [brand_name] => HP
+    [type_name] => Laptop
+)
+
+[15-Jun-2026 07:23:52 UTC] Device updated successfully. Device ID: 40, Item ID: 52
+[15-Jun-2026 07:24:05 UTC] === save_device_changes.php called ===
+[15-Jun-2026 07:24:05 UTC] POST data: Array
+(
+    [device_id] => 40
+    [device_name] => HP ZBook Firefly 14 G8
+    [brand_name] => 
+    [model_number] => LH0956M87
+    [serial_number] => S098H6N7L
+    [specification] => 
+    [purchase_date] => 2026-06-09
+    [assigned_date] => 2026-06-13
+    [assigned_by] => IT Department
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 1
+    [category_id] => 1
+    [sub_category_id] => 9
+    [brand_id] => 2
+    [warranty_months] => 12
+    [price] => 48000.00
+    [quantity] => 1
+    [existing_item_id] => 52
+)
+
+[15-Jun-2026 07:24:05 UTC] Device ID: 40, Existing Item ID: 52
+[15-Jun-2026 07:24:05 UTC] Linking to existing item: ITM-000001 - HP ZBook Firefly 14 G8
+[15-Jun-2026 07:24:05 UTC] After save - new_item_id = 52
+[15-Jun-2026 07:26:53 UTC] === save_device_changes.php called ===
+[15-Jun-2026 07:26:53 UTC] POST data: Array
+(
+    [device_id] => 35
+    [device_name] => Hybrid Desktop PC
+    [brand_name] => Hybrid Desktop PC
+    [model_number] => D-390126
+    [serial_number] => SIHUE897
+    [specification] => RAM-16 GB, SSD- 512 GB, Processor-intel core i3, Monitor- Dahua 15", Operating system- Windows 10 pro
+    [purchase_date] => 2026-02-01
+    [assigned_date] => 2026-03-01
+    [assigned_by] => IT Department
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 2
+    [category_id] => 1
+    [sub_category_id] => 10
+    [brand_id] => 17
+    [warranty_months] => 12
+    [price] => 32000
+    [quantity] => 1
+    [existing_item_id] => 
+)
+
+[15-Jun-2026 07:26:53 UTC] Device ID: 35, Existing Item ID: NULL
+[15-Jun-2026 07:26:53 UTC] After save - new_item_id = NULL
+[15-Jun-2026 07:28:08 UTC] === link_existing_item.php called ===
+[15-Jun-2026 07:28:08 UTC] POST data: Array
+(
+    [device_id] => 36
+    [item_id] => 53
+)
+
+[15-Jun-2026 07:28:08 UTC] Found item: Array
+(
+    [id] => 53
+    [item_code] => ITM-000002
+    [name] => A4Tech Wireless
+    [specification] => 
+    [type_id] => 6
+    [category_id] => 4
+    [sub_category_id] => 27
+    [serial_number] => GB2509008120
+    [model_number] => FG15C Air2
+    [version] => 
+    [revision_count] => 0
+    [created_by] => 1
+    [brand] => 
+    [brand_id] => 
+    [warranty_period] => 12
+    [price] => 1100.00
+    [regular_price] => 1100.00
+    [current_qty] => 4
+    [min_qty] => 1
+    [is_active] => 1
+    [created_at] => 2026-06-14 17:18:12
+    [warranty_status] => in_warranty
+    [warranty_end_date] => 2027-06-14
+    [purchase_date] => 2026-06-14
+    [warranty_period_months] => 12
+    [assigned_to] => 
+    [assigned_date] => 
+    [total_assigned] => 3
+    [total_returned] => 0
+    [available_qty] => 1
+    [category_name] => Peripherals & Accessories
+    [sub_category_name] => Keyboard & Mouse
+    [brand_name] => 
+    [type_name] => Mouse
+)
+
+[15-Jun-2026 07:28:08 UTC] Device updated successfully. Device ID: 36, Item ID: 53
+[15-Jun-2026 07:28:46 UTC] === save_device_changes.php called ===
+[15-Jun-2026 07:28:46 UTC] POST data: Array
+(
+    [device_id] => 36
+    [device_name] => Optical Mouse
+    [brand_name] => 
+    [model_number] => BG1707182911
+    [serial_number] => SASOI23321234
+    [specification] => 
+    [purchase_date] => 2026-01-01
+    [assigned_date] => 2026-03-01
+    [assigned_by] => IT Department
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 6
+    [category_id] => 4
+    [sub_category_id] => 27
+    [brand_id] => 2
+    [warranty_months] => 12
+    [price] => 1100.00
+    [quantity] => 1
+    [existing_item_id] => 53
+)
+
+[15-Jun-2026 07:28:46 UTC] Device ID: 36, Existing Item ID: 53
+[15-Jun-2026 07:28:46 UTC] Linking to existing item: ITM-000002 - A4Tech Wireless
+[15-Jun-2026 07:28:46 UTC] After save - new_item_id = 53
+[15-Jun-2026 08:21:07 UTC] PHP Warning:  Undefined array key "category_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 205
+[15-Jun-2026 08:21:07 UTC] PHP Warning:  Undefined array key "sub_category_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 206
+[15-Jun-2026 08:21:07 UTC] PHP Warning:  Undefined array key "brand_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 207
+[15-Jun-2026 08:21:15 UTC] PHP Warning:  Undefined array key "sub_category_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 206
+[15-Jun-2026 11:11:06 UTC] PHP Warning:  Undefined array key "category_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 205
+[15-Jun-2026 11:11:06 UTC] PHP Warning:  Undefined array key "sub_category_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 206
+[15-Jun-2026 11:11:06 UTC] PHP Warning:  Undefined array key "brand_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 207
+[15-Jun-2026 11:11:39 UTC] PHP Warning:  Undefined array key "category_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 205
+[15-Jun-2026 11:11:39 UTC] PHP Warning:  Undefined array key "sub_category_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 206
+[15-Jun-2026 11:11:39 UTC] PHP Warning:  Undefined array key "brand_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 207
+[04-Aug-2026 03:41:27 UTC] PHP Warning:  require_once(../../config/database.php): Failed to open stream: No such file or directory in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 2
+[04-Aug-2026 03:41:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/database.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 2
+[04-Aug-2026 03:48:46 UTC] PHP Warning:  require_once(../../config/database.php): Failed to open stream: No such file or directory in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 2
+[04-Aug-2026 03:48:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/database.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 2
+[04-Aug-2026 03:48:51 UTC] PHP Warning:  require_once(../../config/database.php): Failed to open stream: No such file or directory in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 2
+[04-Aug-2026 03:48:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/database.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 2
+[04-Aug-2026 03:48:57 UTC] PHP Warning:  require_once(../../config/database.php): Failed to open stream: No such file or directory in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 2
+[04-Aug-2026 03:48:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/database.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 2
+[04-Aug-2026 03:51:26 UTC] Session active for user: 1
+[04-Aug-2026 03:51:26 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 115
+[04-Aug-2026 03:51:36 UTC] Session active for user: 1
+[04-Aug-2026 03:51:36 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 115
+[04-Aug-2026 03:56:57 UTC] Session active for user: 1
+[04-Aug-2026 03:56:57 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 115
+[04-Aug-2026 04:00:09 UTC] Session active for user: 4
+[04-Aug-2026 04:00:09 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 115
+[04-Aug-2026 04:00:22 UTC] Session active for user: 4
+[04-Aug-2026 04:00:22 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 115
+[04-Aug-2026 04:03:55 UTC] Session active for user: 1
+[04-Aug-2026 04:03:55 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 114
+[04-Aug-2026 04:50:38 UTC] Session active for user: 1
+[04-Aug-2026 04:50:38 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 114
+[10-Aug-2026 16:07:39 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=27
+[10-Aug-2026 16:07:39 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 114
+[10-Aug-2026 16:07:39 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 114
+[10-Aug-2026 16:28:24 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=28
+[10-Aug-2026 16:28:24 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 114
+[10-Aug-2026 16:31:21 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=28
+[10-Aug-2026 16:31:21 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 114
+[10-Aug-2026 16:35:11 UTC] === save_device_changes.php called ===
+[10-Aug-2026 16:35:11 UTC] POST data: Array
+(
+    [device_id] => 41
+    [device_name] => HP Laptop
+    [brand_name] => 
+    [model_number] => M9065
+    [serial_number] => S09876
+    [specification] => 
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 1
+    [category_id] => 
+    [sub_category_id] => 
+    [brand_id] => 
+    [warranty_months] => 12
+    [price] => 
+    [quantity] => 1
+    [existing_item_id] => 0
+)
+
+[10-Aug-2026 16:35:11 UTC] Device ID: 41, Existing Item ID: NULL
+[10-Aug-2026 16:35:11 UTC] PHP Warning:  Undefined array key "assigned_by" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/save_device_changes.php on line 66
+[10-Aug-2026 16:35:11 UTC] After save - new_item_id = NULL
+[10-Aug-2026 16:35:15 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=28
+[10-Aug-2026 16:35:15 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 114
+[10-Aug-2026 16:45:18 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=28
+[10-Aug-2026 16:45:18 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 128
+[10-Aug-2026 17:09:23 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=28
+[10-Aug-2026 17:09:23 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 128
+[10-Aug-2026 17:57:39 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=28
+[10-Aug-2026 17:57:39 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 128
+[10-Aug-2026 17:58:02 UTC] PHP Parse error:  Unmatched ')' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/save_device_changes.php on line 5
+[10-Aug-2026 17:58:09 UTC] PHP Parse error:  Unmatched ')' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/save_device_changes.php on line 5
+[10-Aug-2026 17:58:22 UTC] PHP Parse error:  Unmatched ')' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/save_device_changes.php on line 5
+[11-Aug-2026 02:29:58 UTC] PHP Parse error:  Unmatched ')' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/save_device_changes.php on line 5
+[11-Aug-2026 02:31:57 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=28
+[11-Aug-2026 02:31:57 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 128
+[11-Aug-2026 02:32:01 UTC] PHP Parse error:  Unmatched ')' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/save_device_changes.php on line 5
+[11-Aug-2026 02:51:10 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=28
+[11-Aug-2026 02:51:10 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 128
+[11-Aug-2026 02:51:25 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/save_device_changes.php
+[11-Aug-2026 02:51:25 UTC] === save_device_changes.php called ===
+[11-Aug-2026 02:51:25 UTC] POST data: Array
+(
+    [device_id] => 41
+    [device_name] => HP Laptop
+    [brand_name] => 
+    [model_number] => M9065
+    [serial_number] => S09876
+    [specification] => 
+    [purchase_date] => 
+    [assigned_date] => 
+    [assigned_by] => 
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 1
+    [category_id] => 
+    [sub_category_id] => 
+    [brand_id] => 
+    [warranty_months] => 12
+    [price] => 
+    [quantity] => 1
+    [existing_item_id] => 0
+)
+
+[11-Aug-2026 02:51:25 UTC] Device ID: 41, Existing Item ID: NULL
+[11-Aug-2026 02:51:25 UTC] Updating device with: device_name=HP Laptop, category_id=, price=, quantity=1
+[11-Aug-2026 02:51:25 UTC] After save - new_item_id = NULL
+[11-Aug-2026 02:51:30 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=28
+[11-Aug-2026 02:51:30 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 128
+[11-Aug-2026 02:51:54 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/save_device_changes.php
+[11-Aug-2026 02:51:54 UTC] === save_device_changes.php called ===
+[11-Aug-2026 02:51:54 UTC] POST data: Array
+(
+    [device_id] => 41
+    [device_name] => HP Laptop
+    [brand_name] => 
+    [model_number] => M9065
+    [serial_number] => S09876
+    [specification] => 
+    [purchase_date] => 
+    [assigned_date] => 
+    [assigned_by] => 
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 1
+    [category_id] => 
+    [sub_category_id] => 
+    [brand_id] => 
+    [warranty_months] => 12
+    [price] => 
+    [quantity] => 1
+    [existing_item_id] => 0
+)
+
+[11-Aug-2026 02:51:54 UTC] Device ID: 41, Existing Item ID: NULL
+[11-Aug-2026 02:51:54 UTC] Updating device with: device_name=HP Laptop, category_id=, price=, quantity=1
+[11-Aug-2026 02:51:54 UTC] After save - new_item_id = NULL
+[11-Aug-2026 02:52:10 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=28
+[11-Aug-2026 02:52:10 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 128
+[11-Aug-2026 02:59:40 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=28
+[11-Aug-2026 02:59:40 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 155
+[11-Aug-2026 02:59:53 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/save_device_changes.php
+[11-Aug-2026 02:59:53 UTC] === save_device_changes.php called ===
+[11-Aug-2026 02:59:53 UTC] POST data: Array
+(
+    [device_id] => 41
+    [device_name] => HP Laptop
+    [brand_name] => 
+    [model_number] => M9065
+    [serial_number] => S09876
+    [specification] => 
+    [purchase_date] => 
+    [assigned_date] => 
+    [assigned_by] => 
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 1
+    [category_id] => 
+    [sub_category_id] => 
+    [brand_id] => 
+    [warranty_months] => 12
+    [price] => 
+    [quantity] => 1
+    [existing_item_id] => 0
+)
+
+[11-Aug-2026 02:59:53 UTC] Device ID: 41, Existing Item ID: NULL
+[11-Aug-2026 02:59:53 UTC] Updating device with: device_name=HP Laptop, category_id=, price=, quantity=1
+[11-Aug-2026 02:59:53 UTC] After save - new_item_id = NULL
+[11-Aug-2026 02:59:57 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=28
+[11-Aug-2026 02:59:57 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 155
+[11-Aug-2026 03:06:35 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=28
+[11-Aug-2026 03:06:35 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 165
+[11-Aug-2026 03:11:50 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=28
+[11-Aug-2026 03:11:50 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 171
+[11-Aug-2026 03:19:04 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=28
+[11-Aug-2026 03:19:04 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[11-Aug-2026 03:19:25 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/save_device_changes.php
+[11-Aug-2026 03:19:25 UTC] === save_device_changes.php called ===
+[11-Aug-2026 03:19:25 UTC] POST data: Array
+(
+    [device_id] => 41
+    [device_name] => HP Laptop
+    [brand_name] => 
+    [model_number] => M9065
+    [serial_number] => S09876
+    [specification] => 
+    [purchase_date] => 
+    [assigned_date] => 
+    [assigned_by] => 
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 1
+    [category_id] => 1
+    [sub_category_id] => 9
+    [brand_id] => 2
+    [warranty_months] => 12
+    [price] => 3000.00
+    [quantity] => 1
+    [existing_item_id] => 116
+)
+
+[11-Aug-2026 03:19:25 UTC] Device ID: 41, Existing Item ID: 116
+[11-Aug-2026 03:19:25 UTC] Linking to existing item: ITM-000063 - Laptop Checking
+[11-Aug-2026 03:19:25 UTC] Updating device with: device_name=HP Laptop, category_id=1, price=3000, quantity=1
+[11-Aug-2026 03:19:25 UTC] After save - new_item_id = 116
+[11-Aug-2026 03:19:29 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=28
+[11-Aug-2026 03:20:11 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 11
+[11-Aug-2026 03:20:11 UTC] PHP Warning:  session_save_path(): Session save path cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 12
+[11-Aug-2026 03:20:11 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 15
+[11-Aug-2026 03:20:11 UTC] Session restored for user: 1 on /modules/unlisted_devices/ajax/process_device.php
+[11-Aug-2026 03:20:11 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/process_device.php
+[11-Aug-2026 05:05:08 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=29
+[11-Aug-2026 05:05:08 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[11-Aug-2026 05:06:27 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/save_device_changes.php
+[11-Aug-2026 05:06:27 UTC] === save_device_changes.php called ===
+[11-Aug-2026 05:06:27 UTC] POST data: Array
+(
+    [device_id] => 42
+    [device_name] => Monitor
+    [brand_name] => 
+    [model_number] => KRS-82
+    [serial_number] => BG2010117435
+    [specification] => LG monitor
+    [purchase_date] => 
+    [assigned_date] => 
+    [assigned_by] => 
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 4
+    [category_id] => 1
+    [sub_category_id] => 38
+    [brand_id] => 7
+    [warranty_months] => 12
+    [price] => 
+    [quantity] => 1
+    [existing_item_id] => 0
+)
+
+[11-Aug-2026 05:06:27 UTC] Device ID: 42, Existing Item ID: NULL
+[11-Aug-2026 05:06:27 UTC] Updating device with: device_name=Monitor, category_id=1, price=, quantity=1
+[11-Aug-2026 05:06:27 UTC] After save - new_item_id = NULL
+[11-Aug-2026 05:06:32 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=29
+[11-Aug-2026 05:06:32 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[11-Aug-2026 08:42:20 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=30
+[11-Aug-2026 08:42:20 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[11-Aug-2026 12:46:59 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=30
+[11-Aug-2026 12:46:59 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[11-Aug-2026 12:47:02 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=30
+[11-Aug-2026 12:47:02 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[11-Aug-2026 12:47:10 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=29
+[11-Aug-2026 12:47:10 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[11-Aug-2026 12:47:27 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/save_device_changes.php
+[11-Aug-2026 12:47:27 UTC] === save_device_changes.php called ===
+[11-Aug-2026 12:47:27 UTC] POST data: Array
+(
+    [device_id] => 42
+    [device_name] => Monitor
+    [brand_name] => LG
+    [model_number] => KRS-82
+    [serial_number] => BG2010117435
+    [specification] => LG monitor
+    [purchase_date] => 
+    [assigned_date] => 
+    [assigned_by] => 
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 4
+    [category_id] => 1
+    [sub_category_id] => 38
+    [brand_id] => 7
+    [warranty_months] => 12
+    [price] => 
+    [quantity] => 1
+    [existing_item_id] => 0
+)
+
+[11-Aug-2026 12:47:27 UTC] Device ID: 42, Existing Item ID: NULL
+[11-Aug-2026 12:47:27 UTC] Updating device with: device_name=Monitor, category_id=1, price=, quantity=1
+[11-Aug-2026 12:47:27 UTC] After save - new_item_id = NULL
+[11-Aug-2026 12:47:27 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/save_device_changes.php
+[11-Aug-2026 12:47:27 UTC] === save_device_changes.php called ===
+[11-Aug-2026 12:47:27 UTC] POST data: Array
+(
+    [device_id] => 42
+    [device_name] => Monitor
+    [brand_name] => LG
+    [model_number] => KRS-82
+    [serial_number] => BG2010117435
+    [specification] => LG monitor
+    [purchase_date] => 
+    [assigned_date] => 
+    [assigned_by] => 
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 4
+    [category_id] => 1
+    [sub_category_id] => 38
+    [brand_id] => 7
+    [warranty_months] => 12
+    [price] => 
+    [quantity] => 1
+    [existing_item_id] => 0
+)
+
+[11-Aug-2026 12:47:27 UTC] Device ID: 42, Existing Item ID: NULL
+[11-Aug-2026 12:47:27 UTC] Updating device with: device_name=Monitor, category_id=1, price=, quantity=1
+[11-Aug-2026 12:47:27 UTC] After save - new_item_id = NULL
+[12-Aug-2026 05:39:11 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=31
+[12-Aug-2026 05:39:11 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[12-Aug-2026 06:11:53 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=31
+[12-Aug-2026 06:11:53 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[12-Aug-2026 06:14:25 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=32
+[12-Aug-2026 06:14:25 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[12-Aug-2026 06:14:35 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=29
+[12-Aug-2026 06:14:35 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[12-Aug-2026 06:16:44 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=29
+[12-Aug-2026 06:16:44 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[12-Aug-2026 06:18:22 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=29
+[12-Aug-2026 06:18:22 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[12-Aug-2026 06:54:58 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=29
+[12-Aug-2026 06:54:58 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[12-Aug-2026 06:55:06 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=33
+[12-Aug-2026 06:55:06 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[12-Aug-2026 06:55:13 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=29
+[12-Aug-2026 06:55:13 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[12-Aug-2026 06:55:22 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=33
+[12-Aug-2026 06:55:22 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[12-Aug-2026 07:02:21 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=33
+[12-Aug-2026 07:02:21 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[12-Aug-2026 09:43:32 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=31
+[12-Aug-2026 09:43:32 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[12-Aug-2026 09:52:23 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=34
+[12-Aug-2026 09:52:23 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[12-Aug-2026 09:57:19 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=34
+[12-Aug-2026 09:57:19 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[12-Aug-2026 09:58:13 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/save_device_changes.php
+[12-Aug-2026 09:58:13 UTC] === save_device_changes.php called ===
+[12-Aug-2026 09:58:13 UTC] POST data: Array
+(
+    [device_id] => 47
+    [device_name] => HP
+    [brand_name] => 
+    [model_number] => z book
+    [serial_number] => BG2010117435
+    [specification] => 
+    [purchase_date] => 
+    [assigned_date] => 
+    [assigned_by] => 
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 1
+    [category_id] => 1
+    [sub_category_id] => 9
+    [brand_id] => 2
+    [warranty_months] => 12
+    [price] => 75000
+    [quantity] => 1
+    [existing_item_id] => 0
+)
+
+[12-Aug-2026 09:58:13 UTC] Device ID: 47, Existing Item ID: NULL
+[12-Aug-2026 09:58:13 UTC] Updating device with: device_name=HP, category_id=1, price=75000, quantity=1
+[12-Aug-2026 09:58:13 UTC] After save - new_item_id = NULL
+[12-Aug-2026 09:58:30 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=34
+[12-Aug-2026 09:58:54 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 15
+[12-Aug-2026 09:58:54 UTC] PHP Warning:  session_save_path(): Session save path cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 16
+[12-Aug-2026 09:58:54 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 19
+[12-Aug-2026 09:58:54 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 20
+[12-Aug-2026 09:58:54 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 21
+[12-Aug-2026 09:58:54 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 27
+[12-Aug-2026 09:58:54 UTC] Session restored for user: 1 on /modules/unlisted_devices/ajax/process_device.php
+[12-Aug-2026 09:58:54 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/process_device.php
+[12-Aug-2026 09:58:59 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=34
+[12-Aug-2026 09:59:14 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 15
+[12-Aug-2026 09:59:14 UTC] PHP Warning:  session_save_path(): Session save path cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 16
+[12-Aug-2026 09:59:14 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 19
+[12-Aug-2026 09:59:14 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 20
+[12-Aug-2026 09:59:14 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 21
+[12-Aug-2026 09:59:14 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 27
+[12-Aug-2026 09:59:14 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/process_device.php
+[12-Aug-2026 09:59:24 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=34
+[12-Aug-2026 10:02:34 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=34
+[12-Aug-2026 10:03:49 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=29
+[12-Aug-2026 10:03:49 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[12-Aug-2026 10:03:58 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 15
+[12-Aug-2026 10:03:58 UTC] PHP Warning:  session_save_path(): Session save path cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 16
+[12-Aug-2026 10:03:58 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 19
+[12-Aug-2026 10:03:58 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 20
+[12-Aug-2026 10:03:58 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 21
+[12-Aug-2026 10:03:58 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 27
+[12-Aug-2026 10:03:58 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/process_device.php
+[12-Aug-2026 10:04:03 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=29
+[12-Aug-2026 10:04:03 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[12-Aug-2026 10:04:29 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 15
+[12-Aug-2026 10:04:29 UTC] PHP Warning:  session_save_path(): Session save path cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 16
+[12-Aug-2026 10:04:29 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 19
+[12-Aug-2026 10:04:29 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 20
+[12-Aug-2026 10:04:29 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 21
+[12-Aug-2026 10:04:29 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 27
+[12-Aug-2026 10:04:29 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/process_device.php
+[12-Aug-2026 10:04:43 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=30
+[12-Aug-2026 10:04:43 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[12-Aug-2026 11:02:26 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=33
+[12-Aug-2026 11:02:26 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[12-Aug-2026 11:02:35 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=33
+[12-Aug-2026 11:02:35 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[23-Aug-2026 06:08:35 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=36
+[23-Aug-2026 06:08:35 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[23-Aug-2026 06:09:36 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/save_device_changes.php
+[23-Aug-2026 06:09:36 UTC] === save_device_changes.php called ===
+[23-Aug-2026 06:09:36 UTC] POST data: Array
+(
+    [device_id] => 49
+    [device_name] => Mouse
+    [brand_name] => A4Tech
+    [model_number] => OP-730D
+    [serial_number] => BG2010117435
+    [specification] => Wire mouse
+    [purchase_date] => 
+    [assigned_date] => 
+    [assigned_by] => 
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 6
+    [category_id] => 
+    [sub_category_id] => 
+    [brand_id] => 
+    [warranty_months] => 12
+    [price] => 
+    [quantity] => 1
+    [existing_item_id] => 0
+)
+
+[23-Aug-2026 06:09:36 UTC] Device ID: 49, Existing Item ID: NULL
+[23-Aug-2026 06:09:36 UTC] Updating device with: device_name=Mouse, category_id=, price=, quantity=1
+[23-Aug-2026 06:09:36 UTC] After save - new_item_id = NULL
+[23-Aug-2026 06:09:40 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=36
+[23-Aug-2026 06:09:40 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[23-Aug-2026 06:09:46 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=36
+[23-Aug-2026 06:09:46 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[23-Aug-2026 06:10:42 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/save_device_changes.php
+[23-Aug-2026 06:10:42 UTC] === save_device_changes.php called ===
+[23-Aug-2026 06:10:42 UTC] POST data: Array
+(
+    [device_id] => 49
+    [device_name] => Mouse
+    [brand_name] => 
+    [model_number] => OP-730D
+    [serial_number] => BG2010117435
+    [specification] => Wire mouse
+    [purchase_date] => 
+    [assigned_date] => 
+    [assigned_by] => 
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 6
+    [category_id] => 
+    [sub_category_id] => 
+    [brand_id] => 
+    [warranty_months] => 12
+    [price] => 
+    [quantity] => 1
+    [existing_item_id] => 0
+)
+
+[23-Aug-2026 06:10:42 UTC] Device ID: 49, Existing Item ID: NULL
+[23-Aug-2026 06:10:42 UTC] Updating device with: device_name=Mouse, category_id=, price=, quantity=1
+[23-Aug-2026 06:10:42 UTC] After save - new_item_id = NULL
+[23-Aug-2026 06:10:46 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=36
+[23-Aug-2026 06:10:46 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[23-Aug-2026 06:19:01 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=36
+[23-Aug-2026 06:19:01 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[23-Aug-2026 08:41:50 UTC] Session restored for user: 1 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=36
+[23-Aug-2026 08:41:50 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=36
+[23-Aug-2026 08:41:50 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[23-Aug-2026 10:05:12 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=36
+[23-Aug-2026 10:05:12 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[23-Aug-2026 10:05:55 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/save_device_changes.php
+[23-Aug-2026 10:05:55 UTC] === save_device_changes.php called ===
+[23-Aug-2026 10:05:55 UTC] POST data: Array
+(
+    [device_id] => 49
+    [device_name] => Mouse
+    [brand_name] => 
+    [model_number] => OP-730D
+    [serial_number] => BG2010117435
+    [specification] => Wire mouse
+    [purchase_date] => 
+    [assigned_date] => 
+    [assigned_by] => 
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 6
+    [category_id] => 
+    [sub_category_id] => 
+    [brand_id] => 
+    [warranty_months] => 6
+    [price] => 
+    [quantity] => 1
+    [existing_item_id] => 0
+)
+
+[23-Aug-2026 10:05:55 UTC] Device ID: 49, Existing Item ID: NULL
+[23-Aug-2026 10:05:55 UTC] Updating device with: device_name=Mouse, category_id=, price=, quantity=1
+[23-Aug-2026 10:05:55 UTC] After save - new_item_id = NULL
+[23-Aug-2026 10:05:59 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=36
+[23-Aug-2026 10:05:59 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[24-Aug-2026 11:39:27 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=36
+[24-Aug-2026 11:39:27 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[24-Aug-2026 11:40:12 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/save_device_changes.php
+[24-Aug-2026 11:40:12 UTC] === save_device_changes.php called ===
+[24-Aug-2026 11:40:12 UTC] POST data: Array
+(
+    [device_id] => 49
+    [device_name] => Mouse
+    [brand_name] => 
+    [model_number] => OP-730D
+    [serial_number] => BG2010117435
+    [specification] => Wire mouse
+    [purchase_date] => 
+    [assigned_date] => 
+    [assigned_by] => 
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 6
+    [category_id] => 
+    [sub_category_id] => 
+    [brand_id] => 
+    [warranty_months] => 6
+    [price] => 
+    [quantity] => 1
+    [existing_item_id] => 0
+)
+
+[24-Aug-2026 11:40:12 UTC] Device ID: 49, Existing Item ID: NULL
+[24-Aug-2026 11:40:12 UTC] Updating device with: device_name=Mouse, category_id=, price=, quantity=1
+[24-Aug-2026 11:40:12 UTC] After save - new_item_id = NULL
+[24-Aug-2026 11:40:17 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=36
+[24-Aug-2026 11:40:17 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[24-Aug-2026 11:40:40 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=36
+[24-Aug-2026 11:40:40 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[31-Aug-2026 03:04:46 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=37
+[31-Aug-2026 03:04:46 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[31-Aug-2026 03:04:46 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[31-Aug-2026 03:04:46 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[31-Aug-2026 03:05:08 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=36
+[31-Aug-2026 03:05:08 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[31-Aug-2026 03:09:25 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=38
+[31-Aug-2026 03:09:25 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[31-Aug-2026 03:09:39 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=37
+[31-Aug-2026 03:09:39 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[31-Aug-2026 03:09:39 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[31-Aug-2026 03:09:39 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[31-Aug-2026 03:09:43 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=38
+[31-Aug-2026 03:09:43 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[31-Aug-2026 03:10:04 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/save_device_changes.php
+[31-Aug-2026 03:10:04 UTC] === save_device_changes.php called ===
+[31-Aug-2026 03:10:04 UTC] POST data: Array
+(
+    [device_id] => 53
+    [device_name] => Keyboard
+    [brand_name] => 
+    [model_number] => KRS-82
+    [serial_number] => 23SHI00
+    [specification] => wire keyboard
+    [purchase_date] => 
+    [assigned_date] => 
+    [assigned_by] => 
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 5
+    [category_id] => 
+    [sub_category_id] => 
+    [brand_id] => 
+    [warranty_months] => 6
+    [price] => 
+    [quantity] => 1
+    [existing_item_id] => 0
+)
+
+[31-Aug-2026 03:10:04 UTC] Device ID: 53, Existing Item ID: NULL
+[31-Aug-2026 03:10:04 UTC] Updating device with: device_name=Keyboard, category_id=, price=, quantity=1
+[31-Aug-2026 03:10:04 UTC] After save - new_item_id = NULL
+[31-Aug-2026 03:10:07 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=37
+[31-Aug-2026 03:10:07 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[31-Aug-2026 03:10:07 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[31-Aug-2026 03:10:07 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[31-Aug-2026 03:10:38 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/save_device_changes.php
+[31-Aug-2026 03:10:38 UTC] === save_device_changes.php called ===
+[31-Aug-2026 03:10:38 UTC] POST data: Array
+(
+    [device_id] => 52
+    [device_name] => Clone PC
+    [brand_name] => 
+    [model_number] => 
+    [serial_number] => 
+    [specification] => i3, G7, 16GB, 512GB, 1TB
+    [purchase_date] => 
+    [assigned_date] => 
+    [assigned_by] => 
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 33
+    [category_id] => 
+    [sub_category_id] => 
+    [brand_id] => 
+    [warranty_months] => 6
+    [price] => 
+    [quantity] => 1
+    [existing_item_id] => 0
+)
+
+[31-Aug-2026 03:10:38 UTC] Device ID: 52, Existing Item ID: NULL
+[31-Aug-2026 03:10:38 UTC] Updating device with: device_name=Clone PC, category_id=, price=, quantity=1
+[31-Aug-2026 03:10:38 UTC] After save - new_item_id = NULL
+[31-Aug-2026 03:10:42 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=37
+[31-Aug-2026 03:10:42 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[31-Aug-2026 03:10:42 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[31-Aug-2026 03:10:42 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[31-Aug-2026 03:11:01 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/save_device_changes.php
+[31-Aug-2026 03:11:01 UTC] === save_device_changes.php called ===
+[31-Aug-2026 03:11:01 UTC] POST data: Array
+(
+    [device_id] => 51
+    [device_name] => IPT
+    [brand_name] => 
+    [model_number] => T21PE2
+    [serial_number] => 2121118070D3892
+    [specification] => IPT
+    [purchase_date] => 
+    [assigned_date] => 
+    [assigned_by] => 
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 33
+    [category_id] => 
+    [sub_category_id] => 
+    [brand_id] => 
+    [warranty_months] => 6
+    [price] => 
+    [quantity] => 1
+    [existing_item_id] => 0
+)
+
+[31-Aug-2026 03:11:01 UTC] Device ID: 51, Existing Item ID: NULL
+[31-Aug-2026 03:11:01 UTC] Updating device with: device_name=IPT, category_id=, price=, quantity=1
+[31-Aug-2026 03:11:01 UTC] After save - new_item_id = NULL
+[31-Aug-2026 03:11:08 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=38
+[31-Aug-2026 03:11:08 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[31-Aug-2026 03:50:09 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=38
+[31-Aug-2026 03:50:09 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[31-Aug-2026 03:50:14 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=37
+[31-Aug-2026 03:50:14 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[31-Aug-2026 03:50:14 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[31-Aug-2026 03:50:14 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[31-Aug-2026 08:31:39 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=38
+[31-Aug-2026 08:31:39 UTC] PHP Warning:  Undefined array key "price" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/get_submission_devices.php on line 170
+[17-Sep-2026 03:29:08 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=38
+[17-Sep-2026 03:29:13 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=37
+[17-Sep-2026 03:29:18 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=36
+[21-Sep-2026 03:25:07 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=39
+[21-Sep-2026 03:25:47 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/save_device_changes.php
+[21-Sep-2026 03:25:47 UTC] === save_device_changes.php called ===
+[21-Sep-2026 03:25:47 UTC] POST data: Array
+(
+    [device_id] => 54
+    [device_name] => Laptop
+    [brand_name] => 
+    [model_number] => 14-ac130TU
+    [serial_number] => 5CG553289N
+    [specification] => i3,G4,8GB,1TB
+    [purchase_date] => 
+    [assigned_date] => 
+    [assigned_by] => 
+    [current_condition] => good
+    [notes] => 
+    [item_type_id] => 1
+    [category_id] => 58
+    [sub_category_id] => 
+    [brand_id] => 2
+    [warranty_months] => 12
+    [price] => 
+    [quantity] => 1
+    [existing_item_id] => 0
+)
+
+[21-Sep-2026 03:25:47 UTC] Device ID: 54, Existing Item ID: NULL
+[21-Sep-2026 03:25:47 UTC] Updating device with: device_name=Laptop, category_id=58, price=, quantity=1
+[21-Sep-2026 03:25:47 UTC] After save - new_item_id = NULL
+[21-Sep-2026 03:25:52 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=39
+[21-Sep-2026 03:26:07 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/process_device.php
+[21-Sep-2026 03:26:12 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=39
+[21-Sep-2026 03:27:07 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=39
+[21-Sep-2026 03:27:46 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/process_device.php
+[21-Sep-2026 03:27:51 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=39
+[21-Sep-2026 03:28:42 UTC] Session active for user: 1 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=39
+[21-Sep-2026 03:29:36 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=39
+[21-Sep-2026 03:29:56 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/process_device.php
+[21-Sep-2026 03:29:56 UTC] PHP Warning:  Undefined array key "sub_category_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 222
+[21-Sep-2026 03:41:49 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=38
+[21-Sep-2026 03:42:07 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/process_device.php
+[21-Sep-2026 03:42:11 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=38
+[21-Sep-2026 03:43:29 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=38
+[21-Sep-2026 03:43:45 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/process_device.php
+[21-Sep-2026 03:43:45 UTC] PHP Warning:  Undefined array key "category_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 221
+[21-Sep-2026 03:43:45 UTC] PHP Warning:  Undefined array key "sub_category_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 222
+[21-Sep-2026 03:43:45 UTC] PHP Warning:  Undefined array key "brand_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 223
+[21-Sep-2026 03:43:49 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=37
+[21-Sep-2026 03:43:54 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/process_device.php
+[21-Sep-2026 03:43:57 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=37
+[21-Sep-2026 03:44:05 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/process_device.php
+[21-Sep-2026 03:44:05 UTC] PHP Warning:  Undefined array key "category_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 221
+[21-Sep-2026 03:44:05 UTC] PHP Warning:  Undefined array key "sub_category_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 222
+[21-Sep-2026 03:44:05 UTC] PHP Warning:  Undefined array key "brand_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 223
+[21-Sep-2026 03:44:10 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=37
+[21-Sep-2026 03:44:21 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/process_device.php
+[21-Sep-2026 03:44:24 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=37
+[21-Sep-2026 03:44:35 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/process_device.php
+[21-Sep-2026 03:44:35 UTC] PHP Warning:  Undefined array key "category_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 221
+[21-Sep-2026 03:44:35 UTC] PHP Warning:  Undefined array key "sub_category_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 222
+[21-Sep-2026 03:44:35 UTC] PHP Warning:  Undefined array key "brand_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 223
+[21-Sep-2026 03:44:39 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=37
+[21-Sep-2026 03:44:47 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/process_device.php
+[21-Sep-2026 03:44:50 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=37
+[21-Sep-2026 03:45:03 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/process_device.php
+[21-Sep-2026 03:45:03 UTC] PHP Warning:  Undefined array key "category_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 221
+[21-Sep-2026 03:45:03 UTC] PHP Warning:  Undefined array key "sub_category_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 222
+[21-Sep-2026 03:45:03 UTC] PHP Warning:  Undefined array key "brand_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 223
+[21-Sep-2026 03:45:06 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=36
+[21-Sep-2026 03:45:12 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/process_device.php
+[21-Sep-2026 03:45:15 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/get_submission_devices.php?submission_id=36
+[21-Sep-2026 03:45:21 UTC] Session active for user: 4 on /modules/unlisted_devices/ajax/process_device.php
+[21-Sep-2026 03:45:21 UTC] PHP Warning:  Undefined array key "category_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 221
+[21-Sep-2026 03:45:21 UTC] PHP Warning:  Undefined array key "sub_category_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 222
+[21-Sep-2026 03:45:21 UTC] PHP Warning:  Undefined array key "brand_id" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/ajax/process_device.php on line 223

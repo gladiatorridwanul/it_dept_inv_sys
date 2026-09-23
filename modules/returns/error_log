@@ -1,0 +1,139 @@
+[01-Jun-2026 14:52:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rdr.employee_id' in 'on clause' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/returns/return_requests_list.php:124
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/returns/return_requests_list.php(124): PDO->query()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/returns/return_requests_list.php on line 124
+[01-Jun-2026 14:57:23 UTC] PHP Warning:  Undefined array key "status" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/returns/return_requests_list.php on line 213
+[01-Jun-2026 14:57:23 UTC] PHP Warning:  Undefined array key "status" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/returns/return_requests_list.php on line 214
+[01-Jun-2026 14:57:23 UTC] PHP Warning:  Undefined array key "status" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/returns/return_requests_list.php on line 247
+[01-Jun-2026 14:57:23 UTC] PHP Warning:  Undefined array key "status" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/returns/return_requests_list.php on line 257
+[01-Jun-2026 14:57:23 UTC] PHP Warning:  Undefined array key "status" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/returns/return_requests_list.php on line 264
+[01-Jun-2026 14:59:24 UTC] PHP Warning:  Undefined array key "status" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/returns/return_requests_list.php on line 213
+[01-Jun-2026 14:59:24 UTC] PHP Warning:  Undefined array key "status" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/returns/return_requests_list.php on line 214
+[01-Jun-2026 14:59:24 UTC] PHP Warning:  Undefined array key "status" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/returns/return_requests_list.php on line 247
+[01-Jun-2026 14:59:24 UTC] PHP Warning:  Undefined array key "status" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/returns/return_requests_list.php on line 257
+[01-Jun-2026 14:59:24 UTC] PHP Warning:  Undefined array key "status" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/returns/return_requests_list.php on line 264
+[01-Jun-2026 14:59:26 UTC] PHP Warning:  Undefined array key "status" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/returns/return_requests_list.php on line 213
+[01-Jun-2026 14:59:26 UTC] PHP Warning:  Undefined array key "status" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/returns/return_requests_list.php on line 214
+[01-Jun-2026 14:59:26 UTC] PHP Warning:  Undefined array key "status" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/returns/return_requests_list.php on line 247
+[01-Jun-2026 14:59:26 UTC] PHP Warning:  Undefined array key "status" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/returns/return_requests_list.php on line 257
+[01-Jun-2026 14:59:26 UTC] PHP Warning:  Undefined array key "status" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/returns/return_requests_list.php on line 264
+[01-Jun-2026 14:59:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rdr.updated_at' in 'field list' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/returns/return_requests_list.php:163
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/returns/return_requests_list.php(163): PDO->query()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/returns/return_requests_list.php on line 163
+[01-Jun-2026 15:01:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rdr.status' in 'field list' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/returns/return_requests_list.php:161
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/returns/return_requests_list.php(161): PDO->query()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/returns/return_requests_list.php on line 161
+[01-Jun-2026 15:04:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rdr.employee_id' in 'on clause' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/returns/get_return_details.php:26
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/returns/get_return_details.php(26): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/returns/get_return_details.php on line 26
+[01-Jun-2026 16:43:58 UTC] === Return Requests List Debug ===
+[01-Jun-2026 16:43:58 UTC] Total requests found: 1
+[01-Jun-2026 16:44:20 UTC] Process Return Devices - Request ID: 0
+[01-Jun-2026 16:44:20 UTC] === Return Requests List Debug ===
+[01-Jun-2026 16:44:20 UTC] Total requests found: 1
+[01-Jun-2026 16:44:24 UTC] Process Return Devices - Request ID: 0
+[01-Jun-2026 16:44:25 UTC] === Return Requests List Debug ===
+[01-Jun-2026 16:44:25 UTC] Total requests found: 1
+[01-Jun-2026 16:44:28 UTC] Process Return Devices - Request ID: 0
+[01-Jun-2026 16:44:28 UTC] === Return Requests List Debug ===
+[01-Jun-2026 16:44:28 UTC] Total requests found: 1
+[01-Jun-2026 16:44:54 UTC] === Return Requests List Debug ===
+[01-Jun-2026 16:44:54 UTC] Total requests found: 1
+[01-Jun-2026 16:44:58 UTC] Process Return Devices - Request ID: 0
+[01-Jun-2026 16:44:58 UTC] === Return Requests List Debug ===
+[01-Jun-2026 16:44:58 UTC] Total requests found: 1
+[01-Jun-2026 16:52:56 UTC] Process Return Devices - Request ID: 0
+[01-Jun-2026 16:57:47 UTC] Process Return Devices - Request ID: 0
+[01-Jun-2026 17:00:48 UTC] Process Return Devices - Request ID: 0
+[01-Jun-2026 17:13:07 UTC] Process Return Devices - Request ID: 0
+[01-Jun-2026 17:17:49 UTC] Process Return Devices - Request ID: 3
+[01-Jun-2026 17:21:18 UTC] Process Return Devices - Request ID: 0
+[01-Jun-2026 17:24:11 UTC] PHP Warning:  Undefined array key "quantity" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/returns/process_return_devices.php on line 375
+[01-Jun-2026 17:24:11 UTC] PHP Warning:  Undefined array key "quantity" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/returns/process_return_devices.php on line 396
+[02-Jun-2026 04:20:17 UTC] Returning Device: ITM-000001 (ID: 35)
+[02-Jun-2026 04:20:17 UTC] Before: available_qty=0, total_assigned=1, total_returned=0
+[02-Jun-2026 04:20:17 UTC] After: available_qty=1, total_assigned=0, total_returned=1
+[02-Jun-2026 04:20:17 UTC] Return Error: This device has already been returned to stock!
+[02-Jun-2026 04:20:17 UTC] Return Error: This device has already been returned to stock!
+[03-Jun-2026 03:49:42 UTC] Returning Device: ITM-000005 (ID: 39)
+[03-Jun-2026 03:49:42 UTC] Before: available_qty=0, total_assigned=1, total_returned=0
+[03-Jun-2026 03:49:42 UTC] After: available_qty=1, total_assigned=0, total_returned=1
+[04-Jun-2026 06:25:38 UTC] Returning Device: RAM-00003 (ID: 37)
+[04-Jun-2026 06:25:38 UTC] Before: available_qty=2, total_assigned=0, total_returned=0
+[04-Jun-2026 06:25:38 UTC] After: available_qty=3, total_assigned=0, total_returned=1
+[04-Jun-2026 06:25:38 UTC] Return Error: This device has already been returned to stock!
+[04-Jun-2026 06:25:42 UTC] Returning Device: RAM-00004 (ID: 38)
+[04-Jun-2026 06:25:42 UTC] Before: available_qty=0, total_assigned=0, total_returned=0
+[04-Jun-2026 06:25:42 UTC] After: available_qty=1, total_assigned=0, total_returned=1
+[04-Jun-2026 06:25:47 UTC] Returning Device: RAM-00003 (ID: 37)
+[04-Jun-2026 06:25:47 UTC] Before: available_qty=3, total_assigned=0, total_returned=1
+[04-Jun-2026 06:25:47 UTC] After: available_qty=4, total_assigned=0, total_returned=2
+[04-Jun-2026 06:25:56 UTC] Returning Device: RAM-00003 (ID: 37)
+[04-Jun-2026 06:25:56 UTC] Before: available_qty=4, total_assigned=0, total_returned=2
+[04-Jun-2026 06:25:56 UTC] After: available_qty=5, total_assigned=0, total_returned=3
+[04-Jun-2026 06:25:56 UTC] Return Error: This device has already been returned to stock!
+[05-Jun-2026 17:49:36 UTC] Returning Device: ITM-000003 (ID: 42)
+[05-Jun-2026 17:49:36 UTC] Before: available_qty=0, total_assigned=1, total_returned=0
+[05-Jun-2026 17:49:36 UTC] After: available_qty=1, total_assigned=0, total_returned=1
+[14-Jun-2026 10:24:11 UTC] Returning Device: ITM-000001 (ID: 40)
+[14-Jun-2026 10:24:11 UTC] Before: available_qty=0, total_assigned=2, total_returned=0
+[14-Jun-2026 10:24:11 UTC] After: available_qty=1, total_assigned=1, total_returned=1
+[14-Jun-2026 11:30:50 UTC] Returning Device: ITM-000001 (ID: 52)
+[14-Jun-2026 11:30:50 UTC] Before: available_qty=0, total_assigned=2, total_returned=0
+[14-Jun-2026 11:30:50 UTC] After: available_qty=1, total_assigned=1, total_returned=1
+[15-Jun-2026 18:54:48 UTC] Returning Device: ITM-000018 (ID: 71)
+[15-Jun-2026 18:54:48 UTC] Before: available_qty=0, total_assigned=1, total_returned=0
+[15-Jun-2026 18:54:48 UTC] After: available_qty=1, total_assigned=0, total_returned=1
+[16-Jun-2026 08:44:17 UTC] Returning Device: ITM-000062 (ID: 115)
+[16-Jun-2026 08:44:17 UTC] Before: available_qty=0, total_assigned=0, total_returned=0
+[16-Jun-2026 08:44:17 UTC] After: available_qty=1, total_assigned=0, total_returned=1
+[26-Jul-2026 03:07:12 UTC] Session active for user: 4
+[11-Aug-2026 04:10:56 UTC] Session active for user: 1 on /modules/returns/return_requests_list.php
+[11-Aug-2026 05:00:48 UTC] Session active for user: 4 on /modules/returns/return_requests_list.php
+[11-Aug-2026 05:46:32 UTC] Session empty on: /modules/returns/return_requests_list.php
+[11-Aug-2026 06:08:48 UTC] Session empty on: /modules/returns/return_requests_list.php
+[11-Aug-2026 06:08:56 UTC] Session active for user: 4 on /modules/returns/return_requests_list.php
+[11-Aug-2026 07:04:08 UTC] Session active for user: 1 on /modules/returns/return_requests_list.php
+[11-Aug-2026 07:40:14 UTC] Session active for user: 4 on /modules/returns/return_requests_list.php
+[11-Aug-2026 11:05:18 UTC] Session active for user: 1 on /modules/returns/return_requests_list.php
+[11-Aug-2026 11:09:39 UTC] Session active for user: 1 on /modules/returns/return_requests_list.php
+[11-Aug-2026 11:09:41 UTC] PHP Warning:  require_once(../../../config/database.php): Failed to open stream: No such file or directory in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/returns/get_return_details.php on line 2
+[11-Aug-2026 11:09:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../config/database.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/returns/get_return_details.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/returns/get_return_details.php on line 2
+[11-Aug-2026 11:10:19 UTC] PHP Warning:  require_once(../../../config/database.php): Failed to open stream: No such file or directory in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/returns/get_return_details.php on line 2
+[11-Aug-2026 11:10:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../config/database.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/returns/get_return_details.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/returns/get_return_details.php on line 2
+[11-Aug-2026 11:11:50 UTC] Session active for user: 1 on /modules/returns/return_requests_list.php
+[11-Aug-2026 11:11:52 UTC] Session active for user: 1 on /modules/returns/return_requests_list.php
+[11-Aug-2026 11:18:35 UTC] Session empty on: /modules/returns/return_requests_list.php
+[11-Aug-2026 11:18:42 UTC] Session active for user: 1 on /modules/returns/return_requests_list.php
+[11-Aug-2026 12:49:53 UTC] Session active for user: 1 on /modules/returns/return_requests_list.php
+[12-Aug-2026 04:43:14 UTC] Session active for user: 4 on /modules/returns/return_requests_list.php
+[12-Aug-2026 06:29:10 UTC] Session active for user: 4 on /modules/returns/return_requests_list.php
+[12-Aug-2026 06:29:55 UTC] Session active for user: 4 on /modules/returns/return_requests_list.php
+[12-Aug-2026 06:30:06 UTC] Session active for user: 4 on /modules/returns/return_requests_list.php
+[12-Aug-2026 09:42:42 UTC] Session active for user: 4 on /modules/returns/return_requests_list.php
+[12-Aug-2026 11:00:49 UTC] Session active for user: 1 on /modules/returns/return_requests_list.php
+[13-Aug-2026 11:20:24 UTC] Session active for user: 6 on /modules/returns/return_requests_list.php
+[16-Aug-2026 03:56:08 UTC] Session active for user: 1 on /modules/returns/return_requests_list.php
+[21-Sep-2026 03:33:56 UTC] Session active for user: 4 on /modules/returns/return_requests_list.php
+[21-Sep-2026 03:35:27 UTC] Session active for user: 4 on /modules/returns/return_requests_list.php
+[21-Sep-2026 03:35:33 UTC] Session active for user: 4 on /modules/returns/return_requests_list.php
+[21-Sep-2026 03:36:48 UTC] Session active for user: 4 on /modules/returns/return_requests_list.php
+[21-Sep-2026 03:36:58 UTC] Session active for user: 4 on /modules/returns/process_return_devices.php?id=19
+[21-Sep-2026 03:37:28 UTC] Session active for user: 4 on /modules/returns/process_return_devices.php?id=19
+[21-Sep-2026 03:37:28 UTC] Returning Device: ITM-000008 (ID: 131)
+[21-Sep-2026 03:37:28 UTC] Before: available_qty=0, total_assigned=1, total_returned=0
+[21-Sep-2026 03:37:28 UTC] After: available_qty=1, total_assigned=0, total_returned=1
+[21-Sep-2026 03:37:51 UTC] Session active for user: 4 on /modules/returns/return_requests_list.php

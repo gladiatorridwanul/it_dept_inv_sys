@@ -1,0 +1,4 @@
+[12-Aug-2026 03:14:01 UTC] PHP Warning:  Undefined array key "serial_number" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/license_warranty/ajax/get_warranty_details.php on line 17
+[12-Aug-2026 03:14:23 UTC] PHP Warning:  Undefined array key "serial_number" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/license_warranty/ajax/get_warranty_details.php on line 17
+[12-Aug-2026 03:24:58 UTC] PHP Warning:  Undefined array key "serial_number" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/license_warranty/ajax/get_warranty_details.php on line 17
+[12-Aug-2026 05:37:17 UTC] PHP Warning:  Undefined array key "serial_number" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/license_warranty/ajax/get_warranty_details.php on line 17

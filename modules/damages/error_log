@@ -1,0 +1,95 @@
+[02-Jun-2026 19:07:35 UTC] Error loading damages: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'r.user_id' in 'on clause'
+[02-Jun-2026 19:08:08 UTC] Error loading damages: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'r.user_id' in 'on clause'
+[02-Jun-2026 19:08:47 UTC] Error loading damages: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'r.user_id' in 'on clause'
+[03-Jun-2026 11:36:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/damages/damage.php:84
+Stack trace:
+#0 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/damages/damage.php on line 84
+[03-Jun-2026 11:37:57 UTC] Error loading damages: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'r.user_id' in 'on clause'
+[03-Jun-2026 11:37:57 UTC] Error loading damages: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'r.user_id' in 'on clause'
+[03-Jun-2026 11:38:24 UTC] Error loading damages: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'r.user_id' in 'on clause'
+[03-Jun-2026 11:41:31 UTC] Error loading damages: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'r.user_id' in 'on clause'
+[03-Jun-2026 11:41:41 UTC] Error loading damages: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'r.user_id' in 'on clause'
+[03-Jun-2026 11:41:52 UTC] Error loading damages: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'r.user_id' in 'on clause'
+[03-Jun-2026 11:43:05 UTC] Error loading damages: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'r.user_id' in 'on clause'
+[03-Jun-2026 11:43:08 UTC] Error loading damages: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'r.user_id' in 'on clause'
+[03-Jun-2026 11:50:19 UTC] Error loading damages: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'r.user_id' in 'on clause'
+[03-Jun-2026 11:50:34 UTC] Error loading damages: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'r.user_id' in 'on clause'
+[03-Jun-2026 11:51:15 UTC] Error loading damages: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'r.user_id' in 'on clause'
+[03-Jun-2026 11:51:51 UTC] Error loading damages: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'r.user_id' in 'on clause'
+[03-Jun-2026 11:51:51 UTC] Error loading damages: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'r.user_id' in 'on clause'
+[15-Jun-2026 04:37:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.assignment_id' in 'on clause' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/damages/print_damage.php:79
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/damages/print_damage.php(79): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/damages/print_damage.php on line 79
+[15-Jun-2026 04:39:50 UTC] Error loading damage details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'i.description' in 'field list'
+[15-Jun-2026 04:40:52 UTC] Error loading damage details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'i.description' in 'field list'
+[15-Jun-2026 04:41:11 UTC] Error loading damage details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'i.description' in 'field list'
+[15-Jun-2026 04:41:52 UTC] Error loading damage details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'i.description' in 'field list'
+[15-Jun-2026 04:42:21 UTC] Error loading damage details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'i.description' in 'field list'
+[16-Jun-2026 17:47:10 UTC] Error loading damage details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'i.description' in 'field list'
+[16-Jun-2026 17:50:41 UTC] Error loading damage details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'i.description' in 'field list'
+[26-Jul-2026 03:07:24 UTC] Session active for user: 4
+[26-Jul-2026 03:07:30 UTC] Session active for user: 4
+[26-Jul-2026 03:23:55 UTC] Session active for user: 4
+[04-Aug-2026 05:33:15 UTC] Session active for user: 1
+[11-Aug-2026 05:03:30 UTC] Session active for user: 4 on /modules/damages/list.php
+[11-Aug-2026 05:47:05 UTC] Session active for user: 5 on /modules/damages/list.php
+[11-Aug-2026 05:47:08 UTC] Session active for user: 1 on /modules/damages/list.php
+[11-Aug-2026 05:47:24 UTC] Session active for user: 1 on /modules/damages/print_damage.php?id=9
+[11-Aug-2026 05:47:24 UTC] Error loading damage details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'i.description' in 'field list'
+[11-Aug-2026 06:10:04 UTC] Session active for user: 4 on /modules/damages/list.php
+[11-Aug-2026 06:57:38 UTC] Session active for user: 1 on /modules/damages/list.php
+[11-Aug-2026 07:24:17 UTC] Session active for user: 1 on /modules/damages/damage.php
+[11-Aug-2026 07:24:23 UTC] Session active for user: 1 on /modules/damages/list.php
+[11-Aug-2026 07:25:01 UTC] Session active for user: 1 on /modules/damages/damage.php
+[11-Aug-2026 07:25:15 UTC] Session active for user: 1 on /modules/damages/damage.php
+[11-Aug-2026 07:25:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bhsheadache/public_html/it-inventory.bhs-headache.org/includes/header.php:88) in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/damages/damage.php on line 8
+[11-Aug-2026 07:25:21 UTC] Session active for user: 1 on /modules/damages/damage.php
+[11-Aug-2026 07:26:17 UTC] Session active for user: 1 on /modules/damages/list.php
+[11-Aug-2026 07:29:01 UTC] Session active for user: 1 on /modules/damages/list.php
+[11-Aug-2026 07:29:08 UTC] Session active for user: 1 on /modules/damages/damage.php
+[11-Aug-2026 07:29:39 UTC] Session active for user: 1 on /modules/damages/damage.php
+[11-Aug-2026 07:29:50 UTC] Session active for user: 1 on /modules/damages/list.php
+[11-Aug-2026 07:29:54 UTC] Session active for user: 1 on /modules/damages/damage.php
+[11-Aug-2026 07:34:53 UTC] Session active for user: 4 on /modules/damages/list.php
+[11-Aug-2026 07:35:00 UTC] Session active for user: 4 on /modules/damages/damage.php
+[11-Aug-2026 07:35:23 UTC] Session active for user: 4 on /modules/damages/list.php
+[11-Aug-2026 07:36:13 UTC] Session active for user: 4 on /modules/damages/list.php?status=replaced&severity=all&date_from=&date_to=
+[11-Aug-2026 07:36:17 UTC] Session active for user: 4 on /modules/damages/list.php?status=all&severity=all&date_from=&date_to=
+[11-Aug-2026 07:36:28 UTC] Session active for user: 4 on /modules/damages/print_damage.php?id=8
+[11-Aug-2026 07:36:28 UTC] Error loading damage details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'i.description' in 'field list'
+[11-Aug-2026 07:40:06 UTC] Session active for user: 4 on /modules/damages/list.php
+[11-Aug-2026 07:42:04 UTC] Session active for user: 1 on /modules/damages/damage.php
+[11-Aug-2026 07:42:07 UTC] Session active for user: 1 on /modules/damages/list.php
+[11-Aug-2026 07:42:12 UTC] Session active for user: 1 on /modules/damages/print_damage.php?id=11
+[11-Aug-2026 07:42:12 UTC] Error loading damage details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'i.description' in 'field list'
+[11-Aug-2026 07:42:14 UTC] Session active for user: 1 on /modules/damages/list.php
+[11-Aug-2026 08:41:37 UTC] Session active for user: 1 on /modules/damages/damage.php
+[11-Aug-2026 09:46:33 UTC] Session active for user: 1 on /modules/damages/damage.php
+[11-Aug-2026 09:46:35 UTC] Session active for user: 1 on /modules/damages/list.php
+[11-Aug-2026 10:03:14 UTC] Session active for user: 1 on /modules/damages/list.php
+[11-Aug-2026 10:03:52 UTC] Session empty on: /modules/damages/list.php
+[11-Aug-2026 10:05:23 UTC] Session active for user: 1 on /modules/damages/list.php
+[11-Aug-2026 10:07:27 UTC] Session active for user: 1 on /modules/damages/list.php
+[11-Aug-2026 10:08:26 UTC] Session active for user: 1 on /modules/damages/list.php
+[11-Aug-2026 10:08:29 UTC] Session active for user: 1 on /modules/damages/list.php
+[11-Aug-2026 10:08:36 UTC] Session active for user: 1 on /modules/damages/print_damage.php?id=11
+[11-Aug-2026 10:08:36 UTC] Error loading damage details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'i.description' in 'field list'
+[11-Aug-2026 10:08:41 UTC] Session active for user: 1 on /modules/damages/list.php
+[11-Aug-2026 11:05:14 UTC] Session active for user: 1 on /modules/damages/damage.php
+[12-Aug-2026 04:27:58 UTC] Session active for user: 1 on /modules/damages/list.php
+[12-Aug-2026 04:31:00 UTC] Session active for user: 4 on /modules/damages/list.php
+[12-Aug-2026 09:42:53 UTC] Session active for user: 4 on /modules/damages/damage.php
+[12-Aug-2026 09:42:58 UTC] Session active for user: 4 on /modules/damages/list.php
+[12-Aug-2026 11:01:22 UTC] Session active for user: 1 on /modules/damages/damage.php
+[12-Aug-2026 11:01:50 UTC] Session active for user: 1 on /modules/damages/list.php
+[12-Aug-2026 11:01:56 UTC] Session active for user: 1 on /modules/damages/print_damage.php?id=11
+[12-Aug-2026 11:01:56 UTC] Error loading damage details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'i.description' in 'field list'
+[12-Aug-2026 11:02:00 UTC] Session active for user: 1 on /modules/damages/print_damage.php?id=11
+[12-Aug-2026 11:02:00 UTC] Error loading damage details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'i.description' in 'field list'
+[12-Aug-2026 11:02:11 UTC] Session active for user: 1 on /modules/damages/list.php
+[16-Aug-2026 03:56:12 UTC] Session active for user: 1 on /modules/damages/damage.php
+[16-Aug-2026 03:56:15 UTC] Session active for user: 1 on /modules/damages/list.php
+[19-Aug-2026 05:55:21 UTC] Session active for user: 1 on /modules/damages/list.php

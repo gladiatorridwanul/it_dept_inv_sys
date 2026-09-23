@@ -1,0 +1,32 @@
+[05-Jun-2026 17:57:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.user_id' in 'on clause' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/damages/ajax/get_damage_details.php:32
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/damages/ajax/get_damage_details.php(32): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/damages/ajax/get_damage_details.php on line 32
+[05-Jun-2026 18:34:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.user_id' in 'on clause' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/damages/ajax/get_damage_details.php:32
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/damages/ajax/get_damage_details.php(32): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/damages/ajax/get_damage_details.php on line 32
+[05-Jun-2026 20:06:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.user_id' in 'on clause' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/damages/ajax/get_damage_details.php:32
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/damages/ajax/get_damage_details.php(32): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/damages/ajax/get_damage_details.php on line 32
+[05-Jun-2026 20:08:32 UTC] Error in get_damage_details.php: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rep.full_name' in 'field list'
+[05-Jun-2026 20:10:18 UTC] Error fetching return info: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rdri.item_id' in 'where clause'
+[05-Jun-2026 20:27:39 UTC] Error fetching return info: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rdri.item_id' in 'where clause'
+[14-Jun-2026 11:35:16 UTC] Error fetching return info: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rdri.item_id' in 'where clause'
+[15-Jun-2026 04:13:53 UTC] Error fetching return info: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rdri.item_id' in 'where clause'
+[15-Jun-2026 04:24:48 UTC] Error fetching return info: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rdri.item_id' in 'where clause'
+[15-Jun-2026 04:30:45 UTC] Error fetching return info: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rdri.item_id' in 'where clause'
+[15-Jun-2026 04:41:48 UTC] Error fetching return info: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rdri.item_id' in 'where clause'
+[15-Jun-2026 18:55:21 UTC] Error fetching return info: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rdri.item_id' in 'where clause'
+[16-Jun-2026 05:36:31 UTC] Error fetching return info: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rdri.item_id' in 'where clause'
+[16-Jun-2026 05:36:40 UTC] Error fetching return info: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rdri.item_id' in 'where clause'
+[16-Jun-2026 17:47:02 UTC] Error fetching return info: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rdri.item_id' in 'where clause'
+[11-Aug-2026 10:07:28 UTC] Session active for user: 1 on /modules/damages/ajax/get_damage_details.php
+[11-Aug-2026 10:08:31 UTC] Session active for user: 1 on /modules/damages/ajax/get_damage_details.php
+[12-Aug-2026 04:28:03 UTC] Session active for user: 1 on /modules/damages/ajax/get_damage_details.php
+[12-Aug-2026 04:31:03 UTC] Session active for user: 4 on /modules/damages/ajax/get_damage_details.php
+[12-Aug-2026 09:43:01 UTC] Session active for user: 4 on /modules/damages/ajax/get_damage_details.php

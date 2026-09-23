@@ -1,0 +1,59 @@
+[26-May-2026 17:29:48 UTC] PHP Fatal error:  Uncaught TypeError: array_column(): Argument #2 ($column_key) must be of type string|int|null, Closure given in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/reports/stock_report.php:46
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/reports/stock_report.php(46): array_column()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/reports/stock_report.php on line 46
+[01-Jun-2026 14:54:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/reports/return_report.php:24
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/reports/return_report.php(24): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/reports/return_report.php on line 24
+[02-Jun-2026 18:56:34 UTC] Error loading damages: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bhsheadache_in_inventory.damages' doesn't exist
+[02-Jun-2026 18:56:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bhsheadache_in_inventory.damages' doesn't exist in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/reports/damage_report.php:60
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/reports/damage_report.php(60): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/reports/damage_report.php on line 60
+[02-Jun-2026 18:57:50 UTC] Error loading damages: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bhsheadache_in_inventory.damages' doesn't exist
+[02-Jun-2026 18:57:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bhsheadache_in_inventory.damages' doesn't exist in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/reports/damage_report.php:60
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/reports/damage_report.php(60): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/reports/damage_report.php on line 60
+[02-Jun-2026 18:58:13 UTC] Error loading damages: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bhsheadache_in_inventory.damages' doesn't exist
+[02-Jun-2026 18:58:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bhsheadache_in_inventory.damages' doesn't exist in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/reports/damage_report.php:60
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/reports/damage_report.php(60): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/reports/damage_report.php on line 60
+[24-Jul-2026 10:32:59 UTC] Session active for user: 1
+[24-Jul-2026 10:33:07 UTC] Session active for user: 1
+[26-Jul-2026 03:07:18 UTC] Session active for user: 4
+[26-Jul-2026 03:08:16 UTC] Session active for user: 4
+[26-Jul-2026 03:08:16 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/reports/stock_report.php on line 432
+[26-Jul-2026 03:08:16 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/reports/stock_report.php on line 432
+[26-Jul-2026 03:08:16 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/reports/stock_report.php on line 438
+[26-Jul-2026 03:08:16 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/reports/stock_report.php on line 438
+[26-Jul-2026 03:08:16 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/reports/stock_report.php on line 439
+[26-Jul-2026 03:08:16 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/reports/stock_report.php on line 439
+[26-Jul-2026 03:08:16 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/reports/stock_report.php on line 440
+[26-Jul-2026 03:08:16 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/reports/stock_report.php on line 440
+[26-Jul-2026 03:08:16 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/reports/stock_report.php on line 441
+[26-Jul-2026 03:08:16 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/reports/stock_report.php on line 441
+[26-Jul-2026 03:08:16 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/reports/stock_report.php on line 442
+[26-Jul-2026 03:08:16 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/reports/stock_report.php on line 442
+[26-Jul-2026 03:08:16 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/reports/stock_report.php on line 443
+[26-Jul-2026 03:08:16 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/reports/stock_report.php on line 443
+[26-Jul-2026 03:08:21 UTC] Session active for user: 4
+[26-Jul-2026 03:24:27 UTC] Session active for user: 4
+[26-Jul-2026 03:24:33 UTC] Session active for user: 4
+[11-Aug-2026 04:10:59 UTC] Session active for user: 1 on /modules/reports/return_report.php
+[11-Aug-2026 05:03:13 UTC] Session active for user: 4 on /modules/reports/return_report.php
+[11-Aug-2026 05:04:51 UTC] Session active for user: 4 on /modules/reports/damage_report.php
+[11-Aug-2026 06:57:36 UTC] Session active for user: 1 on /modules/reports/damage_report.php
+[12-Aug-2026 11:01:01 UTC] Session active for user: 1 on /modules/reports/return_report.php
+[12-Aug-2026 11:02:16 UTC] Session active for user: 1 on /modules/reports/damage_report.php
+[12-Aug-2026 11:06:39 UTC] Session active for user: 1 on /modules/reports/stock_report.php
+[12-Aug-2026 11:06:58 UTC] Session active for user: 1 on /modules/reports/financial_report.php
+[16-Aug-2026 03:56:10 UTC] Session active for user: 1 on /modules/reports/return_report.php
+[16-Aug-2026 03:56:18 UTC] Session active for user: 1 on /modules/reports/damage_report.php

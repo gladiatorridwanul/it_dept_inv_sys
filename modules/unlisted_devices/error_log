@@ -1,0 +1,157 @@
+[31-May-2026 16:26:16 UTC] PHP Warning:  require_once(../../../config/database.php): Failed to open stream: No such file or directory in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/review.php on line 2
+[31-May-2026 16:26:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../config/database.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/review.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/review.php on line 2
+[31-May-2026 17:32:12 UTC] PHP Warning:  require_once(../../../config/database.php): Failed to open stream: No such file or directory in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/review.php on line 3
+[31-May-2026 17:32:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../config/database.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/review.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/review.php on line 3
+[26-Jul-2026 03:07:42 UTC] Session active for user: 4
+[28-Jul-2026 03:04:03 UTC] Session active for user: 4
+[28-Jul-2026 03:10:11 UTC] Session active for user: 4
+[28-Jul-2026 03:11:32 UTC] Session active for user: 4
+[28-Jul-2026 03:12:53 UTC] Session active for user: 4
+[28-Jul-2026 03:13:00 UTC] Session active for user: 4
+[28-Jul-2026 03:24:02 UTC] Session active for user: 4
+[28-Jul-2026 03:24:15 UTC] Session active for user: 4
+[28-Jul-2026 04:12:23 UTC] Session active for user: 4
+[28-Jul-2026 04:12:54 UTC] Session active for user: 4
+[28-Jul-2026 04:13:26 UTC] Session active for user: 4
+[28-Jul-2026 04:13:40 UTC] Session active for user: 4
+[28-Jul-2026 04:13:43 UTC] Session active for user: 4
+[28-Jul-2026 04:15:58 UTC] Session active for user: 4
+[28-Jul-2026 04:16:29 UTC] Session active for user: 4
+[28-Jul-2026 04:16:31 UTC] Session active for user: 4
+[28-Jul-2026 04:29:57 UTC] Session active for user: 1
+[28-Jul-2026 04:30:51 UTC] Session active for user: 1
+[28-Jul-2026 04:32:14 UTC] Session active for user: 4
+[28-Jul-2026 04:32:58 UTC] Session active for user: 4
+[28-Jul-2026 05:31:58 UTC] Session active for user: 1
+[28-Jul-2026 05:32:07 UTC] Session active for user: 1
+[28-Jul-2026 05:32:13 UTC] Session active for user: 1
+[28-Jul-2026 09:05:59 UTC] Session active for user: 1
+[28-Jul-2026 09:06:05 UTC] Session active for user: 1
+[29-Jul-2026 06:17:19 UTC] Session active for user: 1
+[02-Aug-2026 05:42:05 UTC] Session active for user: 1
+[04-Aug-2026 02:54:24 UTC] Session active for user: 1
+[04-Aug-2026 02:55:07 UTC] Session active for user: 1
+[04-Aug-2026 02:58:28 UTC] Session active for user: 1
+[04-Aug-2026 02:58:36 UTC] Session active for user: 1
+[04-Aug-2026 03:00:13 UTC] Session active for user: 1
+[04-Aug-2026 03:37:22 UTC] Session active for user: 1
+[04-Aug-2026 03:41:25 UTC] Session active for user: 1
+[04-Aug-2026 03:48:45 UTC] Session active for user: 1
+[04-Aug-2026 03:48:55 UTC] Session active for user: 1
+[04-Aug-2026 03:51:24 UTC] Session active for user: 1
+[04-Aug-2026 03:56:56 UTC] Session active for user: 1
+[04-Aug-2026 04:00:04 UTC] Session active for user: 4
+[04-Aug-2026 04:01:04 UTC] Session active for user: 4
+[04-Aug-2026 04:03:53 UTC] Session active for user: 1
+[04-Aug-2026 05:33:09 UTC] Session active for user: 1
+[04-Aug-2026 05:33:12 UTC] Session active for user: 1
+[10-Aug-2026 16:07:30 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php
+[10-Aug-2026 16:07:33 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php?status=all&search=
+[10-Aug-2026 16:28:22 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php
+[10-Aug-2026 16:29:23 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php
+[10-Aug-2026 16:35:13 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php
+[10-Aug-2026 16:45:14 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php
+[10-Aug-2026 17:09:21 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php
+[10-Aug-2026 17:57:05 UTC] Session empty on: /modules/unlisted_devices/review.php
+[10-Aug-2026 17:57:13 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php
+[11-Aug-2026 02:31:51 UTC] Session empty on: /modules/unlisted_devices/review.php
+[11-Aug-2026 02:31:56 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php
+[11-Aug-2026 02:51:09 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php
+[11-Aug-2026 02:51:29 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php
+[11-Aug-2026 02:52:08 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php
+[11-Aug-2026 02:59:39 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php
+[11-Aug-2026 02:59:55 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php
+[11-Aug-2026 03:06:34 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php
+[11-Aug-2026 03:06:34 UTC] PHP Warning:  Undefined variable $existing_items_data in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/unlisted_devices/review.php on line 855
+[11-Aug-2026 03:11:49 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php
+[11-Aug-2026 03:19:02 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php
+[11-Aug-2026 03:19:28 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php
+[11-Aug-2026 03:20:24 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php
+[11-Aug-2026 04:02:34 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php
+[11-Aug-2026 05:05:04 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[11-Aug-2026 05:06:29 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[11-Aug-2026 05:47:34 UTC] Session active for user: 5 on /modules/unlisted_devices/review.php
+[11-Aug-2026 08:42:15 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[11-Aug-2026 12:46:56 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php
+[11-Aug-2026 12:47:27 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php
+[12-Aug-2026 05:39:10 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php
+[12-Aug-2026 06:11:50 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[12-Aug-2026 06:14:22 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[12-Aug-2026 06:16:35 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[12-Aug-2026 06:53:46 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php
+[12-Aug-2026 06:54:51 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php
+[12-Aug-2026 07:02:05 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[12-Aug-2026 09:43:06 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[12-Aug-2026 09:43:13 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php?status=all&search=
+[12-Aug-2026 09:52:12 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[12-Aug-2026 09:52:15 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php?status=all&search=
+[12-Aug-2026 09:57:09 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[12-Aug-2026 09:57:13 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php?status=all&search=
+[12-Aug-2026 09:57:16 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php?status=all&search=
+[12-Aug-2026 09:58:19 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php?status=all&search=
+[12-Aug-2026 09:58:56 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php?status=all&search=
+[12-Aug-2026 09:59:19 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php?status=all&search=
+[12-Aug-2026 10:02:30 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[12-Aug-2026 10:02:32 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php?status=all&search=
+[12-Aug-2026 10:03:45 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[12-Aug-2026 10:04:01 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[12-Aug-2026 10:04:42 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[12-Aug-2026 11:02:23 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php
+[13-Aug-2026 11:45:27 UTC] Session active for user: 6 on /modules/unlisted_devices/review.php
+[16-Aug-2026 03:56:22 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php
+[23-Aug-2026 04:22:25 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php
+[23-Aug-2026 06:08:33 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[23-Aug-2026 06:09:37 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[23-Aug-2026 06:09:45 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php?status=all&search=
+[23-Aug-2026 06:10:44 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php?status=all&search=
+[23-Aug-2026 06:42:45 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php?status=approved&search=
+[23-Aug-2026 06:42:48 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php?status=added_to_stock&search=
+[23-Aug-2026 06:42:51 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php?status=rejected&search=
+[23-Aug-2026 06:42:53 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php?status=all&search=
+[23-Aug-2026 08:46:44 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php
+[23-Aug-2026 10:05:10 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php
+[23-Aug-2026 10:05:56 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php
+[24-Aug-2026 11:39:25 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[24-Aug-2026 11:40:14 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[24-Aug-2026 11:40:38 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[31-Aug-2026 03:03:47 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php
+[31-Aug-2026 03:03:57 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php?status=all&search=
+[31-Aug-2026 03:04:24 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[31-Aug-2026 03:04:27 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php?status=all&search=
+[31-Aug-2026 03:04:42 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[31-Aug-2026 03:09:13 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[31-Aug-2026 03:10:05 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[31-Aug-2026 03:10:40 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[31-Aug-2026 03:11:03 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[31-Aug-2026 03:22:05 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[31-Aug-2026 08:31:29 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[17-Sep-2026 03:28:57 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[21-Sep-2026 02:58:01 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php
+[21-Sep-2026 03:25:04 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php
+[21-Sep-2026 03:25:49 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php
+[21-Sep-2026 03:26:09 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php
+[21-Sep-2026 03:27:05 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php
+[21-Sep-2026 03:27:48 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php
+[21-Sep-2026 03:27:58 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php?status=approved&search=
+[21-Sep-2026 03:28:02 UTC] Session active for user: 1 on /modules/unlisted_devices/review.php?status=all&search=
+[21-Sep-2026 03:29:34 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[21-Sep-2026 03:29:57 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[21-Sep-2026 03:36:34 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[21-Sep-2026 03:41:46 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[21-Sep-2026 03:42:08 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[21-Sep-2026 03:43:27 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[21-Sep-2026 03:43:47 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[21-Sep-2026 03:43:55 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[21-Sep-2026 03:44:06 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[21-Sep-2026 03:44:22 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[21-Sep-2026 03:44:37 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[21-Sep-2026 03:44:48 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[21-Sep-2026 03:45:04 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[21-Sep-2026 03:45:13 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php
+[21-Sep-2026 03:45:22 UTC] Session active for user: 4 on /modules/unlisted_devices/review.php

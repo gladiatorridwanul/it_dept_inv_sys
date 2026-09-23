@@ -1,0 +1,29 @@
+[25-May-2026 18:22:06 UTC] PHP Warning:  Undefined array key "username" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/cash_register/register.php on line 689
+[02-Jun-2026 11:48:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/cash_register/register.php:86
+Stack trace:
+#0 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/cash_register/register.php on line 86
+[24-Jul-2026 10:32:08 UTC] Session active for user: 1
+[24-Jul-2026 10:32:41 UTC] Session active for user: 1
+[24-Jul-2026 10:32:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bhsheadache/public_html/it-inventory.bhs-headache.org/includes/header.php:88) in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/cash_register/register.php on line 8
+[28-Jul-2026 03:15:05 UTC] Session active for user: 4
+[12-Aug-2026 05:38:49 UTC] Session active for user: 1 on /modules/cash_register/register.php
+[12-Aug-2026 06:20:17 UTC] Session active for user: 4 on /modules/cash_register/register.php
+[12-Aug-2026 06:21:09 UTC] Session active for user: 4 on /modules/cash_register/register.php
+[12-Aug-2026 06:21:33 UTC] Session active for user: 4 on /modules/cash_register/register.php
+[12-Aug-2026 06:21:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bhsheadache/public_html/it-inventory.bhs-headache.org/includes/header.php:88) in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/cash_register/register.php on line 8
+[12-Aug-2026 06:21:45 UTC] Session active for user: 4 on /modules/cash_register/register.php
+[12-Aug-2026 06:22:36 UTC] Session active for user: 4 on /modules/cash_register/register.php
+[12-Aug-2026 06:22:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bhsheadache/public_html/it-inventory.bhs-headache.org/includes/header.php:88) in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/cash_register/register.php on line 8
+[12-Aug-2026 06:22:43 UTC] Session active for user: 4 on /modules/cash_register/register.php
+[12-Aug-2026 06:30:15 UTC] Session active for user: 4 on /modules/cash_register/register.php
+[12-Aug-2026 06:30:42 UTC] Session empty on: /modules/cash_register/register.php
+[12-Aug-2026 06:31:03 UTC] Session active for user: 4 on /modules/cash_register/register.php
+[12-Aug-2026 06:41:26 UTC] Session active for user: 4 on /modules/cash_register/register.php
+[12-Aug-2026 06:57:10 UTC] Session active for user: 1 on /modules/cash_register/register.php
+[12-Aug-2026 09:26:13 UTC] Session active for user: 4 on /modules/cash_register/register.php
+[12-Aug-2026 09:34:55 UTC] Session active for user: 4 on /modules/cash_register/register.php
+[12-Aug-2026 09:56:07 UTC] Session active for user: 4 on /modules/cash_register/register.php
+[12-Aug-2026 09:56:21 UTC] Session active for user: 4 on /modules/cash_register/register.php?month=2026-08-01
+[12-Aug-2026 11:06:17 UTC] Session active for user: 1 on /modules/cash_register/register.php
+[17-Aug-2026 03:11:54 UTC] Session active for user: 4 on /modules/cash_register/register.php
