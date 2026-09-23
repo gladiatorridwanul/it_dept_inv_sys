@@ -1,0 +1,5 @@
+[24-May-2026 10:21:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'status' in where clause is ambiguous in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/device_assignments/list_requests.php:19
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/device_assignments/list_requests.php(19): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/device_assignments/list_requests.php on line 19

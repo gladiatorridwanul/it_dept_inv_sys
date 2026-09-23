@@ -1,0 +1,292 @@
+[03-Jun-2026 11:15:02 UTC] get_item_attributes.php called with POST data: Array
+(
+    [item_id] => 37
+)
+
+[03-Jun-2026 11:15:02 UTC] Loading attributes for item_id: 37
+[03-Jun-2026 11:15:02 UTC] Found 2 serials
+[03-Jun-2026 11:15:02 UTC] Found 1 models
+[03-Jun-2026 11:15:02 UTC] Found 0 versions
+[03-Jun-2026 11:15:02 UTC] Item info: Array
+(
+    [model_number] => 
+    [version] => 
+    [name] => RAM DDR4 16GB
+    [item_code] => RAM-00003
+)
+
+[03-Jun-2026 11:15:02 UTC] Response: {"success":true,"serials":[{"serial_number":"S124","model_number":"M123","version":""},{"serial_number":"S125","model_number":"M123","version":""}],"models":["M123"],"versions":[],"has_serials":true,"has_models":true,"has_versions":false}
+[03-Jun-2026 11:17:35 UTC] === get_return_requests_by_item.php called ===
+[03-Jun-2026 11:17:35 UTC] POST data: Array
+(
+    [item_id] => 39
+    [serial_number] => 
+)
+
+[03-Jun-2026 11:17:35 UTC] Item ID: 39, Serial: null
+[03-Jun-2026 11:17:35 UTC] Query: 
+        SELECT 
+            rdr.id,
+            rdr.request_no,
+            rdr.return_reason,
+            rdr.reason_details,
+            rdr.created_at,
+            r.status,
+            e.full_name as employee_name,
+            e.pf_no,
+            i.name as item_name,
+            i.item_code,
+            isn.serial_number,
+            isn.model_number,
+            isn.version
+        FROM return_device_requests rdr
+        JOIN requests r ON rdr.request_id = r.id
+        JOIN employees e ON r.employee_id = e.id
+        JOIN assignments a ON rdr.assignment_id = a.id
+        JOIN items i ON a.item_id = i.id
+        LEFT JOIN item_serial_numbers isn ON a.item_id = isn.item_id AND a.id = isn.assignment_id
+        WHERE i.id = ? AND r.status IN ('pending', 'approved')
+     ORDER BY rdr.created_at DESC LIMIT 20
+[03-Jun-2026 11:17:35 UTC] Params: Array
+(
+    [0] => 39
+)
+
+[03-Jun-2026 11:17:35 UTC] Found 0 returns
+[03-Jun-2026 11:17:35 UTC] === get_item_attributes.php called ===
+[03-Jun-2026 11:17:35 UTC] POST data: Array
+(
+    [item_id] => 39
+)
+
+[03-Jun-2026 11:17:35 UTC] Loading attributes for item_id: 39
+[03-Jun-2026 11:17:35 UTC] item_serial_numbers table exists
+[03-Jun-2026 11:17:35 UTC] Found 0 serials
+[03-Jun-2026 11:17:35 UTC] Found 0 models
+[03-Jun-2026 11:17:35 UTC] Found 0 versions
+[03-Jun-2026 11:17:35 UTC] Item info from items table: Array
+(
+    [model_number] => 1824
+    [version] => 
+    [serial_number] => 
+    [name] => Dell 1824
+    [item_code] => ITM-000005
+)
+
+[03-Jun-2026 11:17:35 UTC] Added model from items table: 1824
+[03-Jun-2026 11:17:35 UTC] Final response: {"success":true,"serials":[],"models":["1824"],"versions":[],"has_serials":false,"has_models":true,"has_versions":false}
+[03-Jun-2026 11:17:46 UTC] === get_item_attributes.php called ===
+[03-Jun-2026 11:17:46 UTC] POST data: Array
+(
+    [item_id] => 35
+)
+
+[03-Jun-2026 11:17:46 UTC] Loading attributes for item_id: 35
+[03-Jun-2026 11:17:46 UTC] item_serial_numbers table exists
+[03-Jun-2026 11:17:46 UTC] Found 5 serials
+[03-Jun-2026 11:17:46 UTC] Found 2 models
+[03-Jun-2026 11:17:46 UTC] Found 3 versions
+[03-Jun-2026 11:17:46 UTC] Item info from items table: Array
+(
+    [model_number] => ABCD1234
+    [version] => 
+    [serial_number] => 4321DCBA
+    [name] => HP ZBook Firefly 14 G8
+    [item_code] => ITM-000001
+)
+
+[03-Jun-2026 11:17:46 UTC] Added serial from items table: 4321DCBA
+[03-Jun-2026 11:17:46 UTC] Final response: {"success":true,"serials":[{"serial_number":"HP-SN-001","model_number":"ZBook Firefly 14 G8","version":"1.0"},{"serial_number":"HP-SN-002","model_number":"ZBook Firefly 14 G8","version":"1.0"},{"serial_number":"HP-SN-003","model_number":"ZBook Firefly 14 G8","version":"1.1"},{"serial_number":"HP-SN-004","model_number":"ZBook Firefly 14 G8","version":"1.1"},{"serial_number":"HP-SN-005","model_number":"ZBook Firefly 14 G8","version":"2.0"},{"serial_number":"4321DCBA","model_number":"ABCD1234","version":""}],"models":["ABCD1234","ZBook Firefly 14 G8"],"versions":["1.0","1.1","2.0"],"has_serials":true,"has_models":true,"has_versions":true}
+[03-Jun-2026 11:17:46 UTC] === get_return_requests_by_item.php called ===
+[03-Jun-2026 11:17:46 UTC] POST data: Array
+(
+    [item_id] => 35
+    [serial_number] => 
+)
+
+[03-Jun-2026 11:17:46 UTC] Item ID: 35, Serial: null
+[03-Jun-2026 11:17:46 UTC] Query: 
+        SELECT 
+            rdr.id,
+            rdr.request_no,
+            rdr.return_reason,
+            rdr.reason_details,
+            rdr.created_at,
+            r.status,
+            e.full_name as employee_name,
+            e.pf_no,
+            i.name as item_name,
+            i.item_code,
+            isn.serial_number,
+            isn.model_number,
+            isn.version
+        FROM return_device_requests rdr
+        JOIN requests r ON rdr.request_id = r.id
+        JOIN employees e ON r.employee_id = e.id
+        JOIN assignments a ON rdr.assignment_id = a.id
+        JOIN items i ON a.item_id = i.id
+        LEFT JOIN item_serial_numbers isn ON a.item_id = isn.item_id AND a.id = isn.assignment_id
+        WHERE i.id = ? AND r.status IN ('pending', 'approved')
+     ORDER BY rdr.created_at DESC LIMIT 20
+[03-Jun-2026 11:17:46 UTC] Params: Array
+(
+    [0] => 35
+)
+
+[03-Jun-2026 11:17:46 UTC] Found 0 returns
+[03-Jun-2026 11:17:51 UTC] === get_return_requests_by_item.php called ===
+[03-Jun-2026 11:17:51 UTC] POST data: Array
+(
+    [item_id] => 35
+    [serial_number] => 4321DCBA
+)
+
+[03-Jun-2026 11:17:51 UTC] Item ID: 35, Serial: 4321DCBA
+[03-Jun-2026 11:17:51 UTC] Query: 
+        SELECT 
+            rdr.id,
+            rdr.request_no,
+            rdr.return_reason,
+            rdr.reason_details,
+            rdr.created_at,
+            r.status,
+            e.full_name as employee_name,
+            e.pf_no,
+            i.name as item_name,
+            i.item_code,
+            isn.serial_number,
+            isn.model_number,
+            isn.version
+        FROM return_device_requests rdr
+        JOIN requests r ON rdr.request_id = r.id
+        JOIN employees e ON r.employee_id = e.id
+        JOIN assignments a ON rdr.assignment_id = a.id
+        JOIN items i ON a.item_id = i.id
+        LEFT JOIN item_serial_numbers isn ON a.item_id = isn.item_id AND a.id = isn.assignment_id
+        WHERE i.id = ? AND r.status IN ('pending', 'approved')
+     AND isn.serial_number = ? ORDER BY rdr.created_at DESC LIMIT 20
+[03-Jun-2026 11:17:51 UTC] Params: Array
+(
+    [0] => 35
+    [1] => 4321DCBA
+)
+
+[03-Jun-2026 11:17:51 UTC] Found 0 returns
+[03-Jun-2026 11:17:51 UTC] No results with serial filter, trying without serial
+[03-Jun-2026 11:17:51 UTC] Found 0 returns without serial filter
+[03-Jun-2026 11:18:09 UTC] === get_item_attributes.php called ===
+[03-Jun-2026 11:18:09 UTC] POST data: Array
+(
+    [item_id] => 37
+)
+
+[03-Jun-2026 11:18:09 UTC] Loading attributes for item_id: 37
+[03-Jun-2026 11:18:09 UTC] item_serial_numbers table exists
+[03-Jun-2026 11:18:09 UTC] Found 2 serials
+[03-Jun-2026 11:18:09 UTC] Found 1 models
+[03-Jun-2026 11:18:09 UTC] Found 0 versions
+[03-Jun-2026 11:18:09 UTC] Item info from items table: Array
+(
+    [model_number] => 
+    [version] => 
+    [serial_number] => 
+    [name] => RAM DDR4 16GB
+    [item_code] => RAM-00003
+)
+
+[03-Jun-2026 11:18:09 UTC] Final response: {"success":true,"serials":[{"serial_number":"S124","model_number":"M123","version":""},{"serial_number":"S125","model_number":"M123","version":""}],"models":["M123"],"versions":[],"has_serials":true,"has_models":true,"has_versions":false}
+[03-Jun-2026 11:18:09 UTC] === get_return_requests_by_item.php called ===
+[03-Jun-2026 11:18:09 UTC] POST data: Array
+(
+    [item_id] => 37
+    [serial_number] => 
+)
+
+[03-Jun-2026 11:18:09 UTC] Item ID: 37, Serial: null
+[03-Jun-2026 11:18:09 UTC] Query: 
+        SELECT 
+            rdr.id,
+            rdr.request_no,
+            rdr.return_reason,
+            rdr.reason_details,
+            rdr.created_at,
+            r.status,
+            e.full_name as employee_name,
+            e.pf_no,
+            i.name as item_name,
+            i.item_code,
+            isn.serial_number,
+            isn.model_number,
+            isn.version
+        FROM return_device_requests rdr
+        JOIN requests r ON rdr.request_id = r.id
+        JOIN employees e ON r.employee_id = e.id
+        JOIN assignments a ON rdr.assignment_id = a.id
+        JOIN items i ON a.item_id = i.id
+        LEFT JOIN item_serial_numbers isn ON a.item_id = isn.item_id AND a.id = isn.assignment_id
+        WHERE i.id = ? AND r.status IN ('pending', 'approved')
+     ORDER BY rdr.created_at DESC LIMIT 20
+[03-Jun-2026 11:18:09 UTC] Params: Array
+(
+    [0] => 37
+)
+
+[03-Jun-2026 11:18:09 UTC] Found 0 returns
+[03-Jun-2026 11:18:13 UTC] === get_return_requests_by_item.php called ===
+[03-Jun-2026 11:18:13 UTC] POST data: Array
+(
+    [item_id] => 38
+    [serial_number] => 
+)
+
+[03-Jun-2026 11:18:13 UTC] Item ID: 38, Serial: null
+[03-Jun-2026 11:18:13 UTC] Query: 
+        SELECT 
+            rdr.id,
+            rdr.request_no,
+            rdr.return_reason,
+            rdr.reason_details,
+            rdr.created_at,
+            r.status,
+            e.full_name as employee_name,
+            e.pf_no,
+            i.name as item_name,
+            i.item_code,
+            isn.serial_number,
+            isn.model_number,
+            isn.version
+        FROM return_device_requests rdr
+        JOIN requests r ON rdr.request_id = r.id
+        JOIN employees e ON r.employee_id = e.id
+        JOIN assignments a ON rdr.assignment_id = a.id
+        JOIN items i ON a.item_id = i.id
+        LEFT JOIN item_serial_numbers isn ON a.item_id = isn.item_id AND a.id = isn.assignment_id
+        WHERE i.id = ? AND r.status IN ('pending', 'approved')
+     ORDER BY rdr.created_at DESC LIMIT 20
+[03-Jun-2026 11:18:13 UTC] Params: Array
+(
+    [0] => 38
+)
+
+[03-Jun-2026 11:18:13 UTC] Found 0 returns
+[03-Jun-2026 11:18:13 UTC] === get_item_attributes.php called ===
+[03-Jun-2026 11:18:13 UTC] POST data: Array
+(
+    [item_id] => 38
+)
+
+[03-Jun-2026 11:18:13 UTC] Loading attributes for item_id: 38
+[03-Jun-2026 11:18:13 UTC] item_serial_numbers table exists
+[03-Jun-2026 11:18:13 UTC] Found 3 serials
+[03-Jun-2026 11:18:13 UTC] Found 2 models
+[03-Jun-2026 11:18:13 UTC] Found 0 versions
+[03-Jun-2026 11:18:13 UTC] Item info from items table: Array
+(
+    [model_number] => 
+    [version] => 
+    [serial_number] => 
+    [name] => RAM DDR4 32GB
+    [item_code] => RAM-00004
+)
+
+[03-Jun-2026 11:18:13 UTC] Final response: {"success":true,"serials":[{"serial_number":"S2345","model_number":"M456","version":""},{"serial_number":"S2346","model_number":"M456","version":""},{"serial_number":"S2347","model_number":"M234","version":""}],"models":["M234","M456"],"versions":[],"has_serials":true,"has_models":true,"has_versions":false}

@@ -1,0 +1,199 @@
+[04-Aug-2026 04:33:16 UTC] save_item.php: User not authenticated - session missing
+[04-Aug-2026 04:34:30 UTC] save_item.php: User not authenticated - session missing
+[04-Aug-2026 04:35:29 UTC] save_item.php: User not authenticated - session missing
+[04-Aug-2026 04:35:32 UTC] save_item.php: User not authenticated - session missing
+[04-Aug-2026 04:50:22 UTC] save_item.php: User not authenticated - session missing
+[04-Aug-2026 04:51:44 UTC] save_item.php: User not authenticated - session missing
+[04-Aug-2026 04:54:09 UTC] save_item.php: User not authenticated - session missing
+[04-Aug-2026 05:03:02 UTC] save_item.php: User not authenticated - session missing
+[04-Aug-2026 05:11:46 UTC] save_item.php: Session ID: 84dd0c15fa6e9103c0b3d0637024e20e
+[04-Aug-2026 05:11:46 UTC] save_item.php: Session data: Array
+(
+)
+
+[04-Aug-2026 05:11:46 UTC] save_item.php: User not authenticated - session missing
+[04-Aug-2026 05:13:44 UTC] save_item.php: Session ID: 84dd0c15fa6e9103c0b3d0637024e20e
+[04-Aug-2026 05:13:44 UTC] save_item.php: Session data: Array
+(
+)
+
+[04-Aug-2026 05:13:44 UTC] save_item.php: User not authenticated - session missing
+[04-Aug-2026 05:13:47 UTC] save_item.php: Session ID: 84dd0c15fa6e9103c0b3d0637024e20e
+[04-Aug-2026 05:13:47 UTC] save_item.php: Session data: Array
+(
+)
+
+[04-Aug-2026 05:13:47 UTC] save_item.php: User not authenticated - session missing
+[04-Aug-2026 05:17:43 UTC] save_item.php: Session ID: 84dd0c15fa6e9103c0b3d0637024e20e
+[04-Aug-2026 05:17:43 UTC] save_item.php: Session data: Array
+(
+)
+
+[04-Aug-2026 05:17:43 UTC] save_item.php: User not authenticated - session missing
+[04-Aug-2026 05:31:32 UTC] save_item.php: Session ID: 84dd0c15fa6e9103c0b3d0637024e20e
+[04-Aug-2026 05:31:32 UTC] save_item.php: Session data: Array
+(
+)
+
+[04-Aug-2026 05:31:32 UTC] save_item.php: User not authenticated - session user_id missing
+[04-Aug-2026 05:33:00 UTC] save_item.php: Session ID: 84dd0c15fa6e9103c0b3d0637024e20e
+[04-Aug-2026 05:33:00 UTC] save_item.php: Session data: Array
+(
+)
+
+[04-Aug-2026 05:33:00 UTC] save_item.php: User not authenticated - session user_id missing
+[04-Aug-2026 06:08:04 UTC] PHP Warning:  require_once(/home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/config/session_fix.php): Failed to open stream: No such file or directory in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/ajax/test_path.php on line 3
+[04-Aug-2026 06:08:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/config/session_fix.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/ajax/test_path.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/ajax/test_path.php on line 3
+[04-Aug-2026 06:08:09 UTC] PHP Warning:  require_once(/home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/config/session_fix.php): Failed to open stream: No such file or directory in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/ajax/test_path.php on line 3
+[04-Aug-2026 06:08:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/config/session_fix.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/ajax/test_path.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/ajax/test_path.php on line 3
+[04-Aug-2026 06:08:10 UTC] PHP Warning:  require_once(/home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/config/session_fix.php): Failed to open stream: No such file or directory in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/ajax/test_path.php on line 3
+[04-Aug-2026 06:08:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/config/session_fix.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/ajax/test_path.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/ajax/test_path.php on line 3
+[04-Aug-2026 06:08:10 UTC] PHP Warning:  require_once(/home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/config/session_fix.php): Failed to open stream: No such file or directory in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/ajax/test_path.php on line 3
+[04-Aug-2026 06:08:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/config/session_fix.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/ajax/test_path.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/ajax/test_path.php on line 3
+[04-Aug-2026 06:09:07 UTC] PHP Warning:  require_once(/home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/config/session_fix.php): Failed to open stream: No such file or directory in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/ajax/test_path.php on line 3
+[04-Aug-2026 06:09:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/config/session_fix.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/ajax/test_path.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/ajax/test_path.php on line 3
+[04-Aug-2026 06:10:05 UTC] PHP Warning:  require_once(/home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/config/session_fix.php): Failed to open stream: No such file or directory in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/ajax/save_item.php on line 7
+[04-Aug-2026 06:10:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/config/session_fix.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/ajax/save_item.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/ajax/save_item.php on line 7
+[04-Aug-2026 06:14:26 UTC] PHP Warning:  require_once(/home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/config/session_fix.php): Failed to open stream: No such file or directory in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/ajax/save_item.php on line 7
+[04-Aug-2026 06:14:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/config/session_fix.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/ajax/save_item.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/ajax/save_item.php on line 7
+[04-Aug-2026 06:15:21 UTC] PHP Warning:  require_once(/home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/config/session_fix.php): Failed to open stream: No such file or directory in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/ajax/save_item.php on line 7
+[04-Aug-2026 06:15:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/config/session_fix.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/ajax/save_item.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/ajax/save_item.php on line 7
+[04-Aug-2026 06:15:56 UTC] PHP Warning:  require_once(/home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/config/session_fix.php): Failed to open stream: No such file or directory in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/ajax/save_item.php on line 7
+[04-Aug-2026 06:15:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/config/session_fix.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/ajax/save_item.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/ajax/save_item.php on line 7
+[04-Aug-2026 06:18:13 UTC] PHP Warning:  require_once(/home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/config/session_fix.php): Failed to open stream: No such file or directory in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/ajax/save_item.php on line 7
+[04-Aug-2026 06:18:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/config/session_fix.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/ajax/save_item.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/ajax/save_item.php on line 7
+[04-Aug-2026 06:18:38 UTC] PHP Warning:  require_once(/home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/config/session_fix.php): Failed to open stream: No such file or directory in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/ajax/save_item.php on line 7
+[04-Aug-2026 06:18:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/config/session_fix.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/ajax/save_item.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/ajax/save_item.php on line 7
+[04-Aug-2026 06:45:57 UTC] save_item.php: User not authenticated - session missing
+[04-Aug-2026 06:53:23 UTC] === SAVE_ITEM.PHP START ===
+[04-Aug-2026 06:53:23 UTC] Session ID: 84dd0c15fa6e9103c0b3d0637024e20e
+[04-Aug-2026 06:53:23 UTC] Session Data: Array
+(
+)
+
+[04-Aug-2026 06:53:23 UTC] POST Data: Array
+(
+    [name] => HP ZBook
+    [brand_id] => 2
+    [type_id] => 1
+    [category_id] => 1
+    [sub_category_id] => 9
+    [initial_qty] => 1
+    [min_qty] => 0
+    [warranty_period] => 12
+    [regular_price] => 25000
+    [specification] => 
+    [vendors] => ["5"]
+    [vendor_prices] => ["25000"]
+    [primary_vendor] => 0
+    [serial_numbers] => ["S1478"]
+    [model_numbers] => ["M52369"]
+    [versions] => [""]
+)
+
+[04-Aug-2026 06:53:23 UTC] save_item.php: User not authenticated - session missing
+[04-Aug-2026 06:53:23 UTC] Session ID: 84dd0c15fa6e9103c0b3d0637024e20e
+[04-Aug-2026 06:53:23 UTC] Session Data: Array
+(
+)
+
+[04-Aug-2026 06:54:36 UTC] PHP Warning:  require_once(/home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/config/session_fix.php): Failed to open stream: No such file or directory in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/ajax/test_path.php on line 3
+[04-Aug-2026 06:54:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/config/session_fix.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/ajax/test_path.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/ajax/test_path.php on line 3
+[04-Aug-2026 06:55:47 UTC] === TEST SESSION AJAX ===
+[04-Aug-2026 06:55:47 UTC] Session ID: 84dd0c15fa6e9103c0b3d0637024e20e
+[04-Aug-2026 06:55:47 UTC] Session Data: Array
+(
+)
+
+[04-Aug-2026 06:56:19 UTC] === TEST SESSION AJAX ===
+[04-Aug-2026 06:56:19 UTC] Session ID: d85c5cf37af225fb39519751d36546f6
+[04-Aug-2026 06:56:19 UTC] Session Data: Array
+(
+)
+
+[04-Aug-2026 06:59:20 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 11
+[04-Aug-2026 06:59:20 UTC] PHP Warning:  session_save_path(): Session save path cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 12
+[04-Aug-2026 06:59:20 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 21
+[04-Aug-2026 06:59:20 UTC] Session empty on: /modules/items/ajax/save_item.php - IP: 27.147.137.49
+[04-Aug-2026 07:03:59 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 11
+[04-Aug-2026 07:03:59 UTC] PHP Warning:  session_save_path(): Session save path cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 12
+[04-Aug-2026 07:03:59 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 21
+[04-Aug-2026 07:03:59 UTC] Session empty on: /modules/items/ajax/save_item.php - IP: 27.147.137.49
+[04-Aug-2026 07:22:10 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 11
+[04-Aug-2026 07:22:10 UTC] PHP Warning:  session_save_path(): Session save path cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 12
+[04-Aug-2026 07:22:10 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 21
+[04-Aug-2026 07:22:10 UTC] Session empty on: /modules/items/ajax/save_item.php - IP: 27.147.137.49
+[04-Aug-2026 07:26:52 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 11
+[04-Aug-2026 07:26:52 UTC] PHP Warning:  session_save_path(): Session save path cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 12
+[04-Aug-2026 07:26:52 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 21
+[04-Aug-2026 07:26:52 UTC] Session empty on: /modules/items/ajax/save_item.php - IP: 27.147.137.49
+[04-Aug-2026 11:32:38 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 11
+[04-Aug-2026 11:32:38 UTC] PHP Warning:  session_save_path(): Session save path cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 12
+[04-Aug-2026 11:32:38 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 21
+[04-Aug-2026 11:32:38 UTC] Session empty on: /modules/items/ajax/save_item.php - IP: 27.147.137.49
+[10-Aug-2026 15:28:31 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 11
+[10-Aug-2026 15:28:31 UTC] PHP Warning:  session_save_path(): Session save path cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 12
+[10-Aug-2026 15:28:31 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 22
+[10-Aug-2026 15:28:31 UTC] Session empty on: /modules/items/ajax/save_item.php - Domain: it-inventory.bhs-headache.org
+[10-Aug-2026 16:07:08 UTC] Session active for user: 1 on /modules/items/ajax/save_item.php
+[10-Aug-2026 16:07:08 UTC] Item added successfully by user: 1 - Item ID: 116
+[11-Aug-2026 04:28:08 UTC] Session active for user: 4 on /modules/items/ajax/save_item.php
+[11-Aug-2026 04:28:08 UTC] Item added successfully by user: 4 - Item ID: 117
+[12-Aug-2026 04:51:21 UTC] Session active for user: 4 on /modules/items/ajax/save_item.php
+[12-Aug-2026 04:51:42 UTC] Session active for user: 4 on /modules/items/ajax/save_item.php
+[12-Aug-2026 04:51:42 UTC] Item added successfully by user: 4 - Item ID: 120
+[19-Aug-2026 04:45:31 UTC] Session active for user: 6 on /modules/items/ajax/save_item.php
+[19-Aug-2026 04:45:31 UTC] Item added successfully by user: 6 - Item ID: 123
+[20-Aug-2026 03:31:03 UTC] Session active for user: 1 on /modules/items/ajax/delete_serial.php
+[20-Aug-2026 03:31:08 UTC] Session active for user: 1 on /modules/items/ajax/delete_serial.php
+[20-Aug-2026 03:33:39 UTC] Session active for user: 1 on /modules/items/ajax/delete_serial.php
+[20-Aug-2026 03:42:59 UTC] Session active for user: 1 on /modules/items/ajax/delete_serial.php
+[23-Aug-2026 10:52:43 UTC] Session restored for user: 1 on /modules/items/ajax/save_item.php
+[23-Aug-2026 10:52:43 UTC] Session active for user: 1 on /modules/items/ajax/save_item.php
+[23-Aug-2026 10:52:43 UTC] Item added successfully by user: 1 - Item ID: 124
+[23-Aug-2026 10:57:16 UTC] Session active for user: 1 on /modules/items/ajax/save_item.php
+[23-Aug-2026 10:57:16 UTC] Item added successfully by user: 1 - Item ID: 125
+[23-Aug-2026 11:37:00 UTC] Session active for user: 1 on /modules/items/ajax/save_item.php
+[23-Aug-2026 11:37:00 UTC] Item added successfully by user: 1 - Item ID: 126
+[23-Aug-2026 11:39:03 UTC] Session active for user: 1 on /modules/items/ajax/delete_serial.php
+[23-Aug-2026 11:39:23 UTC] Session active for user: 1 on /modules/items/ajax/delete_serial.php
+[23-Aug-2026 11:39:35 UTC] Session active for user: 1 on /modules/items/ajax/delete_serial.php
+[24-Aug-2026 03:59:12 UTC] Session active for user: 6 on /modules/items/ajax/save_item.php
+[24-Aug-2026 03:59:12 UTC] Item added successfully by user: 6 - Item ID: 127
+[24-Aug-2026 04:22:15 UTC] Session active for user: 6 on /modules/items/ajax/delete_serial.php

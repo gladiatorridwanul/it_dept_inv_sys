@@ -1,0 +1,985 @@
+[25-May-2026 18:07:28 UTC] PHP Warning:  Undefined array key "barcode_path" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/view.php on line 532
+[28-May-2026 19:39:59 UTC] PHP Warning:  Undefined variable $pdo in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 53
+[28-May-2026 19:39:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 53
+[28-May-2026 19:43:35 UTC] PHP Warning:  Undefined variable $pdo in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 53
+[28-May-2026 19:43:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 53
+[31-May-2026 06:31:43 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 376
+[31-May-2026 06:31:43 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 376
+[31-May-2026 06:40:55 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 376
+[31-May-2026 06:40:55 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 376
+[31-May-2026 06:40:55 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 377
+[31-May-2026 06:40:55 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 377
+[31-May-2026 06:40:55 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 385
+[31-May-2026 06:40:55 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 385
+[31-May-2026 06:40:55 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 387
+[31-May-2026 06:40:55 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 387
+[31-May-2026 06:43:19 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 376
+[31-May-2026 06:43:19 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 376
+[31-May-2026 06:43:19 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 377
+[31-May-2026 06:43:19 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 377
+[31-May-2026 06:43:19 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 385
+[31-May-2026 06:43:19 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 385
+[31-May-2026 06:43:19 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 387
+[31-May-2026 06:43:19 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 387
+[31-May-2026 06:45:31 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 372
+[31-May-2026 06:45:31 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 372
+[31-May-2026 06:45:31 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 373
+[31-May-2026 06:45:31 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 373
+[31-May-2026 06:45:31 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 381
+[31-May-2026 06:45:31 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 381
+[31-May-2026 06:45:31 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 383
+[31-May-2026 06:45:31 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 383
+[31-May-2026 06:51:02 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 358
+[31-May-2026 06:51:02 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 358
+[31-May-2026 06:51:02 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 359
+[31-May-2026 06:51:02 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 359
+[31-May-2026 06:51:02 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 371
+[31-May-2026 06:51:02 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 371
+[31-May-2026 06:55:14 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 358
+[31-May-2026 06:55:14 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 358
+[31-May-2026 06:55:14 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 359
+[31-May-2026 06:55:14 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 359
+[31-May-2026 06:55:14 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 371
+[31-May-2026 06:55:14 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 371
+[31-May-2026 07:05:17 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 358
+[31-May-2026 07:05:17 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 358
+[31-May-2026 07:05:17 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 359
+[31-May-2026 07:05:17 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 359
+[31-May-2026 07:05:17 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 371
+[31-May-2026 07:05:17 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 371
+[31-May-2026 07:28:41 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 358
+[31-May-2026 07:28:41 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 358
+[31-May-2026 07:28:41 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 359
+[31-May-2026 07:28:41 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 359
+[31-May-2026 07:28:41 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 371
+[31-May-2026 07:28:41 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 371
+[31-May-2026 07:28:46 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 358
+[31-May-2026 07:28:46 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 358
+[31-May-2026 07:28:46 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 359
+[31-May-2026 07:28:46 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 359
+[31-May-2026 07:28:46 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 371
+[31-May-2026 07:28:46 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 371
+[31-May-2026 07:29:04 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 376
+[31-May-2026 07:29:04 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 376
+[31-May-2026 07:29:07 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 376
+[31-May-2026 07:29:07 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 376
+[31-May-2026 07:29:22 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 376
+[31-May-2026 07:29:22 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 376
+[31-May-2026 08:01:30 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 375
+[31-May-2026 08:01:30 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 375
+[31-May-2026 08:01:30 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 381
+[31-May-2026 08:01:30 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 381
+[31-May-2026 08:01:30 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 385
+[31-May-2026 08:01:30 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 385
+[31-May-2026 08:01:30 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 390
+[31-May-2026 08:01:30 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 390
+[31-May-2026 08:01:30 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 391
+[31-May-2026 08:01:30 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 391
+[31-May-2026 08:01:30 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 399
+[31-May-2026 08:01:30 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 399
+[31-May-2026 08:01:30 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 400
+[31-May-2026 08:01:30 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 400
+[31-May-2026 08:01:30 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 402
+[31-May-2026 08:01:30 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 402
+[31-May-2026 08:01:30 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 459
+[31-May-2026 08:01:30 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 459
+[31-May-2026 08:01:30 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 465
+[31-May-2026 08:01:30 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 465
+[31-May-2026 08:01:30 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 468
+[31-May-2026 08:01:30 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 468
+[31-May-2026 08:01:30 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 473
+[31-May-2026 08:01:30 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 473
+[31-May-2026 08:01:30 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 474
+[31-May-2026 08:01:30 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 474
+[31-May-2026 08:06:24 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 375
+[31-May-2026 08:06:24 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 375
+[31-May-2026 08:06:24 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 381
+[31-May-2026 08:06:24 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 381
+[31-May-2026 08:06:24 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 385
+[31-May-2026 08:06:24 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 385
+[31-May-2026 08:06:24 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 390
+[31-May-2026 08:06:24 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 390
+[31-May-2026 08:06:24 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 391
+[31-May-2026 08:06:24 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 391
+[31-May-2026 08:06:24 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 399
+[31-May-2026 08:06:24 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 399
+[31-May-2026 08:06:24 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 400
+[31-May-2026 08:06:24 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 400
+[31-May-2026 08:06:24 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 402
+[31-May-2026 08:06:24 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 402
+[31-May-2026 08:06:24 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 459
+[31-May-2026 08:06:24 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 459
+[31-May-2026 08:06:24 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 465
+[31-May-2026 08:06:24 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 465
+[31-May-2026 08:06:24 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 468
+[31-May-2026 08:06:24 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 468
+[31-May-2026 08:06:24 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 473
+[31-May-2026 08:06:24 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 473
+[31-May-2026 08:06:24 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 474
+[31-May-2026 08:06:24 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 474
+[31-May-2026 08:11:19 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 376
+[31-May-2026 08:11:19 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 376
+[31-May-2026 08:13:50 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 376
+[31-May-2026 08:13:50 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 376
+[31-May-2026 08:13:53 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 375
+[31-May-2026 08:13:53 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 375
+[31-May-2026 08:13:53 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 381
+[31-May-2026 08:13:53 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 381
+[31-May-2026 08:13:53 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 385
+[31-May-2026 08:13:53 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 385
+[31-May-2026 08:13:53 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 390
+[31-May-2026 08:13:53 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 390
+[31-May-2026 08:13:53 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 391
+[31-May-2026 08:13:53 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 391
+[31-May-2026 08:13:53 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 399
+[31-May-2026 08:13:53 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 399
+[31-May-2026 08:13:53 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 400
+[31-May-2026 08:13:53 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 400
+[31-May-2026 08:13:53 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 402
+[31-May-2026 08:13:53 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 402
+[31-May-2026 08:13:53 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 459
+[31-May-2026 08:13:53 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 459
+[31-May-2026 08:13:53 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 465
+[31-May-2026 08:13:53 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 465
+[31-May-2026 08:13:53 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 468
+[31-May-2026 08:13:53 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 468
+[31-May-2026 08:13:53 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 473
+[31-May-2026 08:13:53 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 473
+[31-May-2026 08:13:53 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 474
+[31-May-2026 08:13:53 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 474
+[31-May-2026 08:13:57 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 375
+[31-May-2026 08:13:57 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 375
+[31-May-2026 08:13:57 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 381
+[31-May-2026 08:13:57 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 381
+[31-May-2026 08:13:57 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 385
+[31-May-2026 08:13:57 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 385
+[31-May-2026 08:13:57 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 390
+[31-May-2026 08:13:57 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 390
+[31-May-2026 08:13:57 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 391
+[31-May-2026 08:13:57 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 391
+[31-May-2026 08:13:57 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 399
+[31-May-2026 08:13:57 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 399
+[31-May-2026 08:13:57 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 400
+[31-May-2026 08:13:57 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 400
+[31-May-2026 08:13:57 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 402
+[31-May-2026 08:13:57 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 402
+[31-May-2026 08:13:57 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 459
+[31-May-2026 08:13:57 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 459
+[31-May-2026 08:13:57 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 465
+[31-May-2026 08:13:57 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 465
+[31-May-2026 08:13:57 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 468
+[31-May-2026 08:13:57 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 468
+[31-May-2026 08:13:57 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 473
+[31-May-2026 08:13:57 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 473
+[31-May-2026 08:13:57 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 474
+[31-May-2026 08:13:57 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 474
+[31-May-2026 08:14:06 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 375
+[31-May-2026 08:14:06 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 375
+[31-May-2026 08:14:06 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 381
+[31-May-2026 08:14:06 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 381
+[31-May-2026 08:14:06 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 385
+[31-May-2026 08:14:06 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 385
+[31-May-2026 08:14:06 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 390
+[31-May-2026 08:14:06 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 390
+[31-May-2026 08:14:06 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 391
+[31-May-2026 08:14:06 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 391
+[31-May-2026 08:14:06 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 399
+[31-May-2026 08:14:06 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 399
+[31-May-2026 08:14:06 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 400
+[31-May-2026 08:14:06 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 400
+[31-May-2026 08:14:06 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 402
+[31-May-2026 08:14:06 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 402
+[31-May-2026 08:14:06 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 459
+[31-May-2026 08:14:06 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 459
+[31-May-2026 08:14:06 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 465
+[31-May-2026 08:14:06 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 465
+[31-May-2026 08:14:06 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 468
+[31-May-2026 08:14:06 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 468
+[31-May-2026 08:14:06 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 473
+[31-May-2026 08:14:06 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 473
+[31-May-2026 08:14:06 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 474
+[31-May-2026 08:14:06 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 474
+[31-May-2026 08:14:10 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 375
+[31-May-2026 08:14:10 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 375
+[31-May-2026 08:14:10 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 381
+[31-May-2026 08:14:10 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 381
+[31-May-2026 08:14:10 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 385
+[31-May-2026 08:14:10 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 385
+[31-May-2026 08:14:10 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 390
+[31-May-2026 08:14:10 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 390
+[31-May-2026 08:14:10 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 391
+[31-May-2026 08:14:10 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 391
+[31-May-2026 08:14:10 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 399
+[31-May-2026 08:14:10 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 399
+[31-May-2026 08:14:10 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 400
+[31-May-2026 08:14:10 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 400
+[31-May-2026 08:14:10 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 402
+[31-May-2026 08:14:10 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 402
+[31-May-2026 08:14:10 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 459
+[31-May-2026 08:14:10 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 459
+[31-May-2026 08:14:10 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 465
+[31-May-2026 08:14:10 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 465
+[31-May-2026 08:14:10 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 468
+[31-May-2026 08:14:10 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 468
+[31-May-2026 08:14:10 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 473
+[31-May-2026 08:14:10 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 473
+[31-May-2026 08:14:10 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 474
+[31-May-2026 08:14:10 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 474
+[31-May-2026 08:19:40 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 373
+[31-May-2026 08:19:40 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 373
+[31-May-2026 08:19:40 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 379
+[31-May-2026 08:19:40 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 379
+[31-May-2026 08:19:40 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 383
+[31-May-2026 08:19:40 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 383
+[31-May-2026 08:19:40 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 388
+[31-May-2026 08:19:40 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 388
+[31-May-2026 08:19:40 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 389
+[31-May-2026 08:19:40 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 389
+[31-May-2026 08:19:40 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 397
+[31-May-2026 08:19:40 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 397
+[31-May-2026 08:19:40 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 398
+[31-May-2026 08:19:40 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 398
+[31-May-2026 08:19:40 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 400
+[31-May-2026 08:19:40 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 400
+[31-May-2026 08:19:40 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 457
+[31-May-2026 08:19:40 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 457
+[31-May-2026 08:19:40 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 463
+[31-May-2026 08:19:40 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 463
+[31-May-2026 08:19:40 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 466
+[31-May-2026 08:19:40 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 466
+[31-May-2026 08:19:40 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 471
+[31-May-2026 08:19:40 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 471
+[31-May-2026 08:19:40 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 472
+[31-May-2026 08:19:40 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 472
+[31-May-2026 08:19:44 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 373
+[31-May-2026 08:19:44 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 373
+[31-May-2026 08:19:44 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 379
+[31-May-2026 08:19:44 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 379
+[31-May-2026 08:19:44 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 383
+[31-May-2026 08:19:44 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 383
+[31-May-2026 08:19:44 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 388
+[31-May-2026 08:19:44 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 388
+[31-May-2026 08:19:44 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 389
+[31-May-2026 08:19:44 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 389
+[31-May-2026 08:19:44 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 397
+[31-May-2026 08:19:44 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 397
+[31-May-2026 08:19:44 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 398
+[31-May-2026 08:19:44 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 398
+[31-May-2026 08:19:44 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 400
+[31-May-2026 08:19:44 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 400
+[31-May-2026 08:19:44 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 457
+[31-May-2026 08:19:44 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 457
+[31-May-2026 08:19:44 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 463
+[31-May-2026 08:19:44 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 463
+[31-May-2026 08:19:44 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 466
+[31-May-2026 08:19:44 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 466
+[31-May-2026 08:19:44 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 471
+[31-May-2026 08:19:44 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 471
+[31-May-2026 08:19:44 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 472
+[31-May-2026 08:19:44 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 472
+[31-May-2026 08:23:30 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 373
+[31-May-2026 08:23:30 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 373
+[31-May-2026 08:23:30 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 379
+[31-May-2026 08:23:30 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 379
+[31-May-2026 08:23:30 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 383
+[31-May-2026 08:23:30 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 383
+[31-May-2026 08:23:30 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 388
+[31-May-2026 08:23:30 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 388
+[31-May-2026 08:23:30 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 389
+[31-May-2026 08:23:30 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 389
+[31-May-2026 08:23:30 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 397
+[31-May-2026 08:23:30 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 397
+[31-May-2026 08:23:30 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 398
+[31-May-2026 08:23:30 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 398
+[31-May-2026 08:23:30 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 400
+[31-May-2026 08:23:30 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 400
+[31-May-2026 08:23:30 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 457
+[31-May-2026 08:23:30 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 457
+[31-May-2026 08:23:30 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 463
+[31-May-2026 08:23:30 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 463
+[31-May-2026 08:23:30 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 466
+[31-May-2026 08:23:30 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 466
+[31-May-2026 08:23:30 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 471
+[31-May-2026 08:23:30 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 471
+[31-May-2026 08:23:30 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 472
+[31-May-2026 08:23:30 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 472
+[31-May-2026 08:25:08 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 373
+[31-May-2026 08:25:08 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 373
+[31-May-2026 08:25:08 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 379
+[31-May-2026 08:25:08 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 379
+[31-May-2026 08:25:08 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 383
+[31-May-2026 08:25:08 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 383
+[31-May-2026 08:25:08 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 388
+[31-May-2026 08:25:08 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 388
+[31-May-2026 08:25:08 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 389
+[31-May-2026 08:25:08 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 389
+[31-May-2026 08:25:08 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 397
+[31-May-2026 08:25:08 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 397
+[31-May-2026 08:25:08 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 398
+[31-May-2026 08:25:08 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 398
+[31-May-2026 08:25:08 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 400
+[31-May-2026 08:25:08 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 400
+[31-May-2026 08:25:08 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 457
+[31-May-2026 08:25:08 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 457
+[31-May-2026 08:25:08 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 463
+[31-May-2026 08:25:08 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 463
+[31-May-2026 08:25:08 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 466
+[31-May-2026 08:25:08 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 466
+[31-May-2026 08:25:08 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 471
+[31-May-2026 08:25:08 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 471
+[31-May-2026 08:25:08 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 472
+[31-May-2026 08:25:08 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 472
+[31-May-2026 08:25:14 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 373
+[31-May-2026 08:25:14 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 373
+[31-May-2026 08:25:14 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 379
+[31-May-2026 08:25:14 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 379
+[31-May-2026 08:25:14 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 383
+[31-May-2026 08:25:14 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 383
+[31-May-2026 08:25:14 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 388
+[31-May-2026 08:25:14 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 388
+[31-May-2026 08:25:14 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 389
+[31-May-2026 08:25:14 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 389
+[31-May-2026 08:25:14 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 397
+[31-May-2026 08:25:14 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 397
+[31-May-2026 08:25:14 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 398
+[31-May-2026 08:25:14 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 398
+[31-May-2026 08:25:14 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 400
+[31-May-2026 08:25:14 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 400
+[31-May-2026 08:25:14 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 457
+[31-May-2026 08:25:14 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 457
+[31-May-2026 08:25:14 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 463
+[31-May-2026 08:25:14 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 463
+[31-May-2026 08:25:14 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 466
+[31-May-2026 08:25:14 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 466
+[31-May-2026 08:25:14 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 471
+[31-May-2026 08:25:14 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 471
+[31-May-2026 08:25:14 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 472
+[31-May-2026 08:25:14 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/add.php on line 472
+[31-May-2026 18:26:36 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 376
+[31-May-2026 18:26:36 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 376
+[31-May-2026 18:27:42 UTC] PHP Warning:  Undefined variable $item in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 376
+[31-May-2026 18:27:42 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 376
+[01-Jun-2026 09:33:13 UTC] PHP Fatal error:  Uncaught PDOException: There is no active transaction in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/edit.php:151
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/edit.php(151): PDO->rollBack()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/edit.php on line 151
+[01-Jun-2026 20:40:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'i.category_id' in 'where clause' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php:6
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php(6): PDO->query()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 6
+[02-Jun-2026 04:14:07 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function hasPermission(), 1 passed in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php on line 385 and at least 3 expected in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/includes/auth.php:26
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/list.php(385): hasPermission()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/includes/auth.php on line 26
+[02-Jun-2026 11:01:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'isn.assignment_id' in 'on clause' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/edit.php:42
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/edit.php(42): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/edit.php on line 42
+[02-Jun-2026 11:02:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'isn.assignment_id' in 'on clause' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/edit.php:42
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/edit.php(42): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/edit.php on line 42
+[02-Jun-2026 11:02:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'isn.assignment_id' in 'on clause' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/view.php:62
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/view.php(62): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/view.php on line 62
+[14-Jun-2026 07:01:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sd.submission_no' in 'field list' in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/view.php:88
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/view.php(88): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/view.php on line 88
+[14-Jun-2026 19:34:55 UTC] Database error in list.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''10' OFFSET '0'' at line 13
+[14-Jun-2026 19:35:04 UTC] Database error in list.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''10' OFFSET '0'' at line 13
+[14-Jun-2026 19:40:11 UTC] Database error in list.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''10' OFFSET '0'' at line 13
+[14-Jun-2026 19:40:15 UTC] Database error in list.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''10' OFFSET '0'' at line 13
+[14-Jun-2026 19:44:06 UTC] Database error in list.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''10' OFFSET '0'' at line 13
+[14-Jun-2026 19:44:13 UTC] Database error in list.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''10' OFFSET '0'' at line 13
+[15-Jun-2026 03:23:05 UTC] Database error in list.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''10' OFFSET '0'' at line 13
+[15-Jun-2026 03:23:06 UTC] Database error in list.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''10' OFFSET '0'' at line 13
+[15-Jun-2026 03:27:34 UTC] WHERE SQL: i.is_active = 1
+[15-Jun-2026 03:27:34 UTC] Params: Array
+(
+)
+
+[15-Jun-2026 03:27:34 UTC] Database error in list.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''10' OFFSET '0'' at line 13
+[15-Jun-2026 03:27:38 UTC] WHERE SQL: i.is_active = 1
+[15-Jun-2026 03:27:38 UTC] Params: Array
+(
+)
+
+[15-Jun-2026 03:27:38 UTC] Database error in list.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''10' OFFSET '0'' at line 13
+[15-Jun-2026 03:39:22 UTC] Database error in list.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''10' OFFSET '0'' at line 11
+[15-Jun-2026 03:39:25 UTC] Database error in list.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''10' OFFSET '0'' at line 11
+[15-Jun-2026 03:42:25 UTC] Database error in list.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''10' OFFSET '0'' at line 11
+[15-Jun-2026 03:42:27 UTC] Database error in list.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''10' OFFSET '0'' at line 11
+[15-Jun-2026 03:50:34 UTC] Database error in list.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''10' OFFSET '0'' at line 11
+[15-Jun-2026 03:50:45 UTC] Database error in list.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''10' OFFSET '0'' at line 11
+[15-Jun-2026 03:54:48 UTC] Database error in list.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''10' OFFSET '0'' at line 11
+[15-Jun-2026 03:58:05 UTC] Database error in list.php: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[23-Jul-2026 08:35:47 UTC] Session empty on: /modules/items/list.php
+[23-Jul-2026 08:48:18 UTC] Session empty on: /modules/items/list.php
+[23-Jul-2026 09:53:22 UTC] Session empty on: /modules/items/list.php
+[24-Jul-2026 09:30:04 UTC] Session empty on: /modules/items/list.php
+[24-Jul-2026 09:30:06 UTC] Session empty on: /modules/items/list.php
+[24-Jul-2026 09:33:56 UTC] Session empty on: /modules/items/list.php
+[24-Jul-2026 09:40:19 UTC] Session empty on: /modules/items/list.php
+[24-Jul-2026 10:01:35 UTC] Session active for user: 1
+[24-Jul-2026 10:31:10 UTC] Session active for user: 1
+[24-Jul-2026 10:31:15 UTC] Session active for user: 1
+[26-Jul-2026 03:01:55 UTC] Session active for user: 1
+[26-Jul-2026 03:02:05 UTC] Session active for user: 1
+[26-Jul-2026 03:02:25 UTC] Session active for user: 1
+[26-Jul-2026 03:05:35 UTC] Session active for user: 4
+[26-Jul-2026 03:24:59 UTC] Session active for user: 4
+[26-Jul-2026 03:25:04 UTC] Session active for user: 4
+[26-Jul-2026 03:27:06 UTC] Session active for user: 6
+[26-Jul-2026 03:41:29 UTC] Session active for user: 6
+[26-Jul-2026 04:02:15 UTC] Session active for user: 1
+[26-Jul-2026 04:02:40 UTC] Session active for user: 1
+[26-Jul-2026 04:02:42 UTC] Session active for user: 1
+[26-Jul-2026 04:03:35 UTC] Session active for user: 1
+[26-Jul-2026 04:04:48 UTC] Session active for user: 1
+[26-Jul-2026 04:06:30 UTC] Session active for user: 6
+[26-Jul-2026 05:52:55 UTC] Session active for user: 4
+[26-Jul-2026 07:24:50 UTC] Session active for user: 1
+[26-Jul-2026 09:10:19 UTC] Session active for user: 4
+[26-Jul-2026 09:10:24 UTC] Session active for user: 4
+[26-Jul-2026 09:17:54 UTC] Session active for user: 4
+[26-Jul-2026 10:07:28 UTC] Session active for user: 4
+[26-Jul-2026 11:55:37 UTC] Session active for user: 4
+[28-Jul-2026 03:04:29 UTC] Session active for user: 4
+[28-Jul-2026 03:25:17 UTC] Session active for user: 4
+[28-Jul-2026 03:25:23 UTC] Session active for user: 4
+[28-Jul-2026 03:33:19 UTC] Session active for user: 1
+[28-Jul-2026 04:07:25 UTC] Session active for user: 4
+[28-Jul-2026 04:09:02 UTC] Session active for user: 4
+[04-Aug-2026 02:54:36 UTC] Session active for user: 1
+[04-Aug-2026 02:54:40 UTC] Session active for user: 1
+[04-Aug-2026 02:54:58 UTC] Session active for user: 1
+[04-Aug-2026 02:57:30 UTC] Session active for user: 1
+[04-Aug-2026 02:57:36 UTC] Session active for user: 1
+[04-Aug-2026 03:06:08 UTC] Session active for user: 4
+[04-Aug-2026 03:10:35 UTC] Session active for user: 4
+[04-Aug-2026 03:10:49 UTC] Session active for user: 4
+[04-Aug-2026 03:22:37 UTC] Session active for user: 4
+[04-Aug-2026 03:22:38 UTC] Session active for user: 4
+[04-Aug-2026 03:52:28 UTC] Session active for user: 1
+[04-Aug-2026 03:52:30 UTC] Session active for user: 1
+[04-Aug-2026 04:01:06 UTC] Session active for user: 4
+[04-Aug-2026 04:06:00 UTC] Session active for user: 4
+[04-Aug-2026 04:06:31 UTC] Session active for user: 4
+[04-Aug-2026 04:06:40 UTC] Session active for user: 4
+[04-Aug-2026 04:06:57 UTC] Session active for user: 4
+[04-Aug-2026 04:07:20 UTC] Session active for user: 4
+[04-Aug-2026 04:17:33 UTC] Session active for user: 4
+[04-Aug-2026 04:34:34 UTC] Session active for user: 1
+[04-Aug-2026 04:53:34 UTC] Session active for user: 1
+[04-Aug-2026 05:02:06 UTC] Session empty on: /modules/items/add.php
+[04-Aug-2026 05:02:17 UTC] Session active for user: 1
+[04-Aug-2026 05:02:19 UTC] Session active for user: 1
+[04-Aug-2026 05:11:50 UTC] Session active for user: 1
+[04-Aug-2026 05:23:57 UTC] Session active for user: 1
+[04-Aug-2026 05:24:03 UTC] Session active for user: 1
+[04-Aug-2026 05:30:56 UTC] Session active for user: 1
+[04-Aug-2026 05:31:39 UTC] Session active for user: 1
+[04-Aug-2026 05:31:40 UTC] Session active for user: 1
+[04-Aug-2026 05:32:31 UTC] Session active for user: 1
+[04-Aug-2026 05:32:35 UTC] Session active for user: 1
+[04-Aug-2026 05:33:17 UTC] Session active for user: 1
+[04-Aug-2026 05:39:25 UTC] Session active for user: 1
+[04-Aug-2026 05:39:43 UTC] Session active for user: 1
+[04-Aug-2026 05:39:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bhsheadache/public_html/it-inventory.bhs-headache.org/includes/header.php:88) in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/edit.php on line 227
+[04-Aug-2026 05:39:48 UTC] Session active for user: 1
+[04-Aug-2026 05:39:51 UTC] Session active for user: 1
+[04-Aug-2026 05:39:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bhsheadache/public_html/it-inventory.bhs-headache.org/includes/header.php:88) in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/edit.php on line 227
+[04-Aug-2026 06:09:16 UTC] Session active for user: 1
+[04-Aug-2026 06:09:19 UTC] Session active for user: 1
+[04-Aug-2026 06:13:19 UTC] Session active for user: 1
+[04-Aug-2026 06:13:22 UTC] Session active for user: 1
+[04-Aug-2026 06:13:40 UTC] Session active for user: 1
+[04-Aug-2026 06:13:51 UTC] Session active for user: 1
+[04-Aug-2026 06:45:23 UTC] Session active for user: 1
+[04-Aug-2026 06:45:27 UTC] Session active for user: 1
+[04-Aug-2026 06:45:30 UTC] Session active for user: 1
+[04-Aug-2026 06:52:38 UTC] Session empty on: /modules/items/add.php - IP: 27.147.137.49
+[04-Aug-2026 06:52:48 UTC] Session active for user: 1 at /modules/items/list.php
+[04-Aug-2026 06:52:53 UTC] Session active for user: 1 at /modules/items/add.php
+[04-Aug-2026 06:54:31 UTC] Session active for user: 1 at /modules/items/add.php
+[04-Aug-2026 07:02:55 UTC] Session active for user: 1 at /modules/items/add.php
+[04-Aug-2026 07:25:53 UTC] Session active for user: 1 at /modules/items/add.php
+[04-Aug-2026 07:27:05 UTC] Session active for user: 1 at /modules/items/list.php
+[04-Aug-2026 07:27:06 UTC] Session active for user: 1 at /modules/items/list.php
+[04-Aug-2026 07:27:06 UTC] Session active for user: 1 at /modules/items/list.php
+[04-Aug-2026 07:27:06 UTC] Session active for user: 1 at /modules/items/list.php
+[04-Aug-2026 07:27:06 UTC] Session active for user: 1 at /modules/items/list.php
+[04-Aug-2026 07:27:06 UTC] Session active for user: 1 at /modules/items/list.php
+[04-Aug-2026 07:27:07 UTC] Session active for user: 1 at /modules/items/list.php
+[04-Aug-2026 07:27:07 UTC] Session active for user: 1 at /modules/items/list.php
+[04-Aug-2026 07:29:18 UTC] Session active for user: 1 at /modules/items/list.php
+[04-Aug-2026 07:29:20 UTC] Session active for user: 1 at /modules/items/add.php
+[04-Aug-2026 07:47:40 UTC] Session active for user: 1 at /modules/items/list.php
+[04-Aug-2026 07:47:45 UTC] Session active for user: 1 at /modules/items/add.php
+[04-Aug-2026 07:48:00 UTC] Session active for user: 1 at /modules/items/list.php
+[04-Aug-2026 07:48:02 UTC] Session active for user: 1 at /modules/items/add.php
+[04-Aug-2026 07:48:07 UTC] Session active for user: 1 at /modules/items/list.php
+[04-Aug-2026 07:48:09 UTC] Session active for user: 1 at /modules/items/edit.php?id=115
+[04-Aug-2026 07:48:12 UTC] Session active for user: 1 at /modules/items/list.php
+[04-Aug-2026 07:48:15 UTC] Session active for user: 1 at /modules/items/add.php
+[04-Aug-2026 07:49:30 UTC] Session active for user: 1 at /modules/items/list.php
+[04-Aug-2026 07:50:43 UTC] Session active for user: 1 at /modules/items/list.php
+[04-Aug-2026 07:50:47 UTC] Session active for user: 1 at /modules/items/add.php
+[04-Aug-2026 11:32:00 UTC] Session active for user: 1 at /modules/items/add.php
+[04-Aug-2026 11:35:01 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 11
+[04-Aug-2026 11:35:01 UTC] PHP Warning:  session_save_path(): Session save path cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 12
+[04-Aug-2026 11:35:01 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/session_fix.php on line 22
+[04-Aug-2026 11:35:01 UTC] Session empty on: /modules/items/add.php - Domain: it-inventory.bhs-headache.org
+[06-Aug-2026 11:36:06 UTC] Session active for user: 4 on /modules/items/list.php
+[06-Aug-2026 11:36:23 UTC] Session active for user: 4 on /modules/items/list.php?page=7&limit=10&limit=10
+[06-Aug-2026 11:36:32 UTC] Session active for user: 4 on /modules/items/list.php?page=1&limit=10&limit=10
+[09-Aug-2026 10:18:55 UTC] Session active for user: 4 on /modules/items/list.php
+[09-Aug-2026 10:19:12 UTC] Session active for user: 4 on /modules/items/list.php?page=2&limit=10&limit=10
+[09-Aug-2026 10:19:16 UTC] Session active for user: 4 on /modules/items/list.php?page=7&limit=10&limit=10
+[09-Aug-2026 10:19:22 UTC] Session active for user: 4 on /modules/items/list.php?page=6&limit=10&limit=10
+[09-Aug-2026 10:19:25 UTC] Session active for user: 4 on /modules/items/list.php?page=7&limit=10&limit=10
+[09-Aug-2026 10:19:41 UTC] Session active for user: 4 on /modules/items/list.php?page=1&limit=10&limit=10
+[09-Aug-2026 10:20:15 UTC] Session active for user: 4 on /modules/items/list.php?search=&category=&brand=&type=&limit=10
+[09-Aug-2026 10:20:17 UTC] Session active for user: 4 on /modules/items/list.php
+[09-Aug-2026 10:20:34 UTC] Session active for user: 4 on /modules/items/view.php?id=109
+[09-Aug-2026 10:20:39 UTC] Session active for user: 4 on /modules/items/list.php
+[09-Aug-2026 10:20:56 UTC] Session active for user: 4 on /modules/items/list.php
+[09-Aug-2026 10:21:50 UTC] Session active for user: 4 on /modules/items/list.php?page=2&limit=10&limit=10
+[09-Aug-2026 10:21:54 UTC] Session active for user: 4 on /modules/items/list.php?page=3&limit=10&limit=10
+[09-Aug-2026 10:22:11 UTC] Session active for user: 4 on /modules/items/list.php
+[10-Aug-2026 15:24:53 UTC] Session active for user: 1 on /modules/items/list.php
+[10-Aug-2026 15:27:54 UTC] Session active for user: 1 on /modules/items/add.php
+[10-Aug-2026 15:28:00 UTC] Session empty on: /modules/items/add.php - Domain: it-inventory.bhs-headache.org
+[10-Aug-2026 16:06:33 UTC] Session active for user: 1 on /modules/items/add.php
+[10-Aug-2026 16:07:21 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 03:19:50 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 03:19:54 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 03:19:57 UTC] Session active for user: 1 on /modules/items/view.php?id=116
+[11-Aug-2026 03:20:28 UTC] Session active for user: 1 on /modules/items/view.php?id=116
+[11-Aug-2026 03:20:39 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 03:24:17 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 03:24:17 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 03:24:18 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 03:24:18 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 04:02:45 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 04:02:48 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 04:04:29 UTC] Session active for user: 5 on /modules/items/list.php
+[11-Aug-2026 04:04:50 UTC] Session active for user: 5 on /modules/items/list.php
+[11-Aug-2026 04:04:53 UTC] Session active for user: 5 on /modules/items/add.php
+[11-Aug-2026 04:24:35 UTC] Session active for user: 4 on /modules/items/list.php
+[11-Aug-2026 04:24:41 UTC] Session active for user: 4 on /modules/items/add.php
+[11-Aug-2026 04:28:12 UTC] Session active for user: 4 on /modules/items/list.php
+[11-Aug-2026 04:28:23 UTC] Session active for user: 4 on /modules/items/view.php?id=117
+[11-Aug-2026 05:45:47 UTC] Session active for user: 5 on /modules/items/list.php
+[11-Aug-2026 06:02:19 UTC] Session active for user: 4 on /modules/items/list.php?status=low_stock
+[11-Aug-2026 06:58:13 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 07:37:04 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 07:37:08 UTC] Session active for user: 1 on /modules/items/view.php?id=116
+[11-Aug-2026 09:06:53 UTC] Session active for user: 4 on /modules/items/list.php
+[11-Aug-2026 10:19:29 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 10:19:37 UTC] Session active for user: 1 on /modules/items/view.php?id=116
+[11-Aug-2026 10:20:01 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 10:20:17 UTC] Session active for user: 1 on /modules/items/view.php?id=119
+[11-Aug-2026 10:20:22 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 10:20:28 UTC] Session active for user: 1 on /modules/items/view.php?id=116
+[11-Aug-2026 10:21:32 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 10:21:36 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 10:21:50 UTC] Session active for user: 1 on /modules/items/view.php?id=119
+[11-Aug-2026 10:21:53 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 10:21:58 UTC] Session active for user: 1 on /modules/items/edit.php?id=116
+[11-Aug-2026 10:22:13 UTC] Session active for user: 1 on /modules/items/edit.php?id=116
+[11-Aug-2026 10:22:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bhsheadache/public_html/it-inventory.bhs-headache.org/includes/header.php:88) in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/edit.php on line 227
+[11-Aug-2026 10:22:17 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 10:33:01 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 10:33:03 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 10:33:03 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 10:33:03 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 10:33:06 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 10:33:06 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 10:33:06 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 10:33:13 UTC] Session active for user: 1 on /modules/items/view.php?id=116
+[11-Aug-2026 10:33:20 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 10:33:27 UTC] Session active for user: 1 on /modules/items/edit.php?id=116
+[11-Aug-2026 10:33:41 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 10:33:42 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 10:35:03 UTC] Session active for user: 1 on /modules/items/view.php?id=116
+[11-Aug-2026 10:35:25 UTC] Session active for user: 1 on /modules/items/list.php?search=ITM-000062&category=&brand=&type=&limit=10
+[11-Aug-2026 10:35:34 UTC] Session active for user: 1 on /modules/items/list.php?search=&category=&brand=&type=&limit=10
+[11-Aug-2026 10:35:40 UTC] Session active for user: 1 on /modules/items/list.php?search=ITM-000063&category=&brand=&type=&limit=10
+[11-Aug-2026 10:38:38 UTC] Session active for user: 1 on /modules/items/view.php?id=116
+[11-Aug-2026 10:38:49 UTC] Session active for user: 1 on /modules/items/list.php?search=ITM-000063&category=&brand=&type=&limit=10
+[11-Aug-2026 10:38:49 UTC] Database error in list.php: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'damage_status' in 'where clause'
+[11-Aug-2026 10:38:52 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 10:38:52 UTC] Database error in list.php: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'damage_status' in 'where clause'
+[11-Aug-2026 10:38:55 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 10:38:55 UTC] Database error in list.php: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'damage_status' in 'where clause'
+[11-Aug-2026 10:42:39 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 10:43:08 UTC] Session active for user: 1 on /modules/items/view.php?id=118
+[11-Aug-2026 10:43:17 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 10:43:26 UTC] Session active for user: 1 on /modules/items/list.php?page=2&limit=10&limit=10
+[11-Aug-2026 10:43:30 UTC] Session active for user: 1 on /modules/items/list.php?page=3&limit=10&limit=10
+[11-Aug-2026 10:44:21 UTC] Session active for user: 1 on /modules/items/view.php?id=116
+[11-Aug-2026 10:44:42 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 10:44:47 UTC] Session active for user: 1 on /modules/items/list.php?search=ITM-000063&category=&brand=&type=&limit=10
+[11-Aug-2026 10:46:46 UTC] Session active for user: 1 on /modules/items/view.php?id=116
+[11-Aug-2026 10:50:39 UTC] Session active for user: 1 on /modules/items/view.php?id=116
+[11-Aug-2026 10:51:39 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 10:53:50 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 10:53:58 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 10:54:01 UTC] Session active for user: 1 on /modules/items/edit.php?id=119
+[11-Aug-2026 10:54:09 UTC] Session active for user: 1 on /modules/items/edit.php?id=119
+[11-Aug-2026 10:54:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bhsheadache/public_html/it-inventory.bhs-headache.org/includes/header.php:88) in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/edit.php on line 227
+[11-Aug-2026 10:57:13 UTC] Session active for user: 1 on /modules/items/edit.php?id=119
+[11-Aug-2026 10:57:18 UTC] Session active for user: 1 on /modules/items/edit.php?id=119
+[11-Aug-2026 10:57:19 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 10:57:24 UTC] Session active for user: 1 on /modules/items/edit.php?id=119
+[11-Aug-2026 10:57:29 UTC] Session active for user: 1 on /modules/items/edit.php?id=119
+[11-Aug-2026 10:57:30 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 10:57:35 UTC] Session active for user: 1 on /modules/items/edit.php?id=119
+[11-Aug-2026 10:57:49 UTC] Session active for user: 1 on /modules/items/edit.php?id=119
+[11-Aug-2026 10:57:49 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 10:57:53 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 10:57:53 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 10:57:54 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 10:57:54 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 10:57:58 UTC] Session active for user: 1 on /modules/items/edit.php?id=119
+[11-Aug-2026 10:58:07 UTC] Session active for user: 1 on /modules/items/edit.php?id=119
+[11-Aug-2026 10:58:08 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 10:58:15 UTC] Session active for user: 1 on /modules/items/edit.php?id=119
+[11-Aug-2026 10:58:21 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 10:58:24 UTC] Session active for user: 1 on /modules/items/edit.php?id=116
+[11-Aug-2026 11:03:17 UTC] Session active for user: 1 on /modules/items/list.php?page=3&limit=10&limit=10
+[11-Aug-2026 11:03:22 UTC] Session active for user: 1 on /modules/items/list.php?page=1&limit=10&limit=10
+[11-Aug-2026 11:03:27 UTC] Session active for user: 1 on /modules/items/edit.php?id=116
+[11-Aug-2026 11:04:35 UTC] Session active for user: 1 on /modules/items/edit.php?id=116
+[11-Aug-2026 11:04:40 UTC] Session active for user: 1 on /modules/items/edit.php?id=116
+[11-Aug-2026 11:04:41 UTC] Session active for user: 1 on /modules/items/list.php
+[11-Aug-2026 11:04:43 UTC] Session active for user: 1 on /modules/items/view.php?id=116
+[12-Aug-2026 04:49:13 UTC] Session active for user: 4 on /modules/items/list.php
+[12-Aug-2026 04:49:18 UTC] Session active for user: 4 on /modules/items/add.php
+[12-Aug-2026 04:51:44 UTC] Session active for user: 4 on /modules/items/list.php
+[12-Aug-2026 04:51:53 UTC] Session active for user: 4 on /modules/items/view.php?id=120
+[12-Aug-2026 04:51:55 UTC] Session active for user: 4 on /modules/items/list.php
+[12-Aug-2026 05:38:58 UTC] Session active for user: 1 on /modules/items/list.php
+[12-Aug-2026 05:39:01 UTC] Session active for user: 1 on /modules/items/list.php
+[12-Aug-2026 05:39:44 UTC] Session active for user: 1 on /modules/items/list.php
+[12-Aug-2026 06:09:04 UTC] Session active for user: 1 on /modules/items/list.php
+[12-Aug-2026 08:31:47 UTC] Session active for user: 4 on /modules/items/list.php
+[12-Aug-2026 09:37:01 UTC] Session active for user: 4 on /modules/items/list.php
+[12-Aug-2026 09:55:07 UTC] Session active for user: 4 on /modules/items/list.php
+[12-Aug-2026 09:55:25 UTC] Session active for user: 4 on /modules/items/list.php
+[12-Aug-2026 10:57:34 UTC] Session active for user: 1 on /modules/items/list.php
+[13-Aug-2026 03:49:23 UTC] Session active for user: 4 on /modules/items/list.php
+[13-Aug-2026 05:46:34 UTC] Session active for user: 4 on /modules/items/list.php
+[13-Aug-2026 10:53:10 UTC] Session active for user: 6 on /modules/items/list.php
+[13-Aug-2026 10:55:32 UTC] Session active for user: 6 on /modules/items/list.php?search=ITM-000069&category=&brand=&type=&limit=10
+[16-Aug-2026 03:55:36 UTC] Session active for user: 1 on /modules/items/list.php
+[17-Aug-2026 03:10:29 UTC] Session active for user: 4 on /modules/items/list.php
+[17-Aug-2026 03:10:47 UTC] Session active for user: 4 on /modules/items/list.php
+[17-Aug-2026 03:12:40 UTC] Session active for user: 4 on /modules/items/list.php
+[17-Aug-2026 03:56:35 UTC] Session active for user: 4 on /modules/items/list.php
+[17-Aug-2026 04:01:09 UTC] Session active for user: 6 on /modules/items/list.php
+[17-Aug-2026 04:01:39 UTC] Session active for user: 6 on /modules/items/add.php
+[17-Aug-2026 04:02:19 UTC] Session active for user: 4 on /modules/items/list.php
+[17-Aug-2026 04:02:42 UTC] Session active for user: 4 on /modules/items/list.php
+[17-Aug-2026 04:02:45 UTC] Session active for user: 6 on /modules/items/list.php
+[17-Aug-2026 04:02:48 UTC] Session active for user: 4 on /modules/items/add.php
+[17-Aug-2026 04:02:50 UTC] Session active for user: 6 on /modules/items/add.php
+[17-Aug-2026 04:04:51 UTC] Session active for user: 6 on /modules/items/list.php
+[17-Aug-2026 04:04:53 UTC] Session active for user: 6 on /modules/items/add.php
+[17-Aug-2026 04:06:37 UTC] Session active for user: 4 on /modules/items/list.php
+[17-Aug-2026 04:07:37 UTC] Session active for user: 4 on /modules/items/list.php
+[17-Aug-2026 04:15:03 UTC] Session active for user: 6 on /modules/items/list.php
+[17-Aug-2026 04:15:06 UTC] Session active for user: 6 on /modules/items/add.php
+[17-Aug-2026 04:56:59 UTC] Session active for user: 6 on /modules/items/list.php
+[17-Aug-2026 04:57:24 UTC] Session active for user: 6 on /modules/items/add.php
+[17-Aug-2026 04:58:33 UTC] Session active for user: 4 on /modules/items/list.php
+[17-Aug-2026 04:58:35 UTC] Session active for user: 4 on /modules/items/add.php
+[17-Aug-2026 04:59:29 UTC] Session active for user: 4 on /modules/items/list.php
+[17-Aug-2026 04:59:31 UTC] Session active for user: 4 on /modules/items/add.php
+[17-Aug-2026 05:01:21 UTC] Session active for user: 1 on /modules/items/list.php
+[17-Aug-2026 05:01:23 UTC] Session active for user: 1 on /modules/items/add.php
+[17-Aug-2026 05:01:44 UTC] Session active for user: 1 on /modules/items/list.php
+[17-Aug-2026 05:01:46 UTC] Session active for user: 1 on /modules/items/list.php
+[17-Aug-2026 05:01:47 UTC] Session active for user: 1 on /modules/items/add.php
+[17-Aug-2026 05:02:22 UTC] Session active for user: 1 on /modules/items/list.php
+[17-Aug-2026 05:03:09 UTC] Session active for user: 1 on /modules/items/list.php
+[17-Aug-2026 07:11:10 UTC] Session empty on: /modules/items/list.php
+[17-Aug-2026 07:11:10 UTC] Session empty on: /modules/items/list.php
+[17-Aug-2026 07:11:11 UTC] Session empty on: /modules/items/list.php
+[17-Aug-2026 07:11:11 UTC] Session empty on: /modules/items/list.php
+[17-Aug-2026 07:11:17 UTC] Session active for user: 1 on /modules/items/list.php
+[19-Aug-2026 04:15:19 UTC] Session active for user: 6 on /modules/items/list.php
+[19-Aug-2026 04:15:25 UTC] Session active for user: 6 on /modules/items/add.php
+[19-Aug-2026 04:16:21 UTC] Session active for user: 6 on /modules/items/list.php
+[19-Aug-2026 04:16:23 UTC] Session active for user: 6 on /modules/items/add.php
+[19-Aug-2026 04:32:15 UTC] Session empty on: /modules/items/add.php
+[19-Aug-2026 04:32:15 UTC] Auto-login in add.php for user: 1
+[19-Aug-2026 04:35:10 UTC] Session active for user: 4 on /modules/items/list.php
+[19-Aug-2026 04:35:19 UTC] Session empty on: /modules/items/list.php
+[19-Aug-2026 04:36:20 UTC] Session active for user: 4 on /modules/items/list.php
+[19-Aug-2026 04:36:22 UTC] Session active for user: 4 on /modules/items/add.php
+[19-Aug-2026 04:37:46 UTC] Session active for user: 6 on /modules/items/add.php
+[19-Aug-2026 04:38:46 UTC] Session active for user: 6 on /modules/items/list.php
+[19-Aug-2026 04:38:48 UTC] Session active for user: 6 on /modules/items/add.php
+[19-Aug-2026 04:41:14 UTC] Session active for user: 4 on /modules/items/list.php
+[19-Aug-2026 04:41:17 UTC] Session active for user: 4 on /modules/items/add.php
+[19-Aug-2026 04:45:34 UTC] Session active for user: 6 on /modules/items/list.php
+[19-Aug-2026 05:10:39 UTC] Session active for user: 4 on /modules/items/list.php
+[19-Aug-2026 05:10:50 UTC] Session active for user: 4 on /modules/items/view.php?id=123
+[19-Aug-2026 05:15:49 UTC] Session active for user: 4 on /modules/items/list.php
+[19-Aug-2026 05:16:08 UTC] Session active for user: 4 on /modules/items/list.php
+[19-Aug-2026 05:16:12 UTC] Session active for user: 4 on /modules/items/view.php?id=123
+[19-Aug-2026 05:16:19 UTC] Session active for user: 4 on /modules/items/edit.php?id=123
+[19-Aug-2026 05:16:43 UTC] Session active for user: 6 on /modules/items/list.php
+[19-Aug-2026 05:16:46 UTC] Session active for user: 6 on /modules/items/edit.php?id=123
+[19-Aug-2026 05:16:55 UTC] Session active for user: 6 on /modules/items/list.php
+[19-Aug-2026 05:16:58 UTC] Session active for user: 6 on /modules/items/edit.php?id=123
+[19-Aug-2026 05:17:15 UTC] Session active for user: 6 on /modules/items/edit.php?id=123
+[19-Aug-2026 05:17:15 UTC] Session active for user: 6 on /modules/items/list.php
+[19-Aug-2026 05:17:21 UTC] Session active for user: 6 on /modules/items/edit.php?id=123
+[19-Aug-2026 05:17:29 UTC] Session active for user: 6 on /modules/items/edit.php?id=123
+[19-Aug-2026 05:17:29 UTC] Session active for user: 6 on /modules/items/list.php
+[19-Aug-2026 05:17:45 UTC] Session active for user: 4 on /modules/items/list.php
+[19-Aug-2026 05:55:58 UTC] Session active for user: 1 on /modules/items/list.php
+[19-Aug-2026 06:12:19 UTC] Session active for user: 1 on /modules/items/list.php?limit=100&page=1
+[19-Aug-2026 08:05:54 UTC] Session empty on: /modules/items/add.php
+[19-Aug-2026 08:05:54 UTC] Auto-login in add.php for user: 1
+[19-Aug-2026 08:27:53 UTC] Session empty on: /modules/items/list.php
+[19-Aug-2026 08:27:53 UTC] Session empty on: /modules/items/list.php
+[19-Aug-2026 08:27:59 UTC] Session active for user: 6 on /modules/items/list.php
+[19-Aug-2026 08:28:06 UTC] Session active for user: 6 on /modules/items/view.php?id=123
+[19-Aug-2026 08:38:22 UTC] Session active for user: 6 on /modules/items/list.php
+[19-Aug-2026 08:38:24 UTC] Session active for user: 6 on /modules/items/view.php?id=123
+[19-Aug-2026 08:45:45 UTC] Session active for user: 6 on /modules/items/list.php
+[19-Aug-2026 08:45:56 UTC] Session active for user: 6 on /modules/items/edit.php?id=123
+[19-Aug-2026 09:15:28 UTC] Session active for user: 6 on /modules/items/edit.php?id=123
+[19-Aug-2026 09:15:29 UTC] Session active for user: 6 on /modules/items/list.php
+[19-Aug-2026 09:15:43 UTC] Session active for user: 6 on /modules/items/edit.php?id=123
+[19-Aug-2026 09:16:39 UTC] Session active for user: 6 on /modules/items/edit.php?id=123
+[19-Aug-2026 09:16:40 UTC] Session active for user: 6 on /modules/items/list.php
+[19-Aug-2026 09:16:52 UTC] Session active for user: 6 on /modules/items/list.php
+[19-Aug-2026 09:18:36 UTC] Session active for user: 6 on /modules/items/edit.php?id=123
+[19-Aug-2026 09:19:17 UTC] Session active for user: 6 on /modules/items/edit.php?id=123
+[19-Aug-2026 09:19:17 UTC] Session active for user: 6 on /modules/items/list.php
+[19-Aug-2026 09:19:20 UTC] Session active for user: 6 on /modules/items/edit.php?id=123
+[19-Aug-2026 10:36:03 UTC] Session empty on: /modules/items/add.php
+[19-Aug-2026 10:36:03 UTC] Auto-login in add.php for user: 1
+[19-Aug-2026 10:36:03 UTC] Session empty on: /modules/items/add.php
+[19-Aug-2026 10:36:03 UTC] Auto-login in add.php for user: 1
+[20-Aug-2026 02:29:11 UTC] Session empty on: /modules/items/add.php
+[20-Aug-2026 02:29:11 UTC] Auto-login in add.php for user: 1
+[20-Aug-2026 02:38:35 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 02:38:38 UTC] Session active for user: 1 on /modules/items/edit.php?id=123
+[20-Aug-2026 02:43:40 UTC] Session empty on: /modules/items/view.php?id=123
+[20-Aug-2026 02:43:40 UTC] Session empty on: /modules/items/edit.php?id=123
+[20-Aug-2026 02:54:15 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 02:54:18 UTC] Session active for user: 1 on /modules/items/edit.php?id=123
+[20-Aug-2026 02:54:44 UTC] Session active for user: 1 on /modules/items/edit.php?id=123
+[20-Aug-2026 02:54:45 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 02:54:49 UTC] Session active for user: 1 on /modules/items/edit.php?id=123
+[20-Aug-2026 03:01:53 UTC] Session active for user: 1 on /modules/items/edit.php?id=123
+[20-Aug-2026 03:02:17 UTC] Session active for user: 1 on /modules/items/edit.php?id=123
+[20-Aug-2026 03:02:17 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:02:21 UTC] Session active for user: 1 on /modules/items/edit.php?id=123
+[20-Aug-2026 03:08:30 UTC] Session active for user: 1 on /modules/items/edit.php?id=123
+[20-Aug-2026 03:08:33 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:08:36 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:08:38 UTC] Session active for user: 1 on /modules/items/edit.php?id=123
+[20-Aug-2026 03:08:46 UTC] Session active for user: 1 on /modules/items/edit.php?id=123
+[20-Aug-2026 03:08:46 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:08:52 UTC] Session active for user: 1 on /modules/items/edit.php?id=123
+[20-Aug-2026 03:09:25 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:14:31 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:14:33 UTC] Session active for user: 1 on /modules/items/edit.php?id=123
+[20-Aug-2026 03:14:39 UTC] Session active for user: 1 on /modules/items/edit.php
+[20-Aug-2026 03:14:40 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:14:42 UTC] Session active for user: 1 on /modules/items/view.php?id=123
+[20-Aug-2026 03:14:53 UTC] Session active for user: 1 on /modules/items/edit.php?id=123
+[20-Aug-2026 03:15:40 UTC] Session active for user: 1 on /modules/items/edit.php
+[20-Aug-2026 03:15:40 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:15:45 UTC] Session active for user: 1 on /modules/items/edit.php?id=123
+[20-Aug-2026 03:15:52 UTC] Session active for user: 1 on /modules/items/edit.php
+[20-Aug-2026 03:15:52 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:15:55 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:15:59 UTC] Session active for user: 1 on /modules/items/edit.php?id=123
+[20-Aug-2026 03:22:02 UTC] Session active for user: 1 on /modules/items/edit.php?id=123
+[20-Aug-2026 03:22:08 UTC] Session active for user: 1 on /modules/items/edit.php
+[20-Aug-2026 03:22:08 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:22:11 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:22:11 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:22:12 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:22:13 UTC] Session active for user: 1 on /modules/items/edit.php?id=123
+[20-Aug-2026 03:22:31 UTC] Session active for user: 1 on /modules/items/edit.php
+[20-Aug-2026 03:22:31 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:22:33 UTC] Session active for user: 1 on /modules/items/edit.php?id=123
+[20-Aug-2026 03:23:31 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:23:35 UTC] Session active for user: 1 on /modules/items/add.php
+[20-Aug-2026 03:24:27 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:30:56 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:30:58 UTC] Session active for user: 1 on /modules/items/edit.php?id=123
+[20-Aug-2026 03:31:15 UTC] Session active for user: 1 on /modules/items/edit.php
+[20-Aug-2026 03:31:15 UTC] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, string given in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/edit.php:72
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/edit.php(72): array_map()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/items/edit.php on line 72
+[20-Aug-2026 03:33:31 UTC] Session active for user: 1 on /modules/items/edit.php
+[20-Aug-2026 03:33:33 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:33:35 UTC] Session active for user: 1 on /modules/items/edit.php?id=123
+[20-Aug-2026 03:33:45 UTC] Session active for user: 1 on /modules/items/edit.php
+[20-Aug-2026 03:33:45 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:33:48 UTC] Session active for user: 1 on /modules/items/view.php?id=123
+[20-Aug-2026 03:33:56 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:39:05 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:39:07 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:39:16 UTC] Session active for user: 1 on /modules/items/view.php?id=123
+[20-Aug-2026 03:39:24 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:42:01 UTC] Session active for user: 1 on /modules/items/add.php
+[20-Aug-2026 03:42:29 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:42:29 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:42:29 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:42:32 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:42:38 UTC] Session active for user: 1 on /modules/items/add.php
+[20-Aug-2026 03:42:42 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:42:45 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:42:45 UTC] Session active for user: 1 on /modules/items/view.php?id=123
+[20-Aug-2026 03:42:52 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:42:55 UTC] Session active for user: 1 on /modules/items/edit.php?id=123
+[20-Aug-2026 03:43:02 UTC] Session active for user: 1 on /modules/items/edit.php
+[20-Aug-2026 03:43:02 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:43:21 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:45:13 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:45:16 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:45:20 UTC] Session active for user: 1 on /modules/items/view.php?id=123
+[20-Aug-2026 03:45:36 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:47:48 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:48:43 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:48:45 UTC] Session active for user: 1 on /modules/items/edit.php?id=123
+[20-Aug-2026 03:48:57 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:59:30 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:59:31 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 03:59:37 UTC] Session active for user: 1 on /modules/items/list.php
+[20-Aug-2026 04:05:11 UTC] Session active for user: 6 on /modules/items/list.php
+[20-Aug-2026 04:09:48 UTC] Session active for user: 4 on /modules/items/list.php
+[20-Aug-2026 04:09:56 UTC] Session active for user: 4 on /modules/items/add.php
+[20-Aug-2026 04:11:11 UTC] Session active for user: 4 on /modules/items/list.php
+[20-Aug-2026 10:18:12 UTC] Session active for user: 4 on /modules/items/list.php
+[23-Aug-2026 02:56:32 UTC] Session empty on: /modules/items/add.php
+[23-Aug-2026 02:56:32 UTC] Auto-login in add.php for user: 1
+[23-Aug-2026 03:51:22 UTC] Session active for user: 1 on /modules/items/list.php
+[23-Aug-2026 03:51:23 UTC] Session active for user: 1 on /modules/items/list.php
+[23-Aug-2026 03:51:31 UTC] Session active for user: 1 on /modules/items/list.php
+[23-Aug-2026 03:51:44 UTC] Session active for user: 1 on /modules/items/list.php
+[23-Aug-2026 04:20:30 UTC] Session active for user: 1 on /modules/items/list.php
+[23-Aug-2026 04:20:52 UTC] Session active for user: 1 on /modules/items/list.php
+[23-Aug-2026 08:31:47 UTC] Session active for user: 6 on /modules/items/list.php
+[23-Aug-2026 08:32:04 UTC] Session active for user: 6 on /modules/items/add.php
+[23-Aug-2026 08:34:14 UTC] Session active for user: 6 on /modules/items/list.php
+[23-Aug-2026 08:34:17 UTC] Session active for user: 6 on /modules/items/add.php
+[23-Aug-2026 09:08:25 UTC] Session active for user: 1 on /modules/items/list.php
+[23-Aug-2026 09:08:28 UTC] Session active for user: 1 on /modules/items/add.php
+[23-Aug-2026 10:52:45 UTC] Session active for user: 1 on /modules/items/list.php
+[23-Aug-2026 10:52:51 UTC] Session active for user: 1 on /modules/items/list.php
+[23-Aug-2026 10:53:18 UTC] Session active for user: 1 on /modules/items/list.php
+[23-Aug-2026 10:53:21 UTC] Session active for user: 1 on /modules/items/list.php
+[23-Aug-2026 10:53:22 UTC] Session active for user: 1 on /modules/items/list.php
+[23-Aug-2026 10:53:33 UTC] Session active for user: 1 on /modules/items/add.php
+[23-Aug-2026 10:55:28 UTC] Session active for user: 1 on /modules/items/add.php
+[23-Aug-2026 10:57:19 UTC] Session active for user: 1 on /modules/items/list.php
+[23-Aug-2026 11:32:03 UTC] Session active for user: 1 on /modules/items/list.php
+[23-Aug-2026 11:32:07 UTC] Session active for user: 1 on /modules/items/add.php
+[23-Aug-2026 11:37:01 UTC] Session active for user: 1 on /modules/items/list.php
+[23-Aug-2026 11:38:44 UTC] Session active for user: 1 on /modules/items/list.php
+[23-Aug-2026 11:38:56 UTC] Session active for user: 1 on /modules/items/edit.php?id=124
+[23-Aug-2026 11:39:09 UTC] Session active for user: 1 on /modules/items/edit.php
+[23-Aug-2026 11:39:09 UTC] Session active for user: 1 on /modules/items/list.php
+[23-Aug-2026 11:39:14 UTC] Session active for user: 1 on /modules/items/edit.php?id=125
+[23-Aug-2026 11:39:28 UTC] Session active for user: 1 on /modules/items/edit.php
+[23-Aug-2026 11:39:28 UTC] Session active for user: 1 on /modules/items/list.php
+[23-Aug-2026 11:39:30 UTC] Session active for user: 1 on /modules/items/edit.php?id=126
+[23-Aug-2026 11:39:38 UTC] Session active for user: 1 on /modules/items/edit.php
+[23-Aug-2026 11:39:39 UTC] Session active for user: 1 on /modules/items/list.php
+[23-Aug-2026 11:39:48 UTC] Session active for user: 1 on /modules/items/list.php
+[24-Aug-2026 03:51:00 UTC] Session active for user: 6 on /modules/items/list.php
+[24-Aug-2026 03:51:08 UTC] Session active for user: 6 on /modules/items/add.php
+[24-Aug-2026 03:52:09 UTC] Session active for user: 6 on /modules/items/add.php
+[24-Aug-2026 03:59:15 UTC] Session active for user: 6 on /modules/items/list.php
+[24-Aug-2026 04:15:28 UTC] Session active for user: 6 on /modules/items/list.php
+[24-Aug-2026 04:15:44 UTC] Session active for user: 6 on /modules/items/list.php
+[24-Aug-2026 04:15:51 UTC] Session active for user: 6 on /modules/items/edit.php?id=127
+[24-Aug-2026 04:21:48 UTC] Session active for user: 6 on /modules/items/list.php
+[24-Aug-2026 04:22:10 UTC] Session active for user: 6 on /modules/items/edit.php?id=127
+[24-Aug-2026 04:22:26 UTC] Session active for user: 6 on /modules/items/list.php
+[24-Aug-2026 04:22:40 UTC] Session active for user: 4 on /modules/items/list.php
+[24-Aug-2026 04:22:48 UTC] Session active for user: 4 on /modules/items/add.php
+[24-Aug-2026 04:23:25 UTC] Session active for user: 4 on /modules/items/list.php
+[24-Aug-2026 04:23:58 UTC] Session active for user: 4 on /modules/items/view.php?id=127
+[24-Aug-2026 04:55:56 UTC] Session empty on: /modules/items/add.php
+[24-Aug-2026 04:55:56 UTC] Auto-login in add.php for user: 1
+[27-Aug-2026 04:38:10 UTC] Session empty on: /modules/items/add.php
+[27-Aug-2026 04:38:10 UTC] Auto-login in add.php for user: 1
+[27-Aug-2026 04:45:05 UTC] Session active for user: 1 on /modules/items/add.php
+[30-Aug-2026 02:46:14 UTC] Session empty on: /modules/items/add.php
+[30-Aug-2026 02:46:14 UTC] Auto-login in add.php for user: 1
+[30-Aug-2026 03:31:04 UTC] Session active for user: 6 on /modules/items/list.php
+[30-Aug-2026 03:58:24 UTC] Session active for user: 6 on /modules/items/list.php
+[30-Aug-2026 05:15:59 UTC] Session empty on: /modules/items/add.php
+[30-Aug-2026 05:15:59 UTC] Auto-login in add.php for user: 1
+[30-Aug-2026 05:19:36 UTC] Session active for user: 1 on /modules/items/add.php
+[30-Aug-2026 06:46:54 UTC] Session active for user: 6 on /modules/items/list.php
+[30-Aug-2026 06:47:41 UTC] Session active for user: 6 on /modules/items/list.php
+[30-Aug-2026 07:16:13 UTC] Session active for user: 6 on /modules/items/list.php
+[31-Aug-2026 03:03:05 UTC] Session active for user: 1 on /modules/items/list.php
+[31-Aug-2026 03:17:57 UTC] Session active for user: 4 on /modules/items/list.php
+[01-Sep-2026 02:44:14 UTC] Session empty on: /modules/items/add.php
+[01-Sep-2026 02:44:14 UTC] Auto-login in add.php for user: 1
+[02-Sep-2026 06:13:19 UTC] Session empty on: /modules/items/add.php
+[02-Sep-2026 06:13:19 UTC] Auto-login in add.php for user: 1
+[02-Sep-2026 07:39:47 UTC] Session empty on: /modules/items/add.php
+[02-Sep-2026 07:39:47 UTC] Auto-login in add.php for user: 1
+[13-Sep-2026 08:59:17 UTC] Session empty on: /modules/items/add.php
+[13-Sep-2026 08:59:17 UTC] Auto-login in add.php for user: 1
+[13-Sep-2026 08:59:17 UTC] Session empty on: /modules/items/add.php
+[13-Sep-2026 08:59:17 UTC] Auto-login in add.php for user: 1
+[16-Sep-2026 08:50:06 UTC] Session active for user: 4 on /modules/items/list.php
+[16-Sep-2026 08:50:20 UTC] Session active for user: 4 on /modules/items/edit.php?id=127
+[16-Sep-2026 11:55:05 UTC] Session empty on: /modules/items/add.php
+[16-Sep-2026 11:55:05 UTC] Auto-login in add.php for user: 1
+[17-Sep-2026 03:12:00 UTC] Session active for user: 6 on /modules/items/list.php
+[17-Sep-2026 03:46:12 UTC] Session active for user: 4 on /modules/items/list.php
+[17-Sep-2026 04:07:56 UTC] Session active for user: 6 on /modules/items/list.php
+[17-Sep-2026 05:42:50 UTC] Session active for user: 4 on /modules/items/list.php
+[17-Sep-2026 05:43:25 UTC] Session active for user: 4 on /modules/items/list.php
+[18-Sep-2026 10:46:44 UTC] Session empty on: /modules/items/add.php
+[18-Sep-2026 10:46:44 UTC] Auto-login in add.php for user: 1
+[18-Sep-2026 10:48:11 UTC] Session active for user: 1 on /modules/items/add.php
+[21-Sep-2026 03:12:32 UTC] Session active for user: 1 on /modules/items/list.php
+[21-Sep-2026 03:26:50 UTC] Session active for user: 1 on /modules/items/list.php
+[21-Sep-2026 03:30:22 UTC] Session active for user: 4 on /modules/items/list.php
+[21-Sep-2026 03:30:39 UTC] Session active for user: 4 on /modules/items/view.php?id=131
+[21-Sep-2026 03:35:47 UTC] Session active for user: 4 on /modules/items/list.php
+[21-Sep-2026 03:35:58 UTC] Session active for user: 4 on /modules/items/edit.php?id=131
+[21-Sep-2026 03:37:41 UTC] Session active for user: 4 on /modules/items/list.php
+[21-Sep-2026 03:40:45 UTC] Session active for user: 4 on /modules/items/list.php
+[21-Sep-2026 03:41:00 UTC] Session active for user: 4 on /modules/items/edit.php?id=131
+[21-Sep-2026 03:46:47 UTC] Session active for user: 4 on /modules/items/list.php
+[22-Sep-2026 06:52:52 UTC] Session empty on: /modules/items/add.php
+[22-Sep-2026 06:52:52 UTC] Auto-login in add.php for user: 1
+[22-Sep-2026 10:37:50 UTC] Session empty on: /modules/items/add.php
+[22-Sep-2026 10:37:50 UTC] Auto-login in add.php for user: 1
