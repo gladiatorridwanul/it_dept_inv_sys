@@ -1,0 +1,18 @@
+2026-06-01 09:09:33 - Request started
+2026-06-01 09:09:33 - Database loaded
+2026-06-01 09:09:33 - Session started, user_id: 1
+2026-06-01 09:09:33 - Data: name=RAM DDR4 16GB, category=48, price=4500
+2026-06-01 09:09:33 - Generated item code: RAM-00010
+2026-06-01 09:09:33 - Inserted item, ID: 24
+2026-06-01 09:09:33 - Added serial: S123
+2026-06-01 09:09:33 - Added serial: S124
+2026-06-01 09:09:33 - ERROR: There is no active transaction
+2026-06-01 09:10:32 - Request started
+2026-06-01 09:10:32 - Database loaded
+2026-06-01 09:10:32 - Session started, user_id: 1
+2026-06-01 09:10:32 - Data: name=RAM DDR4 16GB, category=48, price=4500
+2026-06-01 09:10:32 - Generated item code: RAM-00011
+2026-06-01 09:10:32 - Inserted item, ID: 25
+2026-06-01 09:10:32 - Added serial: S123
+2026-06-01 09:10:32 - Added serial: S124
+2026-06-01 09:10:32 - ERROR: There is no active transaction

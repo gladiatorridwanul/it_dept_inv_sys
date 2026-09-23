@@ -1,0 +1,25 @@
+[01-Jun-2026 08:42:26 UTC] PHP Warning:  require_once(../../config/database.php): Failed to open stream: No such file or directory in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/stock/ajax/add_item_ajax.php on line 2
+[01-Jun-2026 08:42:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/database.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/stock/ajax/add_item_ajax.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/stock/ajax/add_item_ajax.php on line 2
+[01-Jun-2026 08:44:07 UTC] PHP Warning:  require_once(../../config/database.php): Failed to open stream: No such file or directory in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/stock/ajax/get_items_ajax.php on line 2
+[01-Jun-2026 08:44:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/database.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/stock/ajax/get_items_ajax.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/stock/ajax/get_items_ajax.php on line 2
+[01-Jun-2026 08:45:11 UTC] PHP Warning:  require_once(../../config/database.php): Failed to open stream: No such file or directory in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/stock/ajax/add_item_ajax.php on line 2
+[01-Jun-2026 08:45:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/database.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/stock/ajax/add_item_ajax.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/stock/ajax/add_item_ajax.php on line 2
+[01-Jun-2026 08:45:19 UTC] PHP Warning:  require_once(../../config/database.php): Failed to open stream: No such file or directory in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/stock/ajax/add_item_ajax.php on line 2
+[01-Jun-2026 08:45:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/database.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/stock/ajax/add_item_ajax.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/stock/ajax/add_item_ajax.php on line 2
+[01-Jun-2026 08:58:23 UTC] PHP Fatal error:  Uncaught PDOException: There is no active transaction in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/stock/ajax/add_item_ajax.php:127
+Stack trace:
+#0 /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/stock/ajax/add_item_ajax.php(127): PDO->rollBack()
+#1 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/stock/ajax/add_item_ajax.php on line 127

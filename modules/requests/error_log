@@ -1,0 +1,77 @@
+[26-May-2026 17:23:33 UTC] PHP Fatal error:  Cannot redeclare function generateNumber() (previously declared in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/database.php:49) in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/includes/request_functions.php on line 4
+[26-May-2026 17:23:36 UTC] PHP Fatal error:  Cannot redeclare function generateNumber() (previously declared in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/database.php:49) in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/includes/request_functions.php on line 4
+[26-May-2026 17:23:37 UTC] PHP Fatal error:  Cannot redeclare function generateNumber() (previously declared in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/database.php:49) in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/includes/request_functions.php on line 4
+[26-May-2026 17:23:57 UTC] PHP Fatal error:  Cannot redeclare function generateNumber() (previously declared in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/database.php:49) in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/includes/request_functions.php on line 4
+[26-May-2026 17:25:13 UTC] PHP Fatal error:  Cannot redeclare function generateNumber() (previously declared in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/config/database.php:49) in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/includes/request_functions.php on line 4
+[26-May-2026 19:16:27 UTC] PHP Warning:  Undefined variable $req in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/requests/all_requests.php on line 343
+[26-May-2026 19:16:27 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/requests/all_requests.php on line 343
+[26-May-2026 19:16:27 UTC] PHP Warning:  Undefined variable $req in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/requests/all_requests.php on line 344
+[26-May-2026 19:16:27 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/requests/all_requests.php on line 344
+[26-May-2026 19:42:14 UTC] PHP Warning:  Undefined variable $req in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/requests/all_requests.php on line 402
+[26-May-2026 19:42:14 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/requests/all_requests.php on line 402
+[26-May-2026 19:42:14 UTC] PHP Warning:  Undefined variable $req in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/requests/all_requests.php on line 403
+[26-May-2026 19:42:14 UTC] PHP Warning:  Trying to access array offset on null in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/requests/all_requests.php on line 403
+[02-Jun-2026 05:15:53 UTC] PHP Warning:  Undefined array key "status" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/requests/edit_request.php on line 132
+[02-Jun-2026 05:15:53 UTC] PHP Warning:  Undefined array key "priority" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/requests/edit_request.php on line 133
+[02-Jun-2026 05:15:53 UTC] PHP Warning:  Undefined array key "estimated_completion_date" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/requests/edit_request.php on line 134
+[02-Jun-2026 05:15:53 UTC] PHP Warning:  Undefined array key "resolution_notes" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/requests/edit_request.php on line 135
+[02-Jun-2026 07:11:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getRequestTypeDisplayFromDB() in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/requests/view_request.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/requests/view_request.php on line 231
+[02-Jun-2026 11:46:47 UTC] PHP Warning:  Undefined array key "status" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/requests/edit_request.php on line 132
+[02-Jun-2026 11:46:47 UTC] PHP Warning:  Undefined array key "priority" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/requests/edit_request.php on line 133
+[02-Jun-2026 11:46:47 UTC] PHP Warning:  Undefined array key "estimated_completion_date" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/requests/edit_request.php on line 134
+[02-Jun-2026 11:46:47 UTC] PHP Warning:  Undefined array key "resolution_notes" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/requests/edit_request.php on line 135
+[02-Jun-2026 11:49:59 UTC] PHP Warning:  Undefined array key "status" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/requests/edit_request.php on line 132
+[02-Jun-2026 11:49:59 UTC] PHP Warning:  Undefined array key "priority" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/requests/edit_request.php on line 133
+[02-Jun-2026 11:49:59 UTC] PHP Warning:  Undefined array key "estimated_completion_date" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/requests/edit_request.php on line 134
+[02-Jun-2026 11:49:59 UTC] PHP Warning:  Undefined array key "resolution_notes" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/requests/edit_request.php on line 135
+[02-Jun-2026 11:50:16 UTC] PHP Warning:  Undefined array key "status" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/requests/edit_request.php on line 132
+[02-Jun-2026 11:50:16 UTC] PHP Warning:  Undefined array key "priority" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/requests/edit_request.php on line 133
+[02-Jun-2026 11:50:16 UTC] PHP Warning:  Undefined array key "estimated_completion_date" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/requests/edit_request.php on line 134
+[02-Jun-2026 11:50:16 UTC] PHP Warning:  Undefined array key "resolution_notes" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/requests/edit_request.php on line 135
+[02-Jun-2026 11:50:36 UTC] PHP Warning:  Undefined array key "status" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/requests/edit_request.php on line 132
+[02-Jun-2026 11:50:36 UTC] PHP Warning:  Undefined array key "priority" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/requests/edit_request.php on line 133
+[02-Jun-2026 11:50:36 UTC] PHP Warning:  Undefined array key "estimated_completion_date" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/requests/edit_request.php on line 134
+[02-Jun-2026 11:50:36 UTC] PHP Warning:  Undefined array key "resolution_notes" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/requests/edit_request.php on line 135
+[02-Jun-2026 12:10:31 UTC] PHP Warning:  Undefined array key "allocation_date" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/requests/view_request.php on line 986
+[02-Jun-2026 12:10:48 UTC] PHP Warning:  Undefined array key "allocation_date" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/requests/view_request.php on line 986
+[02-Jun-2026 12:13:23 UTC] PHP Warning:  Undefined array key "allocation_date" in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/requests/view_request.php on line 986
+[23-Jul-2026 08:48:21 UTC] Session empty on: /modules/requests/all_requests.php
+[24-Jul-2026 10:33:09 UTC] Session active for user: 1
+[26-Jul-2026 03:07:08 UTC] Session active for user: 4
+[26-Jul-2026 03:29:34 UTC] Session active for user: 4
+[26-Jul-2026 05:50:31 UTC] Session empty on: /modules/requests/all_requests.php
+[28-Jul-2026 03:14:40 UTC] Session active for user: 4
+[04-Aug-2026 07:50:24 UTC] Session active for user: 1 at /modules/requests/all_requests.php
+[06-Aug-2026 11:36:37 UTC] Session active for user: 4 on /modules/requests/all_requests.php
+[10-Aug-2026 03:17:24 UTC] Session active for user: 4 on /modules/requests/all_requests.php
+[11-Aug-2026 04:10:51 UTC] Session active for user: 1 on /modules/requests/all_requests.php
+[11-Aug-2026 04:58:41 UTC] Session active for user: 4 on /modules/requests/all_requests.php
+[11-Aug-2026 04:58:56 UTC] Session active for user: 4 on /modules/requests/view_request.php?id=70
+[11-Aug-2026 05:00:12 UTC] Session active for user: 4 on /modules/requests/all_requests.php
+[11-Aug-2026 05:00:20 UTC] Session active for user: 4 on /modules/requests/view_request.php?id=69
+[11-Aug-2026 05:46:43 UTC] Session active for user: 1 on /modules/requests/all_requests.php
+[11-Aug-2026 05:46:46 UTC] Session active for user: 5 on /modules/requests/all_requests.php
+[11-Aug-2026 05:46:57 UTC] Session active for user: 5 on /modules/requests/edit_request.php?id=70
+[11-Aug-2026 09:05:29 UTC] Session active for user: 4 on /modules/requests/all_requests.php
+[12-Aug-2026 09:56:50 UTC] Session active for user: 4 on /modules/requests/all_requests.php
+[12-Aug-2026 10:06:42 UTC] Session active for user: 4 on /modules/requests/all_requests.php
+[12-Aug-2026 10:06:47 UTC] Session active for user: 4 on /modules/requests/edit_request.php?id=70
+[12-Aug-2026 10:07:13 UTC] Session active for user: 4 on /modules/requests/edit_request.php?id=70
+[12-Aug-2026 10:07:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bhsheadache/public_html/it-inventory.bhs-headache.org/includes/header.php:88) in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/requests/edit_request.php on line 349
+[12-Aug-2026 10:07:20 UTC] Session active for user: 4 on /modules/requests/all_requests.php
+[12-Aug-2026 10:07:29 UTC] Session active for user: 4 on /modules/requests/view_request.php?id=70
+[12-Aug-2026 10:08:08 UTC] Session active for user: 4 on /modules/requests/view_request.php?id=70
+[12-Aug-2026 10:08:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bhsheadache/public_html/it-inventory.bhs-headache.org/includes/header.php:88) in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/requests/view_request.php on line 225
+[12-Aug-2026 10:08:40 UTC] Session active for user: 4 on /modules/requests/all_requests.php
+[12-Aug-2026 10:59:48 UTC] Session active for user: 1 on /modules/requests/all_requests.php
+[13-Aug-2026 11:19:31 UTC] Session active for user: 6 on /modules/requests/all_requests.php
+[13-Aug-2026 11:29:00 UTC] Session active for user: 6 on /modules/requests/all_requests.php
+[13-Aug-2026 11:29:06 UTC] Session active for user: 6 on /modules/requests/edit_request.php?id=72
+[13-Aug-2026 11:29:45 UTC] Session active for user: 6 on /modules/requests/edit_request.php?id=72
+[13-Aug-2026 11:29:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bhsheadache/public_html/it-inventory.bhs-headache.org/includes/header.php:88) in /home/bhsheadache/public_html/it-inventory.bhs-headache.org/modules/requests/edit_request.php on line 349
+[16-Aug-2026 03:56:06 UTC] Session active for user: 1 on /modules/requests/all_requests.php
+[21-Sep-2026 03:33:45 UTC] Session active for user: 4 on /modules/requests/all_requests.php
+[21-Sep-2026 03:33:49 UTC] Session active for user: 4 on /modules/requests/all_requests.php
